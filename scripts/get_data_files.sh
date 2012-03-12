@@ -1,5 +1,7 @@
 datapath=~/Documents/CompSci/March_Madness/data
-
+dbhost="localhost"
+dbuser="root"
+dbpass="NaClH2O"
 
 mkdir "$datapath/team_data"
 mkdir "$datapath/player_data"

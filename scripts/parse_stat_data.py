@@ -7,7 +7,7 @@ import re
 #type of data being saved
 def SaveToFile(data, num_col, year,data_type):
 	#print data
-	filename = "%s%s_%s.csv" % ("../../stat_csv/",data_type,year)
+	filename = "%s%s_%s.csv" % ("../../stat_csv/broken",data_type,year)
 	i = 0
 	f = open(filename,'w')
 	while(i < len(data)):
