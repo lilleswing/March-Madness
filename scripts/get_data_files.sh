@@ -1,5 +1,5 @@
 datapath=~/Documents/CompSci/March_Madness/data
-dbhost="localhost"
+dbhost="192.168.1.107"
 dbuser="root"
 dbpass="NaClH2O"
 
@@ -32,5 +32,4 @@ python parse_stat_data.py "$datapath/stat_data/height" 9 "height"
 python parse_stat_data.py "$datapath/stat_data/teamstats" 7 "teamstats"
 python parse_stat_data.py "$datapath/stat_data/summary" 6 "summary"
 python parse_stat_data.py "$datapath/stat_data/stats" 11 "stats"
-
-
+python stat_zipper.py "$datapath/stat_csv/broken"
