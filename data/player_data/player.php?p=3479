@@ -1,0 +1,166 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN"
+"http://www.w3.org/TR/html4/loose.dtd">
+<HTML>
+<HEAD>
+<TITLE>Advanced stats profile for Josh Alexander</TITLE>
+    <script type="text/javascript">
+      WebFontConfig = {
+        google: { families: [ 'PT Sans', 'PT Sans Narrow'] }
+      };
+      (function() {
+        var wf = document.createElement('script');
+        wf.src = ('https:' == document.location.protocol ? 'https' : 'http') +
+            '://ajax.googleapis.com/ajax/libs/webfont/1/webfont.js';
+        wf.type = 'text/javascript';
+        wf.async = 'true';
+        var s = document.getElementsByTagName('script')[0];
+        s.parentNode.insertBefore(wf, s);
+      })();
+    </script>
+ 
+<link rel="Shortcut Icon" type="image/ico" href="/assets/favicon.ico" /> 
+
+<link rel="stylesheet" href="css/blueprint/screen.css" type="text/css" media="screen, projection">
+<!-- <link rel="stylesheet" href="css/blueprint/print.css" type="text/css" media="print"> -->
+<LINK REL=stylesheet TYPE="text/css" HREF="css/rate.css?1330841405">
+<LINK REL=stylesheet TYPE="text/css" HREF="css/navbar.css">
+
+</HEAD>
+
+<script type="text/javascript">
+var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
+document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
+</script>
+<script type="text/javascript">
+try {
+var pageTracker = _gat._getTracker("UA-11558853-1");
+pageTracker._trackPageview();
+} catch(err) {}</script>
+
+<body>
+
+   <div id="wrapper">
+   <div id="container">
+
+
+	
+<div id="logged-in">
+Logged in as: lilleswing@gmail.com | subscription expires 3/6/13 | <a href="index.php?logout">Logout</a> | <a href="change.php">Change Password</a>
+      <div id="logo-header">
+    	  <img name="header" src="/assets/header.jpg" width="1000" height="35" border="0" usemap="#header" /><map name="header" />
+	      <area shape="rect" coords="941,2,966,27" href="http://twitter.com/kenpomeroy" title="Follow me on twitter" alt="Follow me on twitter" />
+	      </map>
+      </div> <!-- end logo-header div -->
+
+      <div id="nav">
+	       <ul>
+			  <li class="ratings"><a href="http://kenpom.com" title="Ratings"></a></li>		   
+			  <li class="blog"><a href="http://kenpom.com/blog" title="Blog"></a></li>		   
+			  <li class="fourfactors"><a href="http://kenpom.com/stats.php" title="Four Factors"></a></li>		   
+			  <li class="teamstats"><a href="http://kenpom.com/teamstats.php" title="Team Stats"></a></li>		   
+			  <li class="playerstats"><a href="http://kenpom.com/playerstats.php" title="Player Stats"></a></li>		   
+			  <li class="fanmatch"><a href="http://kenpom.com/fanmatch.php" title="FanMatch"></a></li>		   
+			  <li class="contact"><a href="http://kenpom.com/blog/index.php/weblog/how_to_contact_me/" title="Contact"></a></li>		   
+		   </ul>
+	  </div>
+
+	  <!-- The content header -->
+      <div id="content-header">
+<h3>Advanced stats profile for Josh Alexander</h3>
+<div id="players">
+
+<table id="player-table">
+	<thead>
+		<tr>
+			<th scope="col">&nbsp;</th>
+			<th scope="col">&nbsp;</th>
+			<th scope="col">Ht</th>
+			<th scope="col">Wt</th>
+			<th scope="col">Yr</th>
+			<th scope="col">G</th>
+            <th scope="col" class="divide">%Min</th>
+            <th scope="col" class="divide">ORtg</th>
+            <th scope="col">%Poss</th>
+            <th scope="col">%Shots</th>
+            <th scope="col" class="divide">eFG%</th>
+            <th scope="col">TS%</th>
+            <th scope="col" class="divide">OR%</th>
+            <th scope="col">DR%</th>
+            <th scope="col" class="divide">ARate</th>
+            <th scope="col">TORate</th>
+            <th scope="col" class="divide">Blk%</th>
+            <th scope="col">Stl%</th>
+            <th scope="col" class="divide">FC/40</th>
+            <th scope="col">FD/40</th>
+            <th scope="col">FTRate</th>
+			<th scope="col" class="divide">FTM-FTA</th>
+			<th scope="col">Pct</th>
+			<th scope="col" class="divide">2PM-2PA</th>
+			<th scope="col">Pct</th>
+			<th scope="col" class="divide">3PM-3PA</th>
+			<th scope="col">Pct</th>
+		</tr>
+	</thead>
+	<tbody>
+
+</tr>
+</tr>
+</tr>
+<tr class="comps-player"><td>2009</td><td style="text-align:left"><a href="/team.php?team=Stephen F. Austin&y=2009"><b>Stephen F. Austin</b></a> <span class="seed">14</span><br /><span class="plrank">National Rank</span></td><td>6-4</td><td>210</td><td>Sr</td><td>31<br /></td>
+<td class="divide">81.2<br /><span class="plrank">257</span></td><td class="divide">104.6</td><td>23.1</td><td>24.9<br /><span class="plrank">474</span></td><td class="divide">49.0</td><td>53.3</td><td class="divide">8.1</td><td>10.5</td><td class="divide">5.8</td><td>13.0<br /><span class="plrank">151</span></td><td class="divide">1.6</td><td>2.1</td><td class="divide">2.7</td><td>4.0</td><td>31.1</td><td class="divide">88-113</td><td>.779</td><td class="divide">70-151</td><td>.464</td><td class="divide">72-212</td><td>.340</td></tr>
+<tr class="comps">
+<td colspan=2 style="text-align:left"></td>
+<td style="text-align:left" colspan=26><a href="http://kenpom.com/blog/index.php/weblog/free_tim_williams/">Similar</a>: 
+<b>'12 <a href="/player.php?p=10423">Bo Ingram</a> (919)</b>,
+'11 <a href="/player.php?p=6899">Zach Graham</a> (897),
+'08 <a href="/player.php?p=3342">Ronell Wooten</a> (895),
+'11 <a href="/player.php?p=7296">Micah Williams</a> (894),
+'10 <a href="/player.php?p=6091">Danny Sumner</a> (894)
+</tr>
+<tr class="comps-player"><td>2008</td><td style="text-align:left"><a href="/team.php?team=Stephen F. Austin&y=2008"><b>Stephen F. Austin</b></a> <span class="seed"></span><br /><span class="plrank">National Rank</span></td><td>6-4</td><td>200</td><td>Jr</td><td>31<br /></td>
+<td class="divide">79.5<br /><span class="plrank">300</span></td><td class="divide">118.0<br /><span class="plrank">117</span></td><td>23.3</td><td>27.3<br /><span class="plrank">245</span></td><td class="divide">56.7<br /><span class="plrank">194</span></td><td>59.8<br /><span class="plrank">192</span></td><td class="divide">6.9</td><td>14.8</td><td class="divide">8.0</td><td>12.0<br /><span class="plrank">63</span></td><td class="divide">1.2</td><td>2.8<br /><span class="plrank">356</span></td><td class="divide">2.9</td><td>4.2</td><td>34.2</td><td class="divide">92-123</td><td>.748</td><td class="divide">63-131</td><td>.481</td><td class="divide">94-229</td><td>.410</td></tr>
+<tr class="comps">
+<td colspan=2 style="text-align:left"></td>
+<td style="text-align:left" colspan=26><a href="http://kenpom.com/blog/index.php/weblog/free_tim_williams/">Similar</a>: 
+<b>'06 <a href="/player.php?p=308">Jahsha Bluntt</a> (905)</b>,
+'07 <a href="/player.php?p=3342">Ronell Wooten</a> (897),
+'11 <a href="/player.php?p=8180">Chris Johnson</a> (895),
+'06 <a href="/player.php?p=979">Torrell Martin</a> (893),
+'09 <a href="/player.php?p=5374">Reggie Holmes</a> (888)
+</tr>
+<tr class="comps-player"><td>2007</td><td style="text-align:left"><a href="/team.php?team=Stephen F. Austin&y=2007"><b>Stephen F. Austin</b></a> <span class="seed"></span><br /><span class="plrank">National Rank</span></td><td>6-4</td><td>200</td><td>So</td><td>29<br /></td>
+<td class="divide">70.3</td><td class="divide">110.2<br /><span class="plrank">456</span></td><td>23.0</td><td>25.2<br /><span class="plrank">433</span></td><td class="divide">56.8<br /><span class="plrank">181</span></td><td>60.0<br /><span class="plrank">165</span></td><td class="divide">7.0</td><td>17.0<br /><span class="plrank">358</span></td><td class="divide">9.0</td><td>18.1</td><td class="divide">1.0</td><td>2.5</td><td class="divide">3.8</td><td>4.4</td><td>38.0</td><td class="divide">75-101</td><td>.743</td><td class="divide">43-101</td><td>.426</td><td class="divide">72-165</td><td>.436</td></tr>
+<tr class="comps">
+<td colspan=2 style="text-align:left"></td>
+<td style="text-align:left" colspan=26><a href="http://kenpom.com/blog/index.php/weblog/free_tim_williams/">Similar</a>: 
+<b>'09 <a href="/player.php?p=6446">Anatoly Bose</a> (903)</b>,
+'06 <a href="/player.php?p=3648">Frank Robinson</a> (896),
+'10 <a href="/player.php?p=8497">Jordan Sugars</a> (895),
+'12 <a href="/player.php?p=10747">Josh Ritchart</a> (894),
+'06 <a href="/player.php?p=2014">Will Daniels</a> (892)
+</tr>
+<tr class="comps-player"><td>2006</td><td colspan=5 style="text-align:left"><a href="/team.php?team=Stephen F. Austin&y=2006"><b>Stephen F. Austin</b></a> <span class="seed"></span></td>
+<td class="divide">68.7</td><td class="divide">127.2<br /><span class="plrank">8</span></td><td>20.7</td><td>23.4</td><td class="divide">66.4<br /><span class="plrank">7</span></td><td>68.3<br /><span class="plrank">4</span></td><td class="divide">10.5<br /><span class="plrank">253</span></td><td>16.4<br /><span class="plrank">414</span></td><td class="divide">6.2</td><td>15.9<br /><span class="plrank">330</span></td><td class="divide">1.5</td><td>2.9<br /><span class="plrank">341</span></td><td class="divide">4.2</td><td>3.3</td><td>26.0</td><td class="divide">56-70</td><td>.800</td><td class="divide">69-116</td><td>.595</td><td class="divide">73-153</td><td>.477</td></tr>
+<tr class="comps">
+<td colspan=2 style="text-align:left"></td>
+<td style="text-align:left" colspan=26><a href="http://kenpom.com/blog/index.php/weblog/free_tim_williams/">Similar</a>: 
+'07 <a href="/player.php?p=5366">Maze Stallworth</a> (854),
+'10 <a href="/player.php?p=9504">Ryan Broekhoff</a> (825),
+'06 <a href="/player.php?p=3848">Jonathan Cox</a> (824),
+'11 <a href="/player.php?p=10597">Jordan Dykstra</a> (819),
+'12 <a href="/player.php?p=13297">LaDontae Henton</a> (814)
+</tr>
+</tr>
+</tbody></table>
+</div>    </div> <!-- end data-area div -->
+	</div>
+	<div id="team-footer"> 
+&copy; 1999-2012 The Forecast Factory LLC. All rights reserved.
+	
+	| <a href="terms.php">Terms of Use</a> | <a href="privacy.php">Privacy Policy</a>
+	| This season's stats provided by The Sports Network<br/ >   
+	</div>
+	</div> 
+   <!-- end wrapper div -->
+</body>
+</html>

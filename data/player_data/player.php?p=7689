@@ -1,0 +1,166 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN"
+"http://www.w3.org/TR/html4/loose.dtd">
+<HTML>
+<HEAD>
+<TITLE>Advanced stats profile for Tom Pritchard</TITLE>
+    <script type="text/javascript">
+      WebFontConfig = {
+        google: { families: [ 'PT Sans', 'PT Sans Narrow'] }
+      };
+      (function() {
+        var wf = document.createElement('script');
+        wf.src = ('https:' == document.location.protocol ? 'https' : 'http') +
+            '://ajax.googleapis.com/ajax/libs/webfont/1/webfont.js';
+        wf.type = 'text/javascript';
+        wf.async = 'true';
+        var s = document.getElementsByTagName('script')[0];
+        s.parentNode.insertBefore(wf, s);
+      })();
+    </script>
+ 
+<link rel="Shortcut Icon" type="image/ico" href="/assets/favicon.ico" /> 
+
+<link rel="stylesheet" href="css/blueprint/screen.css" type="text/css" media="screen, projection">
+<!-- <link rel="stylesheet" href="css/blueprint/print.css" type="text/css" media="print"> -->
+<LINK REL=stylesheet TYPE="text/css" HREF="css/rate.css?1330841405">
+<LINK REL=stylesheet TYPE="text/css" HREF="css/navbar.css">
+
+</HEAD>
+
+<script type="text/javascript">
+var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
+document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
+</script>
+<script type="text/javascript">
+try {
+var pageTracker = _gat._getTracker("UA-11558853-1");
+pageTracker._trackPageview();
+} catch(err) {}</script>
+
+<body>
+
+   <div id="wrapper">
+   <div id="container">
+
+
+	
+<div id="logged-in">
+Logged in as: lilleswing@gmail.com | subscription expires 3/6/13 | <a href="index.php?logout">Logout</a> | <a href="change.php">Change Password</a>
+      <div id="logo-header">
+    	  <img name="header" src="/assets/header.jpg" width="1000" height="35" border="0" usemap="#header" /><map name="header" />
+	      <area shape="rect" coords="941,2,966,27" href="http://twitter.com/kenpomeroy" title="Follow me on twitter" alt="Follow me on twitter" />
+	      </map>
+      </div> <!-- end logo-header div -->
+
+      <div id="nav">
+	       <ul>
+			  <li class="ratings"><a href="http://kenpom.com" title="Ratings"></a></li>		   
+			  <li class="blog"><a href="http://kenpom.com/blog" title="Blog"></a></li>		   
+			  <li class="fourfactors"><a href="http://kenpom.com/stats.php" title="Four Factors"></a></li>		   
+			  <li class="teamstats"><a href="http://kenpom.com/teamstats.php" title="Team Stats"></a></li>		   
+			  <li class="playerstats"><a href="http://kenpom.com/playerstats.php" title="Player Stats"></a></li>		   
+			  <li class="fanmatch"><a href="http://kenpom.com/fanmatch.php" title="FanMatch"></a></li>		   
+			  <li class="contact"><a href="http://kenpom.com/blog/index.php/weblog/how_to_contact_me/" title="Contact"></a></li>		   
+		   </ul>
+	  </div>
+
+	  <!-- The content header -->
+      <div id="content-header">
+<h3>Advanced stats profile for Tom Pritchard</h3>
+<div id="players">
+
+<table id="player-table">
+	<thead>
+		<tr>
+			<th scope="col">&nbsp;</th>
+			<th scope="col">&nbsp;</th>
+			<th scope="col">Ht</th>
+			<th scope="col">Wt</th>
+			<th scope="col">Yr</th>
+			<th scope="col">G</th>
+            <th scope="col" class="divide">%Min</th>
+            <th scope="col" class="divide">ORtg</th>
+            <th scope="col">%Poss</th>
+            <th scope="col">%Shots</th>
+            <th scope="col" class="divide">eFG%</th>
+            <th scope="col">TS%</th>
+            <th scope="col" class="divide">OR%</th>
+            <th scope="col">DR%</th>
+            <th scope="col" class="divide">ARate</th>
+            <th scope="col">TORate</th>
+            <th scope="col" class="divide">Blk%</th>
+            <th scope="col">Stl%</th>
+            <th scope="col" class="divide">FC/40</th>
+            <th scope="col">FD/40</th>
+            <th scope="col">FTRate</th>
+			<th scope="col" class="divide">FTM-FTA</th>
+			<th scope="col">Pct</th>
+			<th scope="col" class="divide">2PM-2PA</th>
+			<th scope="col">Pct</th>
+			<th scope="col" class="divide">3PM-3PA</th>
+			<th scope="col">Pct</th>
+		</tr>
+	</thead>
+	<tbody>
+
+<tr class="comps-player"><td>2012</td><td style="text-align:left"><a href="/team.php?team=Indiana"><b>Indiana</b></a> <span class="seed"></span></td><td>6-9</td><td>250</td><td>Sr</td><td>31<br /></td>
+<td class="divide">25.2</td><td class="divide">116.5</td><td>9.0</td><td>8.6</td><td class="divide">55.6</td><td>54.6</td><td class="divide">8.4</td><td>11.0</td><td class="divide">7.0</td><td>16.9</td><td class="divide">1.7</td><td>0.8</td><td class="divide">6.8</td><td>1.6</td><td>25.0</td><td class="divide">4-9</td><td>.444</td><td class="divide">20-35</td><td>.571</td><td class="divide">0-1</td><td>.000</td></tr>
+<tr class="comps">
+<td colspan=2 style="text-align:left"></td>
+<td style="text-align:left" colspan=26><a href="http://kenpom.com/blog/index.php/weblog/free_tim_williams/">Similar</a>: 
+'10 <a href="/player.php?p=8742">Kyle Madsen</a> (869),
+'09 <a href="/player.php?p=4528">Tyrell Biggs</a> (855),
+'11 <a href="/player.php?p=7259">Mike Capocci</a> (852),
+'08 <a href="/player.php?p=7444">Matt Zitani</a> (845),
+'11 <a href="/player.php?p=11127">Mike Kebler</a> (844)
+</tr>
+<tr class="comps-player"><td>2011</td><td style="text-align:left"><a href="/team.php?team=Indiana&y=2011"><b>Indiana</b></a> <span class="seed"></span><br /><span class="plrank">National Rank</span></td><td>6-9</td><td>248</td><td>Jr</td><td>32<br /></td>
+<td class="divide">45.4</td><td class="divide">113.5<br /><span class="plrank">249</span></td><td>9.5</td><td>7.8</td><td class="divide">59.0</td><td>55.6</td><td class="divide">10.2<br /><span class="plrank">292</span></td><td>15.5</td><td class="divide">6.8</td><td>18.7</td><td class="divide">4.8<br /><span class="plrank">219</span></td><td>0.5</td><td class="divide">6.5</td><td>2.0</td><td>37.7</td><td class="divide">8-23</td><td>.348</td><td class="divide">36-61</td><td>.590</td><td class="divide">0-0</td><td>.000</td></tr>
+<tr class="comps">
+<td colspan=2 style="text-align:left"></td>
+<td style="text-align:left" colspan=26><a href="http://kenpom.com/blog/index.php/weblog/free_tim_williams/">Similar</a>: 
+<b>'11 <a href="/player.php?p=7874">Steadman Short</a> (902)</b>,
+'12 <a href="/player.php?p=10852">Wendell Lewis</a> (896),
+'08 <a href="/player.php?p=5741">Jermaine Dailey</a> (885),
+'10 <a href="/player.php?p=7101">Delvon Johnson</a> (879),
+'12 <a href="/player.php?p=9539">Blake Metcalf</a> (879)
+</tr>
+<tr class="comps-player"><td>2010</td><td style="text-align:left"><a href="/team.php?team=Indiana&y=2010"><b>Indiana</b></a> <span class="seed"></span><br /><span class="plrank">National Rank</span></td><td>6-9</td><td>248</td><td>So</td><td>31<br /></td>
+<td class="divide">49.4</td><td class="divide">97.2</td><td>12.8</td><td>11.0</td><td class="divide">60.9</td><td>56.4</td><td class="divide">9.3<br /><span class="plrank">411</span></td><td>10.4</td><td class="divide">4.8</td><td>24.3</td><td class="divide">3.1<br /><span class="plrank">391</span></td><td>1.4</td><td class="divide">6.3</td><td>3.0</td><td>55.4</td><td class="divide">19-51</td><td>.373</td><td class="divide">56-92</td><td>.609</td><td class="divide">0-0</td><td>.000</td></tr>
+<tr class="comps">
+<td colspan=2 style="text-align:left"></td>
+<td style="text-align:left" colspan=26><a href="http://kenpom.com/blog/index.php/weblog/free_tim_williams/">Similar</a>: 
+<b>'08 <a href="/player.php?p=5356">Jerrald Bonham</a> (931)</b>,
+<b>'09 <a href="/player.php?p=7202">Kyle Groothuis</a> (912)</b>,
+<b>'07 <a href="/player.php?p=4070">Matt Brennan</a> (911)</b>,
+'08 <a href="/player.php?p=5552">Auryn MacMillan</a> (896),
+'11 <a href="/player.php?p=9541">David Jeune</a> (895)
+</tr>
+<tr class="comps-player"><td>2009</td><td style="text-align:left"><a href="/team.php?team=Indiana&y=2009"><b>Indiana</b></a> <span class="seed"></span><br /><span class="plrank">National Rank</span></td><td>6-9</td><td>242</td><td>Fr</td><td>31<br /></td>
+<td class="divide">72.2</td><td class="divide">92.1</td><td>22.8</td><td>21.1</td><td class="divide">47.6</td><td>50.5</td><td class="divide">12.9<br /><span class="plrank">71</span></td><td>15.5</td><td class="divide">9.6</td><td>23.0</td><td class="divide">3.1<br /><span class="plrank">370</span></td><td>1.4</td><td class="divide">4.5</td><td>5.0<br /><span class="plrank">287</span></td><td>57.9<br /><span class="plrank">127</span></td><td class="divide">78-135</td><td>.578</td><td class="divide">111-232</td><td>.478</td><td class="divide">0-1</td><td>.000</td></tr>
+<tr class="comps">
+<td colspan=2 style="text-align:left"></td>
+<td style="text-align:left" colspan=26><a href="http://kenpom.com/blog/index.php/weblog/free_tim_williams/">Similar</a>: 
+<b>'10 <a href="/player.php?p=9311">Niyi Harrison</a> (911)</b>,
+<b>'08 <a href="/player.php?p=6532">Tanner Jacobs</a> (905)</b>,
+'12 <a href="/player.php?p=13484">Mychal Ammons</a> (895),
+'12 <a href="/player.php?p=14059">George Fant</a> (894),
+'07 <a href="/player.php?p=5378">Alejo Rodriguez</a> (893)
+</tr>
+</tr>
+</tr>
+</tr>
+</tr>
+</tbody></table>
+</div>    </div> <!-- end data-area div -->
+	</div>
+	<div id="team-footer"> 
+&copy; 1999-2012 The Forecast Factory LLC. All rights reserved.
+	
+	| <a href="terms.php">Terms of Use</a> | <a href="privacy.php">Privacy Policy</a>
+	| This season's stats provided by The Sports Network<br/ >   
+	</div>
+	</div> 
+   <!-- end wrapper div -->
+</body>
+</html>

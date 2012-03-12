@@ -1,0 +1,156 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN"
+"http://www.w3.org/TR/html4/loose.dtd">
+<HTML>
+<HEAD>
+<TITLE>Advanced stats profile for Daniel Fountain</TITLE>
+    <script type="text/javascript">
+      WebFontConfig = {
+        google: { families: [ 'PT Sans', 'PT Sans Narrow'] }
+      };
+      (function() {
+        var wf = document.createElement('script');
+        wf.src = ('https:' == document.location.protocol ? 'https' : 'http') +
+            '://ajax.googleapis.com/ajax/libs/webfont/1/webfont.js';
+        wf.type = 'text/javascript';
+        wf.async = 'true';
+        var s = document.getElementsByTagName('script')[0];
+        s.parentNode.insertBefore(wf, s);
+      })();
+    </script>
+ 
+<link rel="Shortcut Icon" type="image/ico" href="/assets/favicon.ico" /> 
+
+<link rel="stylesheet" href="css/blueprint/screen.css" type="text/css" media="screen, projection">
+<!-- <link rel="stylesheet" href="css/blueprint/print.css" type="text/css" media="print"> -->
+<LINK REL=stylesheet TYPE="text/css" HREF="css/rate.css?1330841405">
+<LINK REL=stylesheet TYPE="text/css" HREF="css/navbar.css">
+
+</HEAD>
+
+<script type="text/javascript">
+var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
+document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
+</script>
+<script type="text/javascript">
+try {
+var pageTracker = _gat._getTracker("UA-11558853-1");
+pageTracker._trackPageview();
+} catch(err) {}</script>
+
+<body>
+
+   <div id="wrapper">
+   <div id="container">
+
+
+	
+<div id="logged-in">
+Logged in as: lilleswing@gmail.com | subscription expires 3/6/13 | <a href="index.php?logout">Logout</a> | <a href="change.php">Change Password</a>
+      <div id="logo-header">
+    	  <img name="header" src="/assets/header.jpg" width="1000" height="35" border="0" usemap="#header" /><map name="header" />
+	      <area shape="rect" coords="941,2,966,27" href="http://twitter.com/kenpomeroy" title="Follow me on twitter" alt="Follow me on twitter" />
+	      </map>
+      </div> <!-- end logo-header div -->
+
+      <div id="nav">
+	       <ul>
+			  <li class="ratings"><a href="http://kenpom.com" title="Ratings"></a></li>		   
+			  <li class="blog"><a href="http://kenpom.com/blog" title="Blog"></a></li>		   
+			  <li class="fourfactors"><a href="http://kenpom.com/stats.php" title="Four Factors"></a></li>		   
+			  <li class="teamstats"><a href="http://kenpom.com/teamstats.php" title="Team Stats"></a></li>		   
+			  <li class="playerstats"><a href="http://kenpom.com/playerstats.php" title="Player Stats"></a></li>		   
+			  <li class="fanmatch"><a href="http://kenpom.com/fanmatch.php" title="FanMatch"></a></li>		   
+			  <li class="contact"><a href="http://kenpom.com/blog/index.php/weblog/how_to_contact_me/" title="Contact"></a></li>		   
+		   </ul>
+	  </div>
+
+	  <!-- The content header -->
+      <div id="content-header">
+<h3>Advanced stats profile for Daniel Fountain</h3>
+<div id="players">
+
+<table id="player-table">
+	<thead>
+		<tr>
+			<th scope="col">&nbsp;</th>
+			<th scope="col">&nbsp;</th>
+			<th scope="col">Ht</th>
+			<th scope="col">Wt</th>
+			<th scope="col">Yr</th>
+			<th scope="col">G</th>
+            <th scope="col" class="divide">%Min</th>
+            <th scope="col" class="divide">ORtg</th>
+            <th scope="col">%Poss</th>
+            <th scope="col">%Shots</th>
+            <th scope="col" class="divide">eFG%</th>
+            <th scope="col">TS%</th>
+            <th scope="col" class="divide">OR%</th>
+            <th scope="col">DR%</th>
+            <th scope="col" class="divide">ARate</th>
+            <th scope="col">TORate</th>
+            <th scope="col" class="divide">Blk%</th>
+            <th scope="col">Stl%</th>
+            <th scope="col" class="divide">FC/40</th>
+            <th scope="col">FD/40</th>
+            <th scope="col">FTRate</th>
+			<th scope="col" class="divide">FTM-FTA</th>
+			<th scope="col">Pct</th>
+			<th scope="col" class="divide">2PM-2PA</th>
+			<th scope="col">Pct</th>
+			<th scope="col" class="divide">3PM-3PA</th>
+			<th scope="col">Pct</th>
+		</tr>
+	</thead>
+	<tbody>
+
+</tr>
+</tr>
+</tr>
+</tr>
+<tr class="comps-player"><td>2008</td><td style="text-align:left"><a href="/team.php?team=NC Wilmington&y=2008"><b>NC Wilmington</b></a> <span class="seed"></span><br /><span class="plrank">National Rank</span></td><td>6-4</td><td>200</td><td>Sr</td><td>33<br /></td>
+<td class="divide">80.1<br /><span class="plrank">277</span></td><td class="divide">116.2<br /><span class="plrank">164</span></td><td>18.5</td><td>22.3</td><td class="divide">54.9<br /><span class="plrank">286</span></td><td>58.1<br /><span class="plrank">298</span></td><td class="divide">1.7</td><td>11.2</td><td class="divide">12.2</td><td>13.8<br /><span class="plrank">155</span></td><td class="divide">1.2</td><td>2.6<br /><span class="plrank">456</span></td><td class="divide">2.4<br /><span class="plrank">314</span></td><td>3.2</td><td>27.8</td><td class="divide">70-90</td><td>.778</td><td class="divide">40-107</td><td>.374</td><td class="divide">92-217</td><td>.424</td></tr>
+<tr class="comps">
+<td colspan=2 style="text-align:left"></td>
+<td style="text-align:left" colspan=26><a href="http://kenpom.com/blog/index.php/weblog/free_tim_williams/">Similar</a>: 
+<b>'09 <a href="/player.php?p=3772">Harris Mansell</a> (930)</b>,
+<b>'10 <a href="/player.php?p=7973">Dynile Forbes</a> (928)</b>,
+<b>'10 <a href="/player.php?p=7611">Jamel Guyton</a> (926)</b>,
+<b>'11 <a href="/player.php?p=5878">Josh Daniel</a> (918)</b>,
+<b>'12 <a href="/player.php?p=8544">Jim Mower</a> (915)</b></td>
+</tr>
+<tr class="comps-player"><td>2007</td><td style="text-align:left"><a href="/team.php?team=NC Wilmington&y=2007"><b>NC Wilmington</b></a> <span class="seed"></span><br /><span class="plrank">National Rank</span></td><td>6-4</td><td>192</td><td>Jr</td><td>28<br /></td>
+<td class="divide">68.3</td><td class="divide">96.3</td><td>20.1</td><td>23.2</td><td class="divide">45.5</td><td>48.7</td><td class="divide">2.5</td><td>10.8</td><td class="divide">12.8</td><td>16.7<br /><span class="plrank">481</span></td><td class="divide">0.8</td><td>1.6</td><td class="divide">2.8</td><td>3.3</td><td>24.8</td><td class="divide">46-64</td><td>.719</td><td class="divide">38-102</td><td>.373</td><td class="divide">53-156</td><td>.340</td></tr>
+<tr class="comps">
+<td colspan=2 style="text-align:left"></td>
+<td style="text-align:left" colspan=26><a href="http://kenpom.com/blog/index.php/weblog/free_tim_williams/">Similar</a>: 
+<b>'08 <a href="/player.php?p=5020">Ricky Franklin</a> (936)</b>,
+<b>'06 <a href="/player.php?p=1105">Raheem Moss</a> (933)</b>,
+<b>'12 <a href="/player.php?p=13399">Konner Tucker</a> (929)</b>,
+<b>'07 <a href="/player.php?p=1354">Zach Pancratz</a> (929)</b>,
+<b>'06 <a href="/player.php?p=3601">Calvin Cannon</a> (927)</b></td>
+</tr>
+<tr class="comps-player"><td>2006</td><td colspan=5 style="text-align:left"><a href="/team.php?team=NC Wilmington&y=2006"><b>NC Wilmington</b></a> <span class="seed">9</span></td>
+<td class="divide">21.6</td><td class="divide">84.0</td><td>20.1</td><td>23.3</td><td class="divide">38.3</td><td>41.8</td><td class="divide">2.4</td><td>18.5</td><td class="divide">10.2</td><td>18.9</td><td class="divide">0.5</td><td>1.7</td><td class="divide">2.6</td><td>2.8</td><td>17.0</td><td class="divide">13-16</td><td>.813</td><td class="divide">12-35</td><td>.343</td><td class="divide">16-59</td><td>.271</td></tr>
+<tr class="comps">
+<td colspan=2 style="text-align:left"></td>
+<td style="text-align:left" colspan=26><a href="http://kenpom.com/blog/index.php/weblog/free_tim_williams/">Similar</a>: 
+'11 <a href="/player.php?p=9431">Cody Ellis</a> (881),
+'08 <a href="/player.php?p=4942">Christian Polk</a> (879),
+'10 <a href="/player.php?p=8174">Derrick Strings</a> (876),
+'12 <a href="/player.php?p=10813">T.J. Hall</a> (866),
+'12 <a href="/player.php?p=11436">Jordan Sibert</a> (861)
+</tr>
+</tr>
+</tbody></table>
+</div>    </div> <!-- end data-area div -->
+	</div>
+	<div id="team-footer"> 
+&copy; 1999-2012 The Forecast Factory LLC. All rights reserved.
+	
+	| <a href="terms.php">Terms of Use</a> | <a href="privacy.php">Privacy Policy</a>
+	| This season's stats provided by The Sports Network<br/ >   
+	</div>
+	</div> 
+   <!-- end wrapper div -->
+</body>
+</html>

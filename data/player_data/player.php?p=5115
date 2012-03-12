@@ -1,0 +1,166 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN"
+"http://www.w3.org/TR/html4/loose.dtd">
+<HTML>
+<HEAD>
+<TITLE>Advanced stats profile for Garrett Williamson</TITLE>
+    <script type="text/javascript">
+      WebFontConfig = {
+        google: { families: [ 'PT Sans', 'PT Sans Narrow'] }
+      };
+      (function() {
+        var wf = document.createElement('script');
+        wf.src = ('https:' == document.location.protocol ? 'https' : 'http') +
+            '://ajax.googleapis.com/ajax/libs/webfont/1/webfont.js';
+        wf.type = 'text/javascript';
+        wf.async = 'true';
+        var s = document.getElementsByTagName('script')[0];
+        s.parentNode.insertBefore(wf, s);
+      })();
+    </script>
+ 
+<link rel="Shortcut Icon" type="image/ico" href="/assets/favicon.ico" /> 
+
+<link rel="stylesheet" href="css/blueprint/screen.css" type="text/css" media="screen, projection">
+<!-- <link rel="stylesheet" href="css/blueprint/print.css" type="text/css" media="print"> -->
+<LINK REL=stylesheet TYPE="text/css" HREF="css/rate.css?1330841405">
+<LINK REL=stylesheet TYPE="text/css" HREF="css/navbar.css">
+
+</HEAD>
+
+<script type="text/javascript">
+var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
+document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
+</script>
+<script type="text/javascript">
+try {
+var pageTracker = _gat._getTracker("UA-11558853-1");
+pageTracker._trackPageview();
+} catch(err) {}</script>
+
+<body>
+
+   <div id="wrapper">
+   <div id="container">
+
+
+	
+<div id="logged-in">
+Logged in as: lilleswing@gmail.com | subscription expires 3/6/13 | <a href="index.php?logout">Logout</a> | <a href="change.php">Change Password</a>
+      <div id="logo-header">
+    	  <img name="header" src="/assets/header.jpg" width="1000" height="35" border="0" usemap="#header" /><map name="header" />
+	      <area shape="rect" coords="941,2,966,27" href="http://twitter.com/kenpomeroy" title="Follow me on twitter" alt="Follow me on twitter" />
+	      </map>
+      </div> <!-- end logo-header div -->
+
+      <div id="nav">
+	       <ul>
+			  <li class="ratings"><a href="http://kenpom.com" title="Ratings"></a></li>		   
+			  <li class="blog"><a href="http://kenpom.com/blog" title="Blog"></a></li>		   
+			  <li class="fourfactors"><a href="http://kenpom.com/stats.php" title="Four Factors"></a></li>		   
+			  <li class="teamstats"><a href="http://kenpom.com/teamstats.php" title="Team Stats"></a></li>		   
+			  <li class="playerstats"><a href="http://kenpom.com/playerstats.php" title="Player Stats"></a></li>		   
+			  <li class="fanmatch"><a href="http://kenpom.com/fanmatch.php" title="FanMatch"></a></li>		   
+			  <li class="contact"><a href="http://kenpom.com/blog/index.php/weblog/how_to_contact_me/" title="Contact"></a></li>		   
+		   </ul>
+	  </div>
+
+	  <!-- The content header -->
+      <div id="content-header">
+<h3>Advanced stats profile for Garrett Williamson</h3>
+<div id="players">
+
+<table id="player-table">
+	<thead>
+		<tr>
+			<th scope="col">&nbsp;</th>
+			<th scope="col">&nbsp;</th>
+			<th scope="col">Ht</th>
+			<th scope="col">Wt</th>
+			<th scope="col">Yr</th>
+			<th scope="col">G</th>
+            <th scope="col" class="divide">%Min</th>
+            <th scope="col" class="divide">ORtg</th>
+            <th scope="col">%Poss</th>
+            <th scope="col">%Shots</th>
+            <th scope="col" class="divide">eFG%</th>
+            <th scope="col">TS%</th>
+            <th scope="col" class="divide">OR%</th>
+            <th scope="col">DR%</th>
+            <th scope="col" class="divide">ARate</th>
+            <th scope="col">TORate</th>
+            <th scope="col" class="divide">Blk%</th>
+            <th scope="col">Stl%</th>
+            <th scope="col" class="divide">FC/40</th>
+            <th scope="col">FD/40</th>
+            <th scope="col">FTRate</th>
+			<th scope="col" class="divide">FTM-FTA</th>
+			<th scope="col">Pct</th>
+			<th scope="col" class="divide">2PM-2PA</th>
+			<th scope="col">Pct</th>
+			<th scope="col" class="divide">3PM-3PA</th>
+			<th scope="col">Pct</th>
+		</tr>
+	</thead>
+	<tbody>
+
+</tr>
+</tr>
+<tr class="comps-player"><td>2010</td><td style="text-align:left"><a href="/team.php?team=Saint Joseph's&y=2010"><b>Saint Joseph's</b></a> <span class="seed"></span><br /><span class="plrank">National Rank</span></td><td>6-5</td><td>195</td><td>Sr</td><td>31<br /></td>
+<td class="divide">83.8<br /><span class="plrank">163</span></td><td class="divide">104.8</td><td>20.1</td><td>16.1</td><td class="divide">50.0</td><td>57.9<br /><span class="plrank">260</span></td><td class="divide">2.4</td><td>9.5</td><td class="divide">24.1<br /><span class="plrank">264</span></td><td>21.3</td><td class="divide">3.0<br /><span class="plrank">411</span></td><td>2.9<br /><span class="plrank">301</span></td><td class="divide">3.4</td><td>4.8<br /><span class="plrank">395</span></td><td>73.3<br /><span class="plrank">38</span></td><td class="divide">135-176</td><td>.767</td><td class="divide">102-196</td><td>.520</td><td class="divide">12-44</td><td>.273</td></tr>
+<tr class="comps">
+<td colspan=2 style="text-align:left"></td>
+<td style="text-align:left" colspan=26><a href="http://kenpom.com/blog/index.php/weblog/free_tim_williams/">Similar</a>: 
+'07 <a href="/player.php?p=3702">Chris Bailey</a> (893),
+'11 <a href="/player.php?p=9083">Phil Gary</a> (890),
+'10 <a href="/player.php?p=4843">Pierre Curtis</a> (888),
+'09 <a href="/player.php?p=2102">Justin Drummond</a> (883),
+'08 <a href="/player.php?p=5296">Adam Tanner</a> (878)
+</tr>
+<tr class="comps-player"><td>2009</td><td style="text-align:left"><a href="/team.php?team=Saint Joseph's&y=2009"><b>Saint Joseph's</b></a> <span class="seed"></span><br /><span class="plrank">National Rank</span></td><td>6-5</td><td>195</td><td>Jr</td><td>32<br /></td>
+<td class="divide">83.6<br /><span class="plrank">177</span></td><td class="divide">91.0</td><td>15.4</td><td>11.8</td><td class="divide">37.9</td><td>45.0</td><td class="divide">2.3</td><td>10.4</td><td class="divide">25.4<br /><span class="plrank">204</span></td><td>26.0</td><td class="divide">3.6<br /><span class="plrank">293</span></td><td>2.7<br /><span class="plrank">379</span></td><td class="divide">3.5</td><td>3.2</td><td>56.5<br /><span class="plrank">145</span></td><td class="divide">65-96</td><td>.677</td><td class="divide">60-158</td><td>.380</td><td class="divide">3-12</td><td>.250</td></tr>
+<tr class="comps">
+<td colspan=2 style="text-align:left"></td>
+<td style="text-align:left" colspan=26><a href="http://kenpom.com/blog/index.php/weblog/free_tim_williams/">Similar</a>: 
+'09 <a href="/player.php?p=6546">Jason Ebie</a> (883),
+'08 <a href="/player.php?p=6263">Will Graham</a> (878),
+'11 <a href="/player.php?p=8459">James Fields</a> (877),
+'08 <a href="/player.php?p=6447">Dwayne Harmason</a> (876),
+'08 <a href="/player.php?p=1848">Brandon Patterson</a> (864)
+</tr>
+<tr class="comps-player"><td>2008</td><td style="text-align:left"><a href="/team.php?team=Saint Joseph's&y=2008"><b>Saint Joseph's</b></a> <span class="seed">11</span><br /><span class="plrank">National Rank</span></td><td>6-5</td><td>190</td><td>So</td><td>34<br /></td>
+<td class="divide">57.9</td><td class="divide">102.5</td><td>16.4</td><td>11.3</td><td class="divide">51.3</td><td>56.0</td><td class="divide">3.8</td><td>10.6</td><td class="divide">20.3<br /><span class="plrank">417</span></td><td>26.3</td><td class="divide">2.7<br /><span class="plrank">443</span></td><td>3.0<br /><span class="plrank">256</span></td><td class="divide">4.2</td><td>3.7</td><td>78.0</td><td class="divide">60-92</td><td>.652</td><td class="divide">56-100</td><td>.560</td><td class="divide">3-18</td><td>.167</td></tr>
+<tr class="comps">
+<td colspan=2 style="text-align:left"></td>
+<td style="text-align:left" colspan=26><a href="http://kenpom.com/blog/index.php/weblog/free_tim_williams/">Similar</a>: 
+'10 <a href="/player.php?p=7991">DeShawn Patterson</a> (882),
+'10 <a href="/player.php?p=7737">Ronald Nored</a> (854),
+'06 <a href="/player.php?p=2130">Sam Perry</a> (850),
+'08 <a href="/player.php?p=5912">Joe Mazzulla</a> (849),
+'12 <a href="/player.php?p=11497">Dwight Smith</a> (848)
+</tr>
+<tr class="comps-player"><td>2007</td><td style="text-align:left"><a href="/team.php?team=Saint Joseph's&y=2007"><b>Saint Joseph's</b></a> <span class="seed"></span><br /><span class="plrank">National Rank</span></td><td>6-5</td><td>176</td><td>Fr</td><td>32<br /></td>
+<td class="divide">59.3</td><td class="divide">102.7</td><td>15.1</td><td>12.4</td><td class="divide">47.1</td><td>52.5</td><td class="divide">6.1</td><td>12.4</td><td class="divide">15.8</td><td>23.6</td><td class="divide">2.3</td><td>2.6<br /><span class="plrank">478</span></td><td class="divide">5.0</td><td>3.4</td><td>62.2</td><td class="divide">50-74</td><td>.676</td><td class="divide">50-96</td><td>.521</td><td class="divide">4-23</td><td>.174</td></tr>
+<tr class="comps">
+<td colspan=2 style="text-align:left"></td>
+<td style="text-align:left" colspan=26><a href="http://kenpom.com/blog/index.php/weblog/free_tim_williams/">Similar</a>: 
+'11 <a href="/player.php?p=10448">Kyle Collinsworth</a> (892),
+'08 <a href="/player.php?p=11554">David Jackson</a> (884),
+'09 <a href="/player.php?p=8294">Ed Rolax</a> (873),
+'08 <a href="/player.php?p=6484">Rashad Bishop</a> (871),
+'10 <a href="/player.php?p=9466">Tony Johnson</a> (870)
+</tr>
+</tr>
+</tr>
+</tbody></table>
+</div>    </div> <!-- end data-area div -->
+	</div>
+	<div id="team-footer"> 
+&copy; 1999-2012 The Forecast Factory LLC. All rights reserved.
+	
+	| <a href="terms.php">Terms of Use</a> | <a href="privacy.php">Privacy Policy</a>
+	| This season's stats provided by The Sports Network<br/ >   
+	</div>
+	</div> 
+   <!-- end wrapper div -->
+</body>
+</html>

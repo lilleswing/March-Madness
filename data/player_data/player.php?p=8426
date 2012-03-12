@@ -1,0 +1,156 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN"
+"http://www.w3.org/TR/html4/loose.dtd">
+<HTML>
+<HEAD>
+<TITLE>Advanced stats profile for Imad Qahwash</TITLE>
+    <script type="text/javascript">
+      WebFontConfig = {
+        google: { families: [ 'PT Sans', 'PT Sans Narrow'] }
+      };
+      (function() {
+        var wf = document.createElement('script');
+        wf.src = ('https:' == document.location.protocol ? 'https' : 'http') +
+            '://ajax.googleapis.com/ajax/libs/webfont/1/webfont.js';
+        wf.type = 'text/javascript';
+        wf.async = 'true';
+        var s = document.getElementsByTagName('script')[0];
+        s.parentNode.insertBefore(wf, s);
+      })();
+    </script>
+ 
+<link rel="Shortcut Icon" type="image/ico" href="/assets/favicon.ico" /> 
+
+<link rel="stylesheet" href="css/blueprint/screen.css" type="text/css" media="screen, projection">
+<!-- <link rel="stylesheet" href="css/blueprint/print.css" type="text/css" media="print"> -->
+<LINK REL=stylesheet TYPE="text/css" HREF="css/rate.css?1330841405">
+<LINK REL=stylesheet TYPE="text/css" HREF="css/navbar.css">
+
+</HEAD>
+
+<script type="text/javascript">
+var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
+document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
+</script>
+<script type="text/javascript">
+try {
+var pageTracker = _gat._getTracker("UA-11558853-1");
+pageTracker._trackPageview();
+} catch(err) {}</script>
+
+<body>
+
+   <div id="wrapper">
+   <div id="container">
+
+
+	
+<div id="logged-in">
+Logged in as: lilleswing@gmail.com | subscription expires 3/6/13 | <a href="index.php?logout">Logout</a> | <a href="change.php">Change Password</a>
+      <div id="logo-header">
+    	  <img name="header" src="/assets/header.jpg" width="1000" height="35" border="0" usemap="#header" /><map name="header" />
+	      <area shape="rect" coords="941,2,966,27" href="http://twitter.com/kenpomeroy" title="Follow me on twitter" alt="Follow me on twitter" />
+	      </map>
+      </div> <!-- end logo-header div -->
+
+      <div id="nav">
+	       <ul>
+			  <li class="ratings"><a href="http://kenpom.com" title="Ratings"></a></li>		   
+			  <li class="blog"><a href="http://kenpom.com/blog" title="Blog"></a></li>		   
+			  <li class="fourfactors"><a href="http://kenpom.com/stats.php" title="Four Factors"></a></li>		   
+			  <li class="teamstats"><a href="http://kenpom.com/teamstats.php" title="Team Stats"></a></li>		   
+			  <li class="playerstats"><a href="http://kenpom.com/playerstats.php" title="Player Stats"></a></li>		   
+			  <li class="fanmatch"><a href="http://kenpom.com/fanmatch.php" title="FanMatch"></a></li>		   
+			  <li class="contact"><a href="http://kenpom.com/blog/index.php/weblog/how_to_contact_me/" title="Contact"></a></li>		   
+		   </ul>
+	  </div>
+
+	  <!-- The content header -->
+      <div id="content-header">
+<h3>Advanced stats profile for Imad Qahwash</h3>
+<div id="players">
+
+<table id="player-table">
+	<thead>
+		<tr>
+			<th scope="col">&nbsp;</th>
+			<th scope="col">&nbsp;</th>
+			<th scope="col">Ht</th>
+			<th scope="col">Wt</th>
+			<th scope="col">Yr</th>
+			<th scope="col">G</th>
+            <th scope="col" class="divide">%Min</th>
+            <th scope="col" class="divide">ORtg</th>
+            <th scope="col">%Poss</th>
+            <th scope="col">%Shots</th>
+            <th scope="col" class="divide">eFG%</th>
+            <th scope="col">TS%</th>
+            <th scope="col" class="divide">OR%</th>
+            <th scope="col">DR%</th>
+            <th scope="col" class="divide">ARate</th>
+            <th scope="col">TORate</th>
+            <th scope="col" class="divide">Blk%</th>
+            <th scope="col">Stl%</th>
+            <th scope="col" class="divide">FC/40</th>
+            <th scope="col">FD/40</th>
+            <th scope="col">FTRate</th>
+			<th scope="col" class="divide">FTM-FTA</th>
+			<th scope="col">Pct</th>
+			<th scope="col" class="divide">2PM-2PA</th>
+			<th scope="col">Pct</th>
+			<th scope="col" class="divide">3PM-3PA</th>
+			<th scope="col">Pct</th>
+		</tr>
+	</thead>
+	<tbody>
+
+</tr>
+<tr class="comps-player"><td>2011</td><td style="text-align:left"><a href="/team.php?team=Central Arkansas&y=2011"><b>Central Arkansas</b></a> <span class="seed"></span><br /><span class="plrank">National Rank</span></td><td>6-2</td><td>185</td><td>Sr</td><td>29<br /></td>
+<td class="divide">57.0</td><td class="divide">94.7</td><td>30.3<br /><span class="plrank">35</span></td><td>28.1<br /><span class="plrank">179</span></td><td class="divide">48.1</td><td>53.5</td><td class="divide">5.7</td><td>8.6</td><td class="divide">17.0</td><td>22.7</td><td class="divide">0.0</td><td>2.6<br /><span class="plrank">425</span></td><td class="divide">2.9</td><td>7.2<br /><span class="plrank">23</span></td><td>60.0</td><td class="divide">109-159</td><td>.686</td><td class="divide">78-169</td><td>.462</td><td class="divide">33-96</td><td>.344</td></tr>
+<tr class="comps">
+<td colspan=2 style="text-align:left"></td>
+<td style="text-align:left" colspan=26><a href="http://kenpom.com/blog/index.php/weblog/free_tim_williams/">Similar</a>: 
+<b>'07 <a href="/player.php?p=523">Delvin Thompson</a> (919)</b>,
+<b>'11 <a href="/player.php?p=8957">Jeff Smith</a> (902)</b>,
+'07 <a href="/player.php?p=361">Ricky Hickman</a> (890),
+'11 <a href="/player.php?p=6824">Rob Hampton</a> (888),
+'07 <a href="/player.php?p=716">Jose Olivero</a> (886)
+</tr>
+<tr class="comps-player"><td>2010</td><td style="text-align:left"><a href="/team.php?team=Central Arkansas&y=2010"><b>Central Arkansas</b></a> <span class="seed"></span><br /><span class="plrank">National Rank</span></td><td>6-2</td><td>185</td><td>Jr</td><td>30<br /></td>
+<td class="divide">61.5</td><td class="divide">86.3</td><td>21.2</td><td>12.9</td><td class="divide">39.9</td><td>51.7</td><td class="divide">5.6</td><td>18.0<br /><span class="plrank">304</span></td><td class="divide">22.0<br /><span class="plrank">365</span></td><td>33.0</td><td class="divide">0.0</td><td>2.6<br /><span class="plrank">438</span></td><td class="divide">3.1</td><td>5.2<br /><span class="plrank">270</span></td><td>106.5<br /><span class="plrank">5</span></td><td class="divide">94-132</td><td>.712</td><td class="divide">45-107</td><td>.421</td><td class="divide">3-17</td><td>.176</td></tr>
+<tr class="comps">
+<td colspan=2 style="text-align:left"></td>
+<td style="text-align:left" colspan=26><a href="http://kenpom.com/blog/index.php/weblog/free_tim_williams/">Similar</a>: 
+'11 <a href="/player.php?p=10483">Marcus Brister</a> (862),
+'11 <a href="/player.php?p=10287">Marlon Rivera</a> (839),
+'11 <a href="/player.php?p=8076">Jake Nielson</a> (824),
+'08 <a href="/player.php?p=6696">Jocolby Davis</a> (819),
+'11 <a href="/player.php?p=7750">Jimmy Williams</a> (813)
+</tr>
+<tr class="comps-player"><td>2009</td><td style="text-align:left"><a href="/team.php?team=Central Arkansas&y=2009"><b>Central Arkansas</b></a> <span class="seed"></span></td><td>6-1</td><td>185</td><td>So</td><td>29<br /></td>
+<td class="divide">28.5</td><td class="divide">95.5</td><td>16.1</td><td>10.1</td><td class="divide">44.4</td><td>50.3</td><td class="divide">4.4</td><td>13.3</td><td class="divide">22.7</td><td>23.6</td><td class="divide">0.0</td><td>2.4</td><td class="divide">3.5</td><td>4.8</td><td>120.0</td><td class="divide">31-54</td><td>.574</td><td class="divide">20-40</td><td>.500</td><td class="divide">0-5</td><td>.000</td></tr>
+<tr class="comps">
+<td colspan=2 style="text-align:left"></td>
+<td style="text-align:left" colspan=26><a href="http://kenpom.com/blog/index.php/weblog/free_tim_williams/">Similar</a>: 
+'09 <a href="/player.php?p=6900">Dominic Knight</a> (854),
+'12 <a href="/player.php?p=13010">Jamel Fuentes</a> (841),
+'11 <a href="/player.php?p=9674">Eddie Ludwig</a> (834),
+'12 <a href="/player.php?p=12343">Garrett Jefferson</a> (831),
+'08 <a href="/player.php?p=6086">Chris McFarland</a> (829)
+</tr>
+</tr>
+</tr>
+</tr>
+</tr>
+</tbody></table>
+</div>    </div> <!-- end data-area div -->
+	</div>
+	<div id="team-footer"> 
+&copy; 1999-2012 The Forecast Factory LLC. All rights reserved.
+	
+	| <a href="terms.php">Terms of Use</a> | <a href="privacy.php">Privacy Policy</a>
+	| This season's stats provided by The Sports Network<br/ >   
+	</div>
+	</div> 
+   <!-- end wrapper div -->
+</body>
+</html>

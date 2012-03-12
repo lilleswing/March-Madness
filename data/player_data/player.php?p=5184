@@ -1,0 +1,166 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN"
+"http://www.w3.org/TR/html4/loose.dtd">
+<HTML>
+<HEAD>
+<TITLE>Advanced stats profile for Justin Fry</TITLE>
+    <script type="text/javascript">
+      WebFontConfig = {
+        google: { families: [ 'PT Sans', 'PT Sans Narrow'] }
+      };
+      (function() {
+        var wf = document.createElement('script');
+        wf.src = ('https:' == document.location.protocol ? 'https' : 'http') +
+            '://ajax.googleapis.com/ajax/libs/webfont/1/webfont.js';
+        wf.type = 'text/javascript';
+        wf.async = 'true';
+        var s = document.getElementsByTagName('script')[0];
+        s.parentNode.insertBefore(wf, s);
+      })();
+    </script>
+ 
+<link rel="Shortcut Icon" type="image/ico" href="/assets/favicon.ico" /> 
+
+<link rel="stylesheet" href="css/blueprint/screen.css" type="text/css" media="screen, projection">
+<!-- <link rel="stylesheet" href="css/blueprint/print.css" type="text/css" media="print"> -->
+<LINK REL=stylesheet TYPE="text/css" HREF="css/rate.css?1330841405">
+<LINK REL=stylesheet TYPE="text/css" HREF="css/navbar.css">
+
+</HEAD>
+
+<script type="text/javascript">
+var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
+document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
+</script>
+<script type="text/javascript">
+try {
+var pageTracker = _gat._getTracker("UA-11558853-1");
+pageTracker._trackPageview();
+} catch(err) {}</script>
+
+<body>
+
+   <div id="wrapper">
+   <div id="container">
+
+
+	
+<div id="logged-in">
+Logged in as: lilleswing@gmail.com | subscription expires 3/6/13 | <a href="index.php?logout">Logout</a> | <a href="change.php">Change Password</a>
+      <div id="logo-header">
+    	  <img name="header" src="/assets/header.jpg" width="1000" height="35" border="0" usemap="#header" /><map name="header" />
+	      <area shape="rect" coords="941,2,966,27" href="http://twitter.com/kenpomeroy" title="Follow me on twitter" alt="Follow me on twitter" />
+	      </map>
+      </div> <!-- end logo-header div -->
+
+      <div id="nav">
+	       <ul>
+			  <li class="ratings"><a href="http://kenpom.com" title="Ratings"></a></li>		   
+			  <li class="blog"><a href="http://kenpom.com/blog" title="Blog"></a></li>		   
+			  <li class="fourfactors"><a href="http://kenpom.com/stats.php" title="Four Factors"></a></li>		   
+			  <li class="teamstats"><a href="http://kenpom.com/teamstats.php" title="Team Stats"></a></li>		   
+			  <li class="playerstats"><a href="http://kenpom.com/playerstats.php" title="Player Stats"></a></li>		   
+			  <li class="fanmatch"><a href="http://kenpom.com/fanmatch.php" title="FanMatch"></a></li>		   
+			  <li class="contact"><a href="http://kenpom.com/blog/index.php/weblog/how_to_contact_me/" title="Contact"></a></li>		   
+		   </ul>
+	  </div>
+
+	  <!-- The content header -->
+      <div id="content-header">
+<h3>Advanced stats profile for Justin Fry</h3>
+<div id="players">
+
+<table id="player-table">
+	<thead>
+		<tr>
+			<th scope="col">&nbsp;</th>
+			<th scope="col">&nbsp;</th>
+			<th scope="col">Ht</th>
+			<th scope="col">Wt</th>
+			<th scope="col">Yr</th>
+			<th scope="col">G</th>
+            <th scope="col" class="divide">%Min</th>
+            <th scope="col" class="divide">ORtg</th>
+            <th scope="col">%Poss</th>
+            <th scope="col">%Shots</th>
+            <th scope="col" class="divide">eFG%</th>
+            <th scope="col">TS%</th>
+            <th scope="col" class="divide">OR%</th>
+            <th scope="col">DR%</th>
+            <th scope="col" class="divide">ARate</th>
+            <th scope="col">TORate</th>
+            <th scope="col" class="divide">Blk%</th>
+            <th scope="col">Stl%</th>
+            <th scope="col" class="divide">FC/40</th>
+            <th scope="col">FD/40</th>
+            <th scope="col">FTRate</th>
+			<th scope="col" class="divide">FTM-FTA</th>
+			<th scope="col">Pct</th>
+			<th scope="col" class="divide">2PM-2PA</th>
+			<th scope="col">Pct</th>
+			<th scope="col" class="divide">3PM-3PA</th>
+			<th scope="col">Pct</th>
+		</tr>
+	</thead>
+	<tbody>
+
+</tr>
+<tr class="comps-player"><td>2011</td><td style="text-align:left"><a href="/team.php?team=MD Baltimore County&y=2011"><b>MD Baltimore County</b></a> <span class="seed"></span><br /><span class="plrank">National Rank</span></td><td>6-9</td><td>220</td><td>Sr</td><td>30<br /></td>
+<td class="divide">65.7</td><td class="divide">102.5</td><td>20.4</td><td>19.4</td><td class="divide">47.3</td><td>52.3</td><td class="divide">9.1<br /><span class="plrank">434</span></td><td>17.3<br /><span class="plrank">391</span></td><td class="divide">11.2</td><td>16.7</td><td class="divide">2.3</td><td>1.4</td><td class="divide">3.8</td><td>3.8</td><td>39.6</td><td class="divide">66-88</td><td>.750</td><td class="divide">102-210</td><td>.486</td><td class="divide">2-12</td><td>.167</td></tr>
+<tr class="comps">
+<td colspan=2 style="text-align:left"></td>
+<td style="text-align:left" colspan=26><a href="http://kenpom.com/blog/index.php/weblog/free_tim_williams/">Similar</a>: 
+<b>'12 <a href="/player.php?p=10723">Durrell Norman</a> (925)</b>,
+<b>'07 <a href="/player.php?p=2425">Justin Burns</a> (924)</b>,
+<b>'07 <a href="/player.php?p=654">Antonio Porch</a> (922)</b>,
+<b>'09 <a href="/player.php?p=4707">Alex Opacic</a> (919)</b>,
+<b>'07 <a href="/player.php?p=3844">Michael Henderson</a> (919)</b></td>
+</tr>
+</tr>
+<tr class="comps-player"><td>2009</td><td style="text-align:left"><a href="/team.php?team=MD Baltimore County&y=2009"><b>MD Baltimore County</b></a> <span class="seed"></span><br /><span class="plrank">National Rank</span></td><td>6-9</td><td>225</td><td>Jr</td><td>27<br /></td>
+<td class="divide">65.9</td><td class="divide">91.9</td><td>17.3</td><td>16.4</td><td class="divide">44.6</td><td>48.3</td><td class="divide">4.9</td><td>12.9</td><td class="divide">8.3</td><td>18.4</td><td class="divide">2.8<br /><span class="plrank">422</span></td><td>1.2</td><td class="divide">3.5</td><td>3.1</td><td>35.6</td><td class="divide">46-69</td><td>.667</td><td class="divide">79-171</td><td>.462</td><td class="divide">5-23</td><td>.217</td></tr>
+<tr class="comps">
+<td colspan=2 style="text-align:left"></td>
+<td style="text-align:left" colspan=26><a href="http://kenpom.com/blog/index.php/weblog/free_tim_williams/">Similar</a>: 
+<b>'06 <a href="/player.php?p=1306">Ben Sullivan</a> (938)</b>,
+<b>'07 <a href="/player.php?p=1760">John Barber</a> (915)</b>,
+<b>'06 <a href="/player.php?p=3552">Julius Young</a> (911)</b>,
+<b>'06 <a href="/player.php?p=3345">Damien Hubbard</a> (908)</b>,
+'07 <a href="/player.php?p=4665">Sherrard Watson</a> (899)
+</tr>
+<tr class="comps-player"><td>2008</td><td style="text-align:left"><a href="/team.php?team=MD Baltimore County&y=2008"><b>MD Baltimore County</b></a> <span class="seed">15</span><br /><span class="plrank">National Rank</span></td><td>6-9</td><td>220</td><td>So</td><td>31<br /></td>
+<td class="divide">41.8</td><td class="divide">95.9</td><td>15.6</td><td>13.7</td><td class="divide">40.9</td><td>46.7</td><td class="divide">7.6</td><td>9.5</td><td class="divide">8.1</td><td>20.2</td><td class="divide">3.1<br /><span class="plrank">381</span></td><td>1.6</td><td class="divide">5.2</td><td>2.8</td><td>37.3</td><td class="divide">31-41</td><td>.756</td><td class="divide">42-106</td><td>.396</td><td class="divide">2-4</td><td>.500</td></tr>
+<tr class="comps">
+<td colspan=2 style="text-align:left"></td>
+<td style="text-align:left" colspan=26><a href="http://kenpom.com/blog/index.php/weblog/free_tim_williams/">Similar</a>: 
+<b>'11 <a href="/player.php?p=11200">Raheem May-Thompson</a> (921)</b>,
+<b>'06 <a href="/player.php?p=3235">Shaddean Aaron</a> (911)</b>,
+<b>'07 <a href="/player.php?p=5387">Kenrick Zondervan</a> (902)</b>,
+<b>'06 <a href="/player.php?p=2748">Justin Blevins</a> (900)</b>,
+'07 <a href="/player.php?p=2102">Justin Drummond</a> (899)
+</tr>
+<tr class="comps-player"><td>2007</td><td style="text-align:left"><a href="/team.php?team=MD Baltimore County&y=2007"><b>MD Baltimore County</b></a> <span class="seed"></span><br /><span class="plrank">National Rank</span></td><td>6-9</td><td>220</td><td>Fr</td><td>31<br /></td>
+<td class="divide">55.1</td><td class="divide">95.2</td><td>16.7</td><td>16.5</td><td class="divide">47.0</td><td>51.1</td><td class="divide">6.3</td><td>8.1</td><td class="divide">6.4</td><td>20.3</td><td class="divide">6.0<br /><span class="plrank">112</span></td><td>0.9</td><td class="divide">3.9</td><td>2.8</td><td>28.9</td><td class="divide">33-43</td><td>.767</td><td class="divide">67-146</td><td>.459</td><td class="divide">2-3</td><td>.667</td></tr>
+<tr class="comps">
+<td colspan=2 style="text-align:left"></td>
+<td style="text-align:left" colspan=26><a href="http://kenpom.com/blog/index.php/weblog/free_tim_williams/">Similar</a>: 
+<b>'09 <a href="/player.php?p=8005">Sandy Perry</a> (900)</b>,
+'07 <a href="/player.php?p=5147">Manny Adako</a> (890),
+'08 <a href="/player.php?p=6590">Jarred Riley</a> (888),
+'11 <a href="/player.php?p=10444">Ryan Pierson</a> (887),
+'06 <a href="/player.php?p=3707">A.J. Hawkins</a> (886)
+</tr>
+</tr>
+</tr>
+</tbody></table>
+</div>    </div> <!-- end data-area div -->
+	</div>
+	<div id="team-footer"> 
+&copy; 1999-2012 The Forecast Factory LLC. All rights reserved.
+	
+	| <a href="terms.php">Terms of Use</a> | <a href="privacy.php">Privacy Policy</a>
+	| This season's stats provided by The Sports Network<br/ >   
+	</div>
+	</div> 
+   <!-- end wrapper div -->
+</body>
+</html>

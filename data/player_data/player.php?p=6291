@@ -1,0 +1,166 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN"
+"http://www.w3.org/TR/html4/loose.dtd">
+<HTML>
+<HEAD>
+<TITLE>Advanced stats profile for Shemik Thompson</TITLE>
+    <script type="text/javascript">
+      WebFontConfig = {
+        google: { families: [ 'PT Sans', 'PT Sans Narrow'] }
+      };
+      (function() {
+        var wf = document.createElement('script');
+        wf.src = ('https:' == document.location.protocol ? 'https' : 'http') +
+            '://ajax.googleapis.com/ajax/libs/webfont/1/webfont.js';
+        wf.type = 'text/javascript';
+        wf.async = 'true';
+        var s = document.getElementsByTagName('script')[0];
+        s.parentNode.insertBefore(wf, s);
+      })();
+    </script>
+ 
+<link rel="Shortcut Icon" type="image/ico" href="/assets/favicon.ico" /> 
+
+<link rel="stylesheet" href="css/blueprint/screen.css" type="text/css" media="screen, projection">
+<!-- <link rel="stylesheet" href="css/blueprint/print.css" type="text/css" media="print"> -->
+<LINK REL=stylesheet TYPE="text/css" HREF="css/rate.css?1330841405">
+<LINK REL=stylesheet TYPE="text/css" HREF="css/navbar.css">
+
+</HEAD>
+
+<script type="text/javascript">
+var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
+document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
+</script>
+<script type="text/javascript">
+try {
+var pageTracker = _gat._getTracker("UA-11558853-1");
+pageTracker._trackPageview();
+} catch(err) {}</script>
+
+<body>
+
+   <div id="wrapper">
+   <div id="container">
+
+
+	
+<div id="logged-in">
+Logged in as: lilleswing@gmail.com | subscription expires 3/6/13 | <a href="index.php?logout">Logout</a> | <a href="change.php">Change Password</a>
+      <div id="logo-header">
+    	  <img name="header" src="/assets/header.jpg" width="1000" height="35" border="0" usemap="#header" /><map name="header" />
+	      <area shape="rect" coords="941,2,966,27" href="http://twitter.com/kenpomeroy" title="Follow me on twitter" alt="Follow me on twitter" />
+	      </map>
+      </div> <!-- end logo-header div -->
+
+      <div id="nav">
+	       <ul>
+			  <li class="ratings"><a href="http://kenpom.com" title="Ratings"></a></li>		   
+			  <li class="blog"><a href="http://kenpom.com/blog" title="Blog"></a></li>		   
+			  <li class="fourfactors"><a href="http://kenpom.com/stats.php" title="Four Factors"></a></li>		   
+			  <li class="teamstats"><a href="http://kenpom.com/teamstats.php" title="Team Stats"></a></li>		   
+			  <li class="playerstats"><a href="http://kenpom.com/playerstats.php" title="Player Stats"></a></li>		   
+			  <li class="fanmatch"><a href="http://kenpom.com/fanmatch.php" title="FanMatch"></a></li>		   
+			  <li class="contact"><a href="http://kenpom.com/blog/index.php/weblog/how_to_contact_me/" title="Contact"></a></li>		   
+		   </ul>
+	  </div>
+
+	  <!-- The content header -->
+      <div id="content-header">
+<h3>Advanced stats profile for Shemik Thompson</h3>
+<div id="players">
+
+<table id="player-table">
+	<thead>
+		<tr>
+			<th scope="col">&nbsp;</th>
+			<th scope="col">&nbsp;</th>
+			<th scope="col">Ht</th>
+			<th scope="col">Wt</th>
+			<th scope="col">Yr</th>
+			<th scope="col">G</th>
+            <th scope="col" class="divide">%Min</th>
+            <th scope="col" class="divide">ORtg</th>
+            <th scope="col">%Poss</th>
+            <th scope="col">%Shots</th>
+            <th scope="col" class="divide">eFG%</th>
+            <th scope="col">TS%</th>
+            <th scope="col" class="divide">OR%</th>
+            <th scope="col">DR%</th>
+            <th scope="col" class="divide">ARate</th>
+            <th scope="col">TORate</th>
+            <th scope="col" class="divide">Blk%</th>
+            <th scope="col">Stl%</th>
+            <th scope="col" class="divide">FC/40</th>
+            <th scope="col">FD/40</th>
+            <th scope="col">FTRate</th>
+			<th scope="col" class="divide">FTM-FTA</th>
+			<th scope="col">Pct</th>
+			<th scope="col" class="divide">2PM-2PA</th>
+			<th scope="col">Pct</th>
+			<th scope="col" class="divide">3PM-3PA</th>
+			<th scope="col">Pct</th>
+		</tr>
+	</thead>
+	<tbody>
+
+</tr>
+<tr class="comps-player"><td>2011</td><td style="text-align:left"><a href="/team.php?team=Central Connecticut&y=2011"><b>Central Connecticut</b></a> <span class="seed"></span><br /><span class="plrank">National Rank</span></td><td>6-0</td><td>190</td><td>Sr</td><td>31<br /></td>
+<td class="divide">81.7<br /><span class="plrank">216</span></td><td class="divide">98.7</td><td>24.9<br /><span class="plrank">359</span></td><td>24.9<br /><span class="plrank">461</span></td><td class="divide">42.2</td><td>46.8</td><td class="divide">5.4</td><td>12.1</td><td class="divide">33.3<br /><span class="plrank">42</span></td><td>19.7</td><td class="divide">0.6</td><td>3.4<br /><span class="plrank">113</span></td><td class="divide">2.8</td><td>4.0</td><td>30.8</td><td class="divide">82-110</td><td>.745</td><td class="divide">107-258</td><td>.415</td><td class="divide">29-99</td><td>.293</td></tr>
+<tr class="comps">
+<td colspan=2 style="text-align:left"></td>
+<td style="text-align:left" colspan=26><a href="http://kenpom.com/blog/index.php/weblog/free_tim_williams/">Similar</a>: 
+<b>'12 <a href="/player.php?p=10407">D'Andre Williams</a> (926)</b>,
+<b>'09 <a href="/player.php?p=4104">Avery Smith</a> (919)</b>,
+<b>'12 <a href="/player.php?p=8127">Reggie Middleton</a> (916)</b>,
+<b>'10 <a href="/player.php?p=5658">Cleveland Richard</a> (916)</b>,
+<b>'10 <a href="/player.php?p=7647">Joe Dukes</a> (901)</b></td>
+</tr>
+<tr class="comps-player"><td>2010</td><td style="text-align:left"><a href="/team.php?team=Central Connecticut&y=2010"><b>Central Connecticut</b></a> <span class="seed"></span><br /><span class="plrank">National Rank</span></td><td>6-0</td><td>185</td><td>Jr</td><td>29<br /></td>
+<td class="divide">80.0<br /><span class="plrank">305</span></td><td class="divide">93.7</td><td>26.0<br /><span class="plrank">238</span></td><td>26.3<br /><span class="plrank">338</span></td><td class="divide">42.6</td><td>48.3</td><td class="divide">3.5</td><td>10.4</td><td class="divide">24.7<br /><span class="plrank">236</span></td><td>20.7</td><td class="divide">0.3</td><td>3.7<br /><span class="plrank">71</span></td><td class="divide">2.5<br /><span class="plrank">425</span></td><td>4.3</td><td>33.3</td><td class="divide">90-112</td><td>.804</td><td class="divide">107-260</td><td>.412</td><td class="divide">24-76</td><td>.316</td></tr>
+<tr class="comps">
+<td colspan=2 style="text-align:left"></td>
+<td style="text-align:left" colspan=26><a href="http://kenpom.com/blog/index.php/weblog/free_tim_williams/">Similar</a>: 
+<b>'08 <a href="/player.php?p=3545">Kaleo Kina</a> (937)</b>,
+<b>'08 <a href="/player.php?p=3071">Manny Quezada</a> (924)</b>,
+<b>'07 <a href="/player.php?p=974">Bryan Smithson</a> (920)</b>,
+<b>'09 <a href="/player.php?p=7437">Tavarus Alston</a> (917)</b>,
+<b>'12 <a href="/player.php?p=12427">Gary Talton</a> (917)</b></td>
+</tr>
+<tr class="comps-player"><td>2009</td><td style="text-align:left"><a href="/team.php?team=Central Connecticut&y=2009"><b>Central Connecticut</b></a> <span class="seed"></span><br /><span class="plrank">National Rank</span></td><td>6-0</td><td>185</td><td>So</td><td>28<br /></td>
+<td class="divide">80.3<br /><span class="plrank">296</span></td><td class="divide">88.4</td><td>25.3<br /><span class="plrank">302</span></td><td>22.6</td><td class="divide">42.5</td><td>47.1</td><td class="divide">2.2</td><td>9.5</td><td class="divide">29.2<br /><span class="plrank">103</span></td><td>26.7</td><td class="divide">0.1</td><td>3.6<br /><span class="plrank">95</span></td><td class="divide">2.4<br /><span class="plrank">352</span></td><td>4.0</td><td>34.9</td><td class="divide">73-102</td><td>.716</td><td class="divide">100-233</td><td>.429</td><td class="divide">16-59</td><td>.271</td></tr>
+<tr class="comps">
+<td colspan=2 style="text-align:left"></td>
+<td style="text-align:left" colspan=26><a href="http://kenpom.com/blog/index.php/weblog/free_tim_williams/">Similar</a>: 
+<b>'08 <a href="/player.php?p=4875">Amir Johnson</a> (941)</b>,
+<b>'10 <a href="/player.php?p=7703">Casper Ware</a> (925)</b>,
+<b>'11 <a href="/player.php?p=8658">Will Weathers</a> (919)</b>,
+<b>'08 <a href="/player.php?p=4841">Frank Turner</a> (912)</b>,
+<b>'12 <a href="/player.php?p=10420">Jeremy Crutcher</a> (909)</b></td>
+</tr>
+<tr class="comps-player"><td>2008</td><td style="text-align:left"><a href="/team.php?team=Central Connecticut&y=2008"><b>Central Connecticut</b></a> <span class="seed"></span><br /><span class="plrank">National Rank</span></td><td>6-0</td><td>185</td><td>Fr</td><td>28<br /></td>
+<td class="divide">71.6</td><td class="divide">96.1</td><td>19.4</td><td>18.1</td><td class="divide">47.5</td><td>50.5</td><td class="divide">4.3</td><td>9.0</td><td class="divide">19.9<br /><span class="plrank">447</span></td><td>25.5</td><td class="divide">0.1</td><td>2.0</td><td class="divide">2.0<br /><span class="plrank">124</span></td><td>2.8</td><td>24.7</td><td class="divide">39-54</td><td>.722</td><td class="divide">83-165</td><td>.503</td><td class="divide">14-54</td><td>.259</td></tr>
+<tr class="comps">
+<td colspan=2 style="text-align:left"></td>
+<td style="text-align:left" colspan=26><a href="http://kenpom.com/blog/index.php/weblog/free_tim_williams/">Similar</a>: 
+<b>'08 <a href="/player.php?p=6277">Ricky Cadell</a> (936)</b>,
+<b>'08 <a href="/player.php?p=6223">Myron Strong</a> (928)</b>,
+<b>'06 <a href="/player.php?p=3367">Aaron Jackson</a> (921)</b>,
+<b>'07 <a href="/player.php?p=4860">Johnathon Jones</a> (920)</b>,
+<b>'11 <a href="/player.php?p=10315">Anthony Ireland</a> (911)</b></td>
+</tr>
+</tr>
+</tr>
+</tr>
+</tbody></table>
+</div>    </div> <!-- end data-area div -->
+	</div>
+	<div id="team-footer"> 
+&copy; 1999-2012 The Forecast Factory LLC. All rights reserved.
+	
+	| <a href="terms.php">Terms of Use</a> | <a href="privacy.php">Privacy Policy</a>
+	| This season's stats provided by The Sports Network<br/ >   
+	</div>
+	</div> 
+   <!-- end wrapper div -->
+</body>
+</html>

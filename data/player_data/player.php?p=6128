@@ -1,0 +1,166 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN"
+"http://www.w3.org/TR/html4/loose.dtd">
+<HTML>
+<HEAD>
+<TITLE>Advanced stats profile for Gavin Edwards</TITLE>
+    <script type="text/javascript">
+      WebFontConfig = {
+        google: { families: [ 'PT Sans', 'PT Sans Narrow'] }
+      };
+      (function() {
+        var wf = document.createElement('script');
+        wf.src = ('https:' == document.location.protocol ? 'https' : 'http') +
+            '://ajax.googleapis.com/ajax/libs/webfont/1/webfont.js';
+        wf.type = 'text/javascript';
+        wf.async = 'true';
+        var s = document.getElementsByTagName('script')[0];
+        s.parentNode.insertBefore(wf, s);
+      })();
+    </script>
+ 
+<link rel="Shortcut Icon" type="image/ico" href="/assets/favicon.ico" /> 
+
+<link rel="stylesheet" href="css/blueprint/screen.css" type="text/css" media="screen, projection">
+<!-- <link rel="stylesheet" href="css/blueprint/print.css" type="text/css" media="print"> -->
+<LINK REL=stylesheet TYPE="text/css" HREF="css/rate.css?1330841405">
+<LINK REL=stylesheet TYPE="text/css" HREF="css/navbar.css">
+
+</HEAD>
+
+<script type="text/javascript">
+var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
+document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
+</script>
+<script type="text/javascript">
+try {
+var pageTracker = _gat._getTracker("UA-11558853-1");
+pageTracker._trackPageview();
+} catch(err) {}</script>
+
+<body>
+
+   <div id="wrapper">
+   <div id="container">
+
+
+	
+<div id="logged-in">
+Logged in as: lilleswing@gmail.com | subscription expires 3/6/13 | <a href="index.php?logout">Logout</a> | <a href="change.php">Change Password</a>
+      <div id="logo-header">
+    	  <img name="header" src="/assets/header.jpg" width="1000" height="35" border="0" usemap="#header" /><map name="header" />
+	      <area shape="rect" coords="941,2,966,27" href="http://twitter.com/kenpomeroy" title="Follow me on twitter" alt="Follow me on twitter" />
+	      </map>
+      </div> <!-- end logo-header div -->
+
+      <div id="nav">
+	       <ul>
+			  <li class="ratings"><a href="http://kenpom.com" title="Ratings"></a></li>		   
+			  <li class="blog"><a href="http://kenpom.com/blog" title="Blog"></a></li>		   
+			  <li class="fourfactors"><a href="http://kenpom.com/stats.php" title="Four Factors"></a></li>		   
+			  <li class="teamstats"><a href="http://kenpom.com/teamstats.php" title="Team Stats"></a></li>		   
+			  <li class="playerstats"><a href="http://kenpom.com/playerstats.php" title="Player Stats"></a></li>		   
+			  <li class="fanmatch"><a href="http://kenpom.com/fanmatch.php" title="FanMatch"></a></li>		   
+			  <li class="contact"><a href="http://kenpom.com/blog/index.php/weblog/how_to_contact_me/" title="Contact"></a></li>		   
+		   </ul>
+	  </div>
+
+	  <!-- The content header -->
+      <div id="content-header">
+<h3>Advanced stats profile for Gavin Edwards</h3>
+<div id="players">
+
+<table id="player-table">
+	<thead>
+		<tr>
+			<th scope="col">&nbsp;</th>
+			<th scope="col">&nbsp;</th>
+			<th scope="col">Ht</th>
+			<th scope="col">Wt</th>
+			<th scope="col">Yr</th>
+			<th scope="col">G</th>
+            <th scope="col" class="divide">%Min</th>
+            <th scope="col" class="divide">ORtg</th>
+            <th scope="col">%Poss</th>
+            <th scope="col">%Shots</th>
+            <th scope="col" class="divide">eFG%</th>
+            <th scope="col">TS%</th>
+            <th scope="col" class="divide">OR%</th>
+            <th scope="col">DR%</th>
+            <th scope="col" class="divide">ARate</th>
+            <th scope="col">TORate</th>
+            <th scope="col" class="divide">Blk%</th>
+            <th scope="col">Stl%</th>
+            <th scope="col" class="divide">FC/40</th>
+            <th scope="col">FD/40</th>
+            <th scope="col">FTRate</th>
+			<th scope="col" class="divide">FTM-FTA</th>
+			<th scope="col">Pct</th>
+			<th scope="col" class="divide">2PM-2PA</th>
+			<th scope="col">Pct</th>
+			<th scope="col" class="divide">3PM-3PA</th>
+			<th scope="col">Pct</th>
+		</tr>
+	</thead>
+	<tbody>
+
+</tr>
+</tr>
+<tr class="comps-player"><td>2010</td><td style="text-align:left"><a href="/team.php?team=Connecticut&y=2010"><b>Connecticut</b></a> <span class="seed"></span><br /><span class="plrank">National Rank</span></td><td>6-9</td><td>230</td><td>Sr</td><td>34<br /></td>
+<td class="divide">76.0<br /><span class="plrank">475</span></td><td class="divide">114.7<br /><span class="plrank">205</span></td><td>16.6</td><td>15.6</td><td class="divide">59.2<br /><span class="plrank">57</span></td><td>64.0<br /><span class="plrank">24</span></td><td class="divide">9.4<br /><span class="plrank">394</span></td><td>13.2</td><td class="divide">5.1</td><td>20.9</td><td class="divide">6.1<br /><span class="plrank">131</span></td><td>1.5</td><td class="divide">3.3</td><td>3.9</td><td>55.6<br /><span class="plrank">176</span></td><td class="divide">97-124</td><td>.782</td><td class="divide">132-222</td><td>.595</td><td class="divide">0-1</td><td>.000</td></tr>
+<tr class="comps">
+<td colspan=2 style="text-align:left"></td>
+<td style="text-align:left" colspan=26><a href="http://kenpom.com/blog/index.php/weblog/free_tim_williams/">Similar</a>: 
+'12 <a href="/player.php?p=6872">Sean Carter</a> (897),
+'08 <a href="/player.php?p=1360">Dave Bliss</a> (895),
+'09 <a href="/player.php?p=4318">Taylor Griffin</a> (895),
+'09 <a href="/player.php?p=6449">Reggie Fuller</a> (892),
+'10 <a href="/player.php?p=3693">Nkem Ojougboh</a> (881)
+</tr>
+<tr class="comps-player"><td>2009</td><td style="text-align:left"><a href="/team.php?team=Connecticut&y=2009"><b>Connecticut</b></a> <span class="seed">1</span></td><td>6-9</td><td>234</td><td>Jr</td><td>36<br /></td>
+<td class="divide">28.6</td><td class="divide">120.9</td><td>15.4</td><td>13.3</td><td class="divide">63.8</td><td>66.9</td><td class="divide">12.3</td><td>14.5</td><td class="divide">5.1</td><td>20.5</td><td class="divide">5.8</td><td>1.8</td><td class="divide">5.7</td><td>3.6</td><td>58.8</td><td class="divide">35-47</td><td>.745</td><td class="divide">51-80</td><td>.638</td><td class="divide">0-0</td><td>.000</td></tr>
+<tr class="comps">
+<td colspan=2 style="text-align:left"></td>
+<td style="text-align:left" colspan=26><a href="http://kenpom.com/blog/index.php/weblog/free_tim_williams/">Similar</a>: 
+'10 <a href="/player.php?p=7322">Jerai Grant</a> (871),
+'09 <a href="/player.php?p=7039">Eric Boateng</a> (862),
+'06 <a href="/player.php?p=2394">Chris Richard</a> (848),
+'10 <a href="/player.php?p=7520">Devin Searcy</a> (847),
+'07 <a href="/player.php?p=2973">Lorenzo Mata</a> (847)
+</tr>
+<tr class="comps-player"><td>2008</td><td style="text-align:left"><a href="/team.php?team=Connecticut&y=2008"><b>Connecticut</b></a> <span class="seed">4</span></td><td>6-9</td><td>230</td><td>So</td><td>31<br /></td>
+<td class="divide">18.3</td><td class="divide">109.8</td><td>18.4</td><td>17.4</td><td class="divide">55.0</td><td>59.9</td><td class="divide">11.3</td><td>10.6</td><td class="divide">5.5</td><td>21.5</td><td class="divide">4.4</td><td>2.3</td><td class="divide">6.4</td><td>4.0</td><td>50.0</td><td class="divide">23-30</td><td>.767</td><td class="divide">33-60</td><td>.550</td><td class="divide">0-0</td><td>.000</td></tr>
+<tr class="comps">
+<td colspan=2 style="text-align:left"></td>
+<td style="text-align:left" colspan=26><a href="http://kenpom.com/blog/index.php/weblog/free_tim_williams/">Similar</a>: 
+<b>'06 <a href="/player.php?p=2779">Ousmane Barro</a> (901)</b>,
+'07 <a href="/player.php?p=3852">Dante Cunningham</a> (890),
+'08 <a href="/player.php?p=5521">Willie Veasley</a> (883),
+'08 <a href="/player.php?p=5285">Duke Crews</a> (874),
+'12 <a href="/player.php?p=11178">Adreian Payne</a> (866)
+</tr>
+<tr class="comps-player"><td>2007</td><td style="text-align:left"><a href="/team.php?team=Connecticut&y=2007"><b>Connecticut</b></a> <span class="seed"></span></td><td>6-9</td><td>230</td><td>Fr</td><td>22<br /></td>
+<td class="divide">11.6</td><td class="divide">99.4</td><td>16.7</td><td>14.4</td><td class="divide">56.7</td><td>53.8</td><td class="divide">10.8</td><td>18.5</td><td class="divide">2.8</td><td>19.0</td><td class="divide">8.9</td><td>1.2</td><td class="divide">5.3</td><td>4.9</td><td>76.7</td><td class="divide">10-23</td><td>.435</td><td class="divide">17-30</td><td>.567</td><td class="divide">0-0</td><td>.000</td></tr>
+<tr class="comps">
+<td colspan=2 style="text-align:left"></td>
+<td style="text-align:left" colspan=26><a href="http://kenpom.com/blog/index.php/weblog/free_tim_williams/">Similar</a>: 
+'10 <a href="/player.php?p=9868">Tyreese Breshers</a> (895),
+'09 <a href="/player.php?p=8163">DeAngelo Casto</a> (871),
+'10 <a href="/player.php?p=10100">Ray Turner</a> (866),
+'06 <a href="/player.php?p=4577">Arinze Onuaku</a> (862),
+'08 <a href="/player.php?p=6951">Rick Jackson</a> (860)
+</tr>
+</tr>
+</tr>
+</tbody></table>
+</div>    </div> <!-- end data-area div -->
+	</div>
+	<div id="team-footer"> 
+&copy; 1999-2012 The Forecast Factory LLC. All rights reserved.
+	
+	| <a href="terms.php">Terms of Use</a> | <a href="privacy.php">Privacy Policy</a>
+	| This season's stats provided by The Sports Network<br/ >   
+	</div>
+	</div> 
+   <!-- end wrapper div -->
+</body>
+</html>

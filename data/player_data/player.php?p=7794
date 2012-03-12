@@ -1,0 +1,166 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN"
+"http://www.w3.org/TR/html4/loose.dtd">
+<HTML>
+<HEAD>
+<TITLE>Advanced stats profile for Joshua Jones</TITLE>
+    <script type="text/javascript">
+      WebFontConfig = {
+        google: { families: [ 'PT Sans', 'PT Sans Narrow'] }
+      };
+      (function() {
+        var wf = document.createElement('script');
+        wf.src = ('https:' == document.location.protocol ? 'https' : 'http') +
+            '://ajax.googleapis.com/ajax/libs/webfont/1/webfont.js';
+        wf.type = 'text/javascript';
+        wf.async = 'true';
+        var s = document.getElementsByTagName('script')[0];
+        s.parentNode.insertBefore(wf, s);
+      })();
+    </script>
+ 
+<link rel="Shortcut Icon" type="image/ico" href="/assets/favicon.ico" /> 
+
+<link rel="stylesheet" href="css/blueprint/screen.css" type="text/css" media="screen, projection">
+<!-- <link rel="stylesheet" href="css/blueprint/print.css" type="text/css" media="print"> -->
+<LINK REL=stylesheet TYPE="text/css" HREF="css/rate.css?1330841405">
+<LINK REL=stylesheet TYPE="text/css" HREF="css/navbar.css">
+
+</HEAD>
+
+<script type="text/javascript">
+var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
+document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
+</script>
+<script type="text/javascript">
+try {
+var pageTracker = _gat._getTracker("UA-11558853-1");
+pageTracker._trackPageview();
+} catch(err) {}</script>
+
+<body>
+
+   <div id="wrapper">
+   <div id="container">
+
+
+	
+<div id="logged-in">
+Logged in as: lilleswing@gmail.com | subscription expires 3/6/13 | <a href="index.php?logout">Logout</a> | <a href="change.php">Change Password</a>
+      <div id="logo-header">
+    	  <img name="header" src="/assets/header.jpg" width="1000" height="35" border="0" usemap="#header" /><map name="header" />
+	      <area shape="rect" coords="941,2,966,27" href="http://twitter.com/kenpomeroy" title="Follow me on twitter" alt="Follow me on twitter" />
+	      </map>
+      </div> <!-- end logo-header div -->
+
+      <div id="nav">
+	       <ul>
+			  <li class="ratings"><a href="http://kenpom.com" title="Ratings"></a></li>		   
+			  <li class="blog"><a href="http://kenpom.com/blog" title="Blog"></a></li>		   
+			  <li class="fourfactors"><a href="http://kenpom.com/stats.php" title="Four Factors"></a></li>		   
+			  <li class="teamstats"><a href="http://kenpom.com/teamstats.php" title="Team Stats"></a></li>		   
+			  <li class="playerstats"><a href="http://kenpom.com/playerstats.php" title="Player Stats"></a></li>		   
+			  <li class="fanmatch"><a href="http://kenpom.com/fanmatch.php" title="FanMatch"></a></li>		   
+			  <li class="contact"><a href="http://kenpom.com/blog/index.php/weblog/how_to_contact_me/" title="Contact"></a></li>		   
+		   </ul>
+	  </div>
+
+	  <!-- The content header -->
+      <div id="content-header">
+<h3>Advanced stats profile for Joshua Jones</h3>
+<div id="players">
+
+<table id="player-table">
+	<thead>
+		<tr>
+			<th scope="col">&nbsp;</th>
+			<th scope="col">&nbsp;</th>
+			<th scope="col">Ht</th>
+			<th scope="col">Wt</th>
+			<th scope="col">Yr</th>
+			<th scope="col">G</th>
+            <th scope="col" class="divide">%Min</th>
+            <th scope="col" class="divide">ORtg</th>
+            <th scope="col">%Poss</th>
+            <th scope="col">%Shots</th>
+            <th scope="col" class="divide">eFG%</th>
+            <th scope="col">TS%</th>
+            <th scope="col" class="divide">OR%</th>
+            <th scope="col">DR%</th>
+            <th scope="col" class="divide">ARate</th>
+            <th scope="col">TORate</th>
+            <th scope="col" class="divide">Blk%</th>
+            <th scope="col">Stl%</th>
+            <th scope="col" class="divide">FC/40</th>
+            <th scope="col">FD/40</th>
+            <th scope="col">FTRate</th>
+			<th scope="col" class="divide">FTM-FTA</th>
+			<th scope="col">Pct</th>
+			<th scope="col" class="divide">2PM-2PA</th>
+			<th scope="col">Pct</th>
+			<th scope="col" class="divide">3PM-3PA</th>
+			<th scope="col">Pct</th>
+		</tr>
+	</thead>
+	<tbody>
+
+<tr class="comps-player"><td>2012</td><td style="text-align:left"><a href="/team.php?team=Eastern Kentucky"><b>Eastern Kentucky</b></a> <span class="seed"></span><br /><span class="plrank">National Rank</span></td><td>6-4</td><td>191</td><td>Sr</td><td>32<br /></td>
+<td class="divide">75.4</td><td class="divide">102.3</td><td>20.0</td><td>22.8</td><td class="divide">52.2<br /><span class="plrank">461</span></td><td>54.2</td><td class="divide">2.7</td><td>13.5</td><td class="divide">9.9</td><td>15.8<br /><span class="plrank">481</span></td><td class="divide">0.5</td><td>2.6<br /><span class="plrank">425</span></td><td class="divide">3.1</td><td>2.5</td><td>19.3</td><td class="divide">41-57</td><td>.719</td><td class="divide">70-148</td><td>.473</td><td class="divide">56-147</td><td>.381</td></tr>
+<tr class="comps">
+<td colspan=2 style="text-align:left"></td>
+<td style="text-align:left" colspan=26><a href="http://kenpom.com/blog/index.php/weblog/free_tim_williams/">Similar</a>: 
+<b>'11 <a href="/player.php?p=7037">Jeremy Bynum</a> (936)</b>,
+<b>'12 <a href="/player.php?p=7309">Troy Brewer</a> (928)</b>,
+<b>'10 <a href="/player.php?p=4045">Richard Delk</a> (928)</b>,
+<b>'07 <a href="/player.php?p=1105">Raheem Moss</a> (927)</b>,
+<b>'08 <a href="/player.php?p=1909">Reggie Bishop</a> (927)</b></td>
+</tr>
+<tr class="comps-player"><td>2011</td><td style="text-align:left"><a href="/team.php?team=Eastern Kentucky&y=2011"><b>Eastern Kentucky</b></a> <span class="seed"></span><br /><span class="plrank">National Rank</span></td><td>6-4</td><td>185</td><td>Jr</td><td>30<br /></td>
+<td class="divide">71.0</td><td class="divide">102.8</td><td>20.6</td><td>22.0</td><td class="divide">53.6<br /><span class="plrank">315</span></td><td>57.2<br /><span class="plrank">328</span></td><td class="divide">2.1</td><td>9.1</td><td class="divide">14.2</td><td>18.7</td><td class="divide">1.9</td><td>1.6</td><td class="divide">3.7</td><td>3.3</td><td>28.7</td><td class="divide">56-71</td><td>.789</td><td class="divide">56-112</td><td>.500</td><td class="divide">51-135</td><td>.378</td></tr>
+<tr class="comps">
+<td colspan=2 style="text-align:left"></td>
+<td style="text-align:left" colspan=26><a href="http://kenpom.com/blog/index.php/weblog/free_tim_williams/">Similar</a>: 
+<b>'08 <a href="/player.php?p=6376">Joe Jackson</a> (932)</b>,
+<b>'12 <a href="/player.php?p=10211">London Giles</a> (927)</b>,
+<b>'10 <a href="/player.php?p=7151">Cedric Latimer</a> (924)</b>,
+<b>'12 <a href="/player.php?p=9076">Marland Smith</a> (924)</b>,
+<b>'07 <a href="/player.php?p=4913">Darren Hopkins</a> (923)</b></td>
+</tr>
+<tr class="comps-player"><td>2010</td><td style="text-align:left"><a href="/team.php?team=Eastern Kentucky&y=2010"><b>Eastern Kentucky</b></a> <span class="seed"></span><br /><span class="plrank">National Rank</span></td><td>6-4</td><td>185</td><td>So</td><td>32<br /></td>
+<td class="divide">72.4</td><td class="divide">106.9</td><td>18.1</td><td>17.4</td><td class="divide">52.9<br /><span class="plrank">369</span></td><td>55.5<br /><span class="plrank">455</span></td><td class="divide">2.0</td><td>7.8</td><td class="divide">15.6</td><td>16.4</td><td class="divide">1.1</td><td>2.0</td><td class="divide">3.0</td><td>3.0</td><td>30.7</td><td class="divide">48-69</td><td>.696</td><td class="divide">47-111</td><td>.423</td><td class="divide">48-114</td><td>.421</td></tr>
+<tr class="comps">
+<td colspan=2 style="text-align:left"></td>
+<td style="text-align:left" colspan=26><a href="http://kenpom.com/blog/index.php/weblog/free_tim_williams/">Similar</a>: 
+<b>'10 <a href="/player.php?p=7593">Jarred DuBois</a> (938)</b>,
+<b>'06 <a href="/player.php?p=440">Tim Blackwell</a> (935)</b>,
+<b>'11 <a href="/player.php?p=9897">Orlando Williams</a> (935)</b>,
+<b>'10 <a href="/player.php?p=8054">Andre Cornelius</a> (933)</b>,
+<b>'07 <a href="/player.php?p=4035">DeVon Mosley</a> (930)</b></td>
+</tr>
+<tr class="comps-player"><td>2009</td><td style="text-align:left"><a href="/team.php?team=Eastern Kentucky&y=2009"><b>Eastern Kentucky</b></a> <span class="seed"></span><br /><span class="plrank">National Rank</span></td><td>6-4</td><td>190</td><td>Fr</td><td>31<br /></td>
+<td class="divide">63.1</td><td class="divide">118.3<br /><span class="plrank">96</span></td><td>15.2</td><td>16.3</td><td class="divide">56.5<br /><span class="plrank">177</span></td><td>58.0<br /><span class="plrank">277</span></td><td class="divide">0.8</td><td>10.4</td><td class="divide">13.1</td><td>11.8<br /><span class="plrank">79</span></td><td class="divide">0.3</td><td>2.4</td><td class="divide">2.2<br /><span class="plrank">237</span></td><td>2.8</td><td>33.0</td><td class="divide">37-58</td><td>.638</td><td class="divide">32-62</td><td>.516</td><td class="divide">45-114</td><td>.395</td></tr>
+<tr class="comps">
+<td colspan=2 style="text-align:left"></td>
+<td style="text-align:left" colspan=26><a href="http://kenpom.com/blog/index.php/weblog/free_tim_williams/">Similar</a>: 
+<b>'10 <a href="/player.php?p=9099">Kyle Smyth</a> (923)</b>,
+'11 <a href="/player.php?p=10610">Jahenns Manigat</a> (898),
+'11 <a href="/player.php?p=10446">Nick Kellogg</a> (888),
+'10 <a href="/player.php?p=8966">Jake Thomas</a> (887),
+'11 <a href="/player.php?p=10643">Coron Williams</a> (887)
+</tr>
+</tr>
+</tr>
+</tr>
+</tr>
+</tbody></table>
+</div>    </div> <!-- end data-area div -->
+	</div>
+	<div id="team-footer"> 
+&copy; 1999-2012 The Forecast Factory LLC. All rights reserved.
+	
+	| <a href="terms.php">Terms of Use</a> | <a href="privacy.php">Privacy Policy</a>
+	| This season's stats provided by The Sports Network<br/ >   
+	</div>
+	</div> 
+   <!-- end wrapper div -->
+</body>
+</html>

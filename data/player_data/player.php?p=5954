@@ -1,0 +1,166 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN"
+"http://www.w3.org/TR/html4/loose.dtd">
+<HTML>
+<HEAD>
+<TITLE>Advanced stats profile for Reed Baker</TITLE>
+    <script type="text/javascript">
+      WebFontConfig = {
+        google: { families: [ 'PT Sans', 'PT Sans Narrow'] }
+      };
+      (function() {
+        var wf = document.createElement('script');
+        wf.src = ('https:' == document.location.protocol ? 'https' : 'http') +
+            '://ajax.googleapis.com/ajax/libs/webfont/1/webfont.js';
+        wf.type = 'text/javascript';
+        wf.async = 'true';
+        var s = document.getElementsByTagName('script')[0];
+        s.parentNode.insertBefore(wf, s);
+      })();
+    </script>
+ 
+<link rel="Shortcut Icon" type="image/ico" href="/assets/favicon.ico" /> 
+
+<link rel="stylesheet" href="css/blueprint/screen.css" type="text/css" media="screen, projection">
+<!-- <link rel="stylesheet" href="css/blueprint/print.css" type="text/css" media="print"> -->
+<LINK REL=stylesheet TYPE="text/css" HREF="css/rate.css?1330841405">
+<LINK REL=stylesheet TYPE="text/css" HREF="css/navbar.css">
+
+</HEAD>
+
+<script type="text/javascript">
+var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
+document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
+</script>
+<script type="text/javascript">
+try {
+var pageTracker = _gat._getTracker("UA-11558853-1");
+pageTracker._trackPageview();
+} catch(err) {}</script>
+
+<body>
+
+   <div id="wrapper">
+   <div id="container">
+
+
+	
+<div id="logged-in">
+Logged in as: lilleswing@gmail.com | subscription expires 3/6/13 | <a href="index.php?logout">Logout</a> | <a href="change.php">Change Password</a>
+      <div id="logo-header">
+    	  <img name="header" src="/assets/header.jpg" width="1000" height="35" border="0" usemap="#header" /><map name="header" />
+	      <area shape="rect" coords="941,2,966,27" href="http://twitter.com/kenpomeroy" title="Follow me on twitter" alt="Follow me on twitter" />
+	      </map>
+      </div> <!-- end logo-header div -->
+
+      <div id="nav">
+	       <ul>
+			  <li class="ratings"><a href="http://kenpom.com" title="Ratings"></a></li>		   
+			  <li class="blog"><a href="http://kenpom.com/blog" title="Blog"></a></li>		   
+			  <li class="fourfactors"><a href="http://kenpom.com/stats.php" title="Four Factors"></a></li>		   
+			  <li class="teamstats"><a href="http://kenpom.com/teamstats.php" title="Team Stats"></a></li>		   
+			  <li class="playerstats"><a href="http://kenpom.com/playerstats.php" title="Player Stats"></a></li>		   
+			  <li class="fanmatch"><a href="http://kenpom.com/fanmatch.php" title="FanMatch"></a></li>		   
+			  <li class="contact"><a href="http://kenpom.com/blog/index.php/weblog/how_to_contact_me/" title="Contact"></a></li>		   
+		   </ul>
+	  </div>
+
+	  <!-- The content header -->
+      <div id="content-header">
+<h3>Advanced stats profile for Reed Baker</h3>
+<div id="players">
+
+<table id="player-table">
+	<thead>
+		<tr>
+			<th scope="col">&nbsp;</th>
+			<th scope="col">&nbsp;</th>
+			<th scope="col">Ht</th>
+			<th scope="col">Wt</th>
+			<th scope="col">Yr</th>
+			<th scope="col">G</th>
+            <th scope="col" class="divide">%Min</th>
+            <th scope="col" class="divide">ORtg</th>
+            <th scope="col">%Poss</th>
+            <th scope="col">%Shots</th>
+            <th scope="col" class="divide">eFG%</th>
+            <th scope="col">TS%</th>
+            <th scope="col" class="divide">OR%</th>
+            <th scope="col">DR%</th>
+            <th scope="col" class="divide">ARate</th>
+            <th scope="col">TORate</th>
+            <th scope="col" class="divide">Blk%</th>
+            <th scope="col">Stl%</th>
+            <th scope="col" class="divide">FC/40</th>
+            <th scope="col">FD/40</th>
+            <th scope="col">FTRate</th>
+			<th scope="col" class="divide">FTM-FTA</th>
+			<th scope="col">Pct</th>
+			<th scope="col" class="divide">2PM-2PA</th>
+			<th scope="col">Pct</th>
+			<th scope="col" class="divide">3PM-3PA</th>
+			<th scope="col">Pct</th>
+		</tr>
+	</thead>
+	<tbody>
+
+</tr>
+<tr class="comps-player"><td>2011</td><td style="text-align:left"><a href="/team.php?team=Florida Gulf Coast&y=2011"><b>Florida Gulf Coast</b></a> <span class="seed"></span></td><td>6-1</td><td>180</td><td>Sr</td><td>14<br /></td>
+<td class="divide">32.2</td><td class="divide">100.1</td><td>25.6</td><td>31.4</td><td class="divide">44.3</td><td>51.3</td><td class="divide">1.9</td><td>8.6</td><td class="divide">9.3</td><td>15.4</td><td class="divide">0.0</td><td>3.2</td><td class="divide">1.3</td><td>5.2</td><td>36.3</td><td class="divide">53-61</td><td>.869</td><td class="divide">43-96</td><td>.448</td><td class="divide">21-72</td><td>.292</td></tr>
+<tr class="comps">
+<td colspan=2 style="text-align:left"></td>
+<td style="text-align:left" colspan=26><a href="http://kenpom.com/blog/index.php/weblog/free_tim_williams/">Similar</a>: 
+<b>'10 <a href="/player.php?p=5359">Jay-R Strowbridge</a> (918)</b>,
+'08 <a href="/player.php?p=4990">Chuma Awaji</a> (894),
+'12 <a href="/player.php?p=8377">Terrance Hill</a> (892),
+'09 <a href="/player.php?p=6821">T.J. Worley</a> (890),
+'07 <a href="/player.php?p=4348">Travis Jones</a> (886)
+</tr>
+<tr class="comps-player"><td>2010</td><td style="text-align:left"><a href="/team.php?team=Florida Gulf Coast&y=2010"><b>Florida Gulf Coast</b></a> <span class="seed"></span><br /><span class="plrank">National Rank</span></td><td>6-1</td><td>180</td><td>Jr</td><td>29<br /></td>
+<td class="divide">62.7</td><td class="divide">98.1</td><td>24.5<br /><span class="plrank">390</span></td><td>29.0<br /><span class="plrank">137</span></td><td class="divide">44.0</td><td>49.7</td><td class="divide">1.8</td><td>5.8</td><td class="divide">17.1</td><td>18.8</td><td class="divide">0.2</td><td>2.0</td><td class="divide">2.1<br /><span class="plrank">177</span></td><td>4.4</td><td>30.1</td><td class="divide">75-88</td><td>.852</td><td class="divide">55-146</td><td>.377</td><td class="divide">49-146</td><td>.336</td></tr>
+<tr class="comps">
+<td colspan=2 style="text-align:left"></td>
+<td style="text-align:left" colspan=26><a href="http://kenpom.com/blog/index.php/weblog/free_tim_williams/">Similar</a>: 
+<b>'06 <a href="/player.php?p=3649">Arvydas Eitutavicius</a> (942)</b>,
+<b>'11 <a href="/player.php?p=10556">Kenny McGowen</a> (938)</b>,
+<b>'11 <a href="/player.php?p=10406">Cornelius Chatt</a> (928)</b>,
+<b>'06 <a href="/player.php?p=3780">Clarence Sanders</a> (925)</b>,
+<b>'10 <a href="/player.php?p=6796">Calvin Haynes</a> (917)</b></td>
+</tr>
+<tr class="comps-player"><td>2009</td><td style="text-align:left"><a href="/team.php?team=Florida Gulf Coast&y=2009"><b>Florida Gulf Coast</b></a> <span class="seed"></span><br /><span class="plrank">National Rank</span></td><td>6-1</td><td>175</td><td>So</td><td>31<br /></td>
+<td class="divide">72.9</td><td class="divide">88.0</td><td>27.4<br /><span class="plrank">145</span></td><td>30.0<br /><span class="plrank">102</span></td><td class="divide">42.9</td><td>49.2</td><td class="divide">2.0</td><td>9.7</td><td class="divide">21.2<br /><span class="plrank">382</span></td><td>23.3</td><td class="divide">0.1</td><td>2.0</td><td class="divide">2.4<br /><span class="plrank">313</span></td><td>4.7<br /><span class="plrank">425</span></td><td>33.5</td><td class="divide">103-122</td><td>.844</td><td class="divide">66-181</td><td>.365</td><td class="divide">60-183</td><td>.328</td></tr>
+<tr class="comps">
+<td colspan=2 style="text-align:left"></td>
+<td style="text-align:left" colspan=26><a href="http://kenpom.com/blog/index.php/weblog/free_tim_williams/">Similar</a>: 
+<b>'07 <a href="/player.php?p=1200">Tyrone Hamilton</a> (939)</b>,
+<b>'09 <a href="/player.php?p=6217">Alvin Abreu</a> (935)</b>,
+<b>'09 <a href="/player.php?p=6362">Nick Leon</a> (931)</b>,
+<b>'07 <a href="/player.php?p=3273">Matt Cadwell</a> (920)</b>,
+<b>'08 <a href="/player.php?p=5470">A.J. Smith</a> (913)</b></td>
+</tr>
+</tr>
+<tr class="comps-player"><td>2007</td><td style="text-align:left"><a href="/team.php?team=Michigan&y=2007"><b>Michigan</b></a> <span class="seed"></span></td><td>6-1</td><td>175</td><td>Fr</td><td>28<br /></td>
+<td class="divide">16.8</td><td class="divide">87.2</td><td>20.0</td><td>21.8</td><td class="divide">45.4</td><td>49.2</td><td class="divide">1.7</td><td>5.1</td><td class="divide">10.7</td><td>28.3</td><td class="divide">0.0</td><td>1.6</td><td class="divide">2.0</td><td>2.9</td><td>23.1</td><td class="divide">12-15</td><td>.800</td><td class="divide">4-17</td><td>.235</td><td class="divide">17-48</td><td>.354</td></tr>
+<tr class="comps">
+<td colspan=2 style="text-align:left"></td>
+<td style="text-align:left" colspan=26><a href="http://kenpom.com/blog/index.php/weblog/free_tim_williams/">Similar</a>: 
+'11 <a href="/player.php?p=10788">Jay Harris</a> (892),
+'10 <a href="/player.php?p=10039">Preston Medlin</a> (891),
+'07 <a href="/player.php?p=5709">Stefan Welsh</a> (889),
+'09 <a href="/player.php?p=8829">Matthew Wallace</a> (883),
+'10 <a href="/player.php?p=9638">Randal Holt</a> (877)
+</tr>
+</tr>
+</tr>
+</tbody></table>
+</div>    </div> <!-- end data-area div -->
+	</div>
+	<div id="team-footer"> 
+&copy; 1999-2012 The Forecast Factory LLC. All rights reserved.
+	
+	| <a href="terms.php">Terms of Use</a> | <a href="privacy.php">Privacy Policy</a>
+	| This season's stats provided by The Sports Network<br/ >   
+	</div>
+	</div> 
+   <!-- end wrapper div -->
+</body>
+</html>

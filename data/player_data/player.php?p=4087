@@ -1,0 +1,166 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN"
+"http://www.w3.org/TR/html4/loose.dtd">
+<HTML>
+<HEAD>
+<TITLE>Advanced stats profile for Markus Mitchell</TITLE>
+    <script type="text/javascript">
+      WebFontConfig = {
+        google: { families: [ 'PT Sans', 'PT Sans Narrow'] }
+      };
+      (function() {
+        var wf = document.createElement('script');
+        wf.src = ('https:' == document.location.protocol ? 'https' : 'http') +
+            '://ajax.googleapis.com/ajax/libs/webfont/1/webfont.js';
+        wf.type = 'text/javascript';
+        wf.async = 'true';
+        var s = document.getElementsByTagName('script')[0];
+        s.parentNode.insertBefore(wf, s);
+      })();
+    </script>
+ 
+<link rel="Shortcut Icon" type="image/ico" href="/assets/favicon.ico" /> 
+
+<link rel="stylesheet" href="css/blueprint/screen.css" type="text/css" media="screen, projection">
+<!-- <link rel="stylesheet" href="css/blueprint/print.css" type="text/css" media="print"> -->
+<LINK REL=stylesheet TYPE="text/css" HREF="css/rate.css?1330841405">
+<LINK REL=stylesheet TYPE="text/css" HREF="css/navbar.css">
+
+</HEAD>
+
+<script type="text/javascript">
+var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
+document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
+</script>
+<script type="text/javascript">
+try {
+var pageTracker = _gat._getTracker("UA-11558853-1");
+pageTracker._trackPageview();
+} catch(err) {}</script>
+
+<body>
+
+   <div id="wrapper">
+   <div id="container">
+
+
+	
+<div id="logged-in">
+Logged in as: lilleswing@gmail.com | subscription expires 3/6/13 | <a href="index.php?logout">Logout</a> | <a href="change.php">Change Password</a>
+      <div id="logo-header">
+    	  <img name="header" src="/assets/header.jpg" width="1000" height="35" border="0" usemap="#header" /><map name="header" />
+	      <area shape="rect" coords="941,2,966,27" href="http://twitter.com/kenpomeroy" title="Follow me on twitter" alt="Follow me on twitter" />
+	      </map>
+      </div> <!-- end logo-header div -->
+
+      <div id="nav">
+	       <ul>
+			  <li class="ratings"><a href="http://kenpom.com" title="Ratings"></a></li>		   
+			  <li class="blog"><a href="http://kenpom.com/blog" title="Blog"></a></li>		   
+			  <li class="fourfactors"><a href="http://kenpom.com/stats.php" title="Four Factors"></a></li>		   
+			  <li class="teamstats"><a href="http://kenpom.com/teamstats.php" title="Team Stats"></a></li>		   
+			  <li class="playerstats"><a href="http://kenpom.com/playerstats.php" title="Player Stats"></a></li>		   
+			  <li class="fanmatch"><a href="http://kenpom.com/fanmatch.php" title="FanMatch"></a></li>		   
+			  <li class="contact"><a href="http://kenpom.com/blog/index.php/weblog/how_to_contact_me/" title="Contact"></a></li>		   
+		   </ul>
+	  </div>
+
+	  <!-- The content header -->
+      <div id="content-header">
+<h3>Advanced stats profile for Markus Mitchell</h3>
+<div id="players">
+
+<table id="player-table">
+	<thead>
+		<tr>
+			<th scope="col">&nbsp;</th>
+			<th scope="col">&nbsp;</th>
+			<th scope="col">Ht</th>
+			<th scope="col">Wt</th>
+			<th scope="col">Yr</th>
+			<th scope="col">G</th>
+            <th scope="col" class="divide">%Min</th>
+            <th scope="col" class="divide">ORtg</th>
+            <th scope="col">%Poss</th>
+            <th scope="col">%Shots</th>
+            <th scope="col" class="divide">eFG%</th>
+            <th scope="col">TS%</th>
+            <th scope="col" class="divide">OR%</th>
+            <th scope="col">DR%</th>
+            <th scope="col" class="divide">ARate</th>
+            <th scope="col">TORate</th>
+            <th scope="col" class="divide">Blk%</th>
+            <th scope="col">Stl%</th>
+            <th scope="col" class="divide">FC/40</th>
+            <th scope="col">FD/40</th>
+            <th scope="col">FTRate</th>
+			<th scope="col" class="divide">FTM-FTA</th>
+			<th scope="col">Pct</th>
+			<th scope="col" class="divide">2PM-2PA</th>
+			<th scope="col">Pct</th>
+			<th scope="col" class="divide">3PM-3PA</th>
+			<th scope="col">Pct</th>
+		</tr>
+	</thead>
+	<tbody>
+
+</tr>
+</tr>
+</tr>
+<tr class="comps-player"><td>2009</td><td style="text-align:left"><a href="/team.php?team=Mount St. Mary's&y=2009"><b>Mount St. Mary's</b></a> <span class="seed"></span><br /><span class="plrank">National Rank</span></td><td>6-7</td><td>245</td><td>Sr</td><td>33<br /></td>
+<td class="divide">58.0</td><td class="divide">102.0</td><td>12.7</td><td>9.9</td><td class="divide">54.7</td><td>55.7</td><td class="divide">9.6<br /><span class="plrank">344</span></td><td>18.2<br /><span class="plrank">291</span></td><td class="divide">11.6</td><td>28.1</td><td class="divide">3.0<br /><span class="plrank">380</span></td><td>2.8<br /><span class="plrank">362</span></td><td class="divide">4.9</td><td>2.0</td><td>26.4</td><td class="divide">17-28</td><td>.607</td><td class="divide">58-106</td><td>.547</td><td class="divide">0-0</td><td>.000</td></tr>
+<tr class="comps">
+<td colspan=2 style="text-align:left"></td>
+<td style="text-align:left" colspan=26><a href="http://kenpom.com/blog/index.php/weblog/free_tim_williams/">Similar</a>: 
+<b>'09 <a href="/player.php?p=7308">Kyle Taber</a> (902)</b>,
+'11 <a href="/player.php?p=9257">Jason Marks</a> (895),
+'11 <a href="/player.php?p=6177">Jon Pastorek</a> (882),
+'10 <a href="/player.php?p=5166">Ousmane Cisse</a> (881),
+'07 <a href="/player.php?p=3962">Philip McCandies</a> (874)
+</tr>
+<tr class="comps-player"><td>2008</td><td style="text-align:left"><a href="/team.php?team=Mount St. Mary's&y=2008"><b>Mount St. Mary's</b></a> <span class="seed">16</span><br /><span class="plrank">National Rank</span></td><td>6-7</td><td>245</td><td>Jr</td><td>34<br /></td>
+<td class="divide">59.0</td><td class="divide">96.4</td><td>15.6</td><td>13.4</td><td class="divide">53.7</td><td>54.6</td><td class="divide">10.1<br /><span class="plrank">274</span></td><td>18.4<br /><span class="plrank">264</span></td><td class="divide">10.3</td><td>27.1</td><td class="divide">2.7<br /><span class="plrank">444</span></td><td>2.9<br /><span class="plrank">318</span></td><td class="divide">5.6</td><td>2.6</td><td>32.0</td><td class="divide">27-47</td><td>.574</td><td class="divide">79-147</td><td>.537</td><td class="divide">0-0</td><td>.000</td></tr>
+<tr class="comps">
+<td colspan=2 style="text-align:left"></td>
+<td style="text-align:left" colspan=26><a href="http://kenpom.com/blog/index.php/weblog/free_tim_williams/">Similar</a>: 
+<b>'11 <a href="/player.php?p=10618">Ricardo Andreotti</a> (912)</b>,
+<b>'09 <a href="/player.php?p=7154">Najul Ervin</a> (900)</b>,
+'07 <a href="/player.php?p=5304">Joseph Taylor</a> (899),
+'10 <a href="/player.php?p=6140">Jonathan Cruz</a> (896),
+'06 <a href="/player.php?p=2366">Mike Housman</a> (887)
+</tr>
+<tr class="comps-player"><td>2007</td><td style="text-align:left"><a href="/team.php?team=Mount St. Mary's&y=2007"><b>Mount St. Mary's</b></a> <span class="seed"></span><br /><span class="plrank">National Rank</span></td><td>6-7</td><td>248</td><td>So</td><td>31<br /></td>
+<td class="divide">53.8</td><td class="divide">96.6</td><td>15.1</td><td>13.0</td><td class="divide">54.5</td><td>55.8</td><td class="divide">8.6</td><td>10.8</td><td class="divide">11.2</td><td>28.5</td><td class="divide">3.5<br /><span class="plrank">295</span></td><td>3.4<br /><span class="plrank">164</span></td><td class="divide">6.8</td><td>2.2</td><td>22.8</td><td class="divide">18-28</td><td>.643</td><td class="divide">67-123</td><td>.545</td><td class="divide">0-0</td><td>.000</td></tr>
+<tr class="comps">
+<td colspan=2 style="text-align:left"></td>
+<td style="text-align:left" colspan=26><a href="http://kenpom.com/blog/index.php/weblog/free_tim_williams/">Similar</a>: 
+<b>'07 <a href="/player.php?p=4009">Sam Atupem</a> (914)</b>,
+'12 <a href="/player.php?p=11686">Andrew Stire</a> (882),
+'08 <a href="/player.php?p=6073">Johnathan Frazier</a> (880),
+'12 <a href="/player.php?p=11284">Allen Jiles</a> (877),
+'06 <a href="/player.php?p=2748">Justin Blevins</a> (873)
+</tr>
+<tr class="comps-player"><td>2006</td><td colspan=5 style="text-align:left"><a href="/team.php?team=Mount St. Mary's&y=2006"><b>Mount St. Mary's</b></a> <span class="seed"></span></td>
+<td class="divide">35.8</td><td class="divide">105.6</td><td>13.7</td><td>11.4</td><td class="divide">52.2</td><td>54.6</td><td class="divide">8.5</td><td>8.0</td><td class="divide">8.6</td><td>18.3</td><td class="divide">6.0</td><td>2.4</td><td class="divide">6.9</td><td>3.4</td><td>65.7</td><td class="divide">26-44</td><td>.591</td><td class="divide">35-67</td><td>.522</td><td class="divide">0-0</td><td>.000</td></tr>
+<tr class="comps">
+<td colspan=2 style="text-align:left"></td>
+<td style="text-align:left" colspan=26><a href="http://kenpom.com/blog/index.php/weblog/free_tim_williams/">Similar</a>: 
+'09 <a href="/player.php?p=8394">Bassey Inameti</a> (877),
+'11 <a href="/player.php?p=10990">Matt Milk</a> (874),
+'10 <a href="/player.php?p=9755">Eddie Murray</a> (871),
+'06 <a href="/player.php?p=3923">Harold Stewart</a> (862),
+'08 <a href="/player.php?p=7465">Jeremy Thomas</a> (859)
+</tr>
+</tr>
+</tbody></table>
+</div>    </div> <!-- end data-area div -->
+	</div>
+	<div id="team-footer"> 
+&copy; 1999-2012 The Forecast Factory LLC. All rights reserved.
+	
+	| <a href="terms.php">Terms of Use</a> | <a href="privacy.php">Privacy Policy</a>
+	| This season's stats provided by The Sports Network<br/ >   
+	</div>
+	</div> 
+   <!-- end wrapper div -->
+</body>
+</html>

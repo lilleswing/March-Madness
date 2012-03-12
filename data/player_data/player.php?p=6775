@@ -1,0 +1,166 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN"
+"http://www.w3.org/TR/html4/loose.dtd">
+<HTML>
+<HEAD>
+<TITLE>Advanced stats profile for Demond Watt</TITLE>
+    <script type="text/javascript">
+      WebFontConfig = {
+        google: { families: [ 'PT Sans', 'PT Sans Narrow'] }
+      };
+      (function() {
+        var wf = document.createElement('script');
+        wf.src = ('https:' == document.location.protocol ? 'https' : 'http') +
+            '://ajax.googleapis.com/ajax/libs/webfont/1/webfont.js';
+        wf.type = 'text/javascript';
+        wf.async = 'true';
+        var s = document.getElementsByTagName('script')[0];
+        s.parentNode.insertBefore(wf, s);
+      })();
+    </script>
+ 
+<link rel="Shortcut Icon" type="image/ico" href="/assets/favicon.ico" /> 
+
+<link rel="stylesheet" href="css/blueprint/screen.css" type="text/css" media="screen, projection">
+<!-- <link rel="stylesheet" href="css/blueprint/print.css" type="text/css" media="print"> -->
+<LINK REL=stylesheet TYPE="text/css" HREF="css/rate.css?1330841405">
+<LINK REL=stylesheet TYPE="text/css" HREF="css/navbar.css">
+
+</HEAD>
+
+<script type="text/javascript">
+var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
+document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
+</script>
+<script type="text/javascript">
+try {
+var pageTracker = _gat._getTracker("UA-11558853-1");
+pageTracker._trackPageview();
+} catch(err) {}</script>
+
+<body>
+
+   <div id="wrapper">
+   <div id="container">
+
+
+	
+<div id="logged-in">
+Logged in as: lilleswing@gmail.com | subscription expires 3/6/13 | <a href="index.php?logout">Logout</a> | <a href="change.php">Change Password</a>
+      <div id="logo-header">
+    	  <img name="header" src="/assets/header.jpg" width="1000" height="35" border="0" usemap="#header" /><map name="header" />
+	      <area shape="rect" coords="941,2,966,27" href="http://twitter.com/kenpomeroy" title="Follow me on twitter" alt="Follow me on twitter" />
+	      </map>
+      </div> <!-- end logo-header div -->
+
+      <div id="nav">
+	       <ul>
+			  <li class="ratings"><a href="http://kenpom.com" title="Ratings"></a></li>		   
+			  <li class="blog"><a href="http://kenpom.com/blog" title="Blog"></a></li>		   
+			  <li class="fourfactors"><a href="http://kenpom.com/stats.php" title="Four Factors"></a></li>		   
+			  <li class="teamstats"><a href="http://kenpom.com/teamstats.php" title="Team Stats"></a></li>		   
+			  <li class="playerstats"><a href="http://kenpom.com/playerstats.php" title="Player Stats"></a></li>		   
+			  <li class="fanmatch"><a href="http://kenpom.com/fanmatch.php" title="FanMatch"></a></li>		   
+			  <li class="contact"><a href="http://kenpom.com/blog/index.php/weblog/how_to_contact_me/" title="Contact"></a></li>		   
+		   </ul>
+	  </div>
+
+	  <!-- The content header -->
+      <div id="content-header">
+<h3>Advanced stats profile for Demond Watt</h3>
+<div id="players">
+
+<table id="player-table">
+	<thead>
+		<tr>
+			<th scope="col">&nbsp;</th>
+			<th scope="col">&nbsp;</th>
+			<th scope="col">Ht</th>
+			<th scope="col">Wt</th>
+			<th scope="col">Yr</th>
+			<th scope="col">G</th>
+            <th scope="col" class="divide">%Min</th>
+            <th scope="col" class="divide">ORtg</th>
+            <th scope="col">%Poss</th>
+            <th scope="col">%Shots</th>
+            <th scope="col" class="divide">eFG%</th>
+            <th scope="col">TS%</th>
+            <th scope="col" class="divide">OR%</th>
+            <th scope="col">DR%</th>
+            <th scope="col" class="divide">ARate</th>
+            <th scope="col">TORate</th>
+            <th scope="col" class="divide">Blk%</th>
+            <th scope="col">Stl%</th>
+            <th scope="col" class="divide">FC/40</th>
+            <th scope="col">FD/40</th>
+            <th scope="col">FTRate</th>
+			<th scope="col" class="divide">FTM-FTA</th>
+			<th scope="col">Pct</th>
+			<th scope="col" class="divide">2PM-2PA</th>
+			<th scope="col">Pct</th>
+			<th scope="col" class="divide">3PM-3PA</th>
+			<th scope="col">Pct</th>
+		</tr>
+	</thead>
+	<tbody>
+
+</tr>
+<tr class="comps-player"><td>2011</td><td style="text-align:left"><a href="/team.php?team=Texas A%26M Corpus Chris&y=2011"><b>Texas A&M Corpus Chris</b></a> <span class="seed"></span><br /><span class="plrank">National Rank</span></td><td>6-7</td><td>210</td><td>Sr</td><td>31<br /></td>
+<td class="divide">82.8<br /><span class="plrank">183</span></td><td class="divide">108.3</td><td>24.2<br /><span class="plrank">447</span></td><td>21.6</td><td class="divide">58.0<br /><span class="plrank">101</span></td><td>60.7<br /><span class="plrank">105</span></td><td class="divide">13.4<br /><span class="plrank">63</span></td><td>19.1<br /><span class="plrank">235</span></td><td class="divide">10.9</td><td>20.7</td><td class="divide">4.1<br /><span class="plrank">276</span></td><td>1.9</td><td class="divide">2.2<br /><span class="plrank">221</span></td><td>6.0<br /><span class="plrank">101</span></td><td>74.9<br /><span class="plrank">33</span></td><td class="divide">138-212</td><td>.651</td><td class="divide">164-282</td><td>.582</td><td class="divide">0-1</td><td>.000</td></tr>
+<tr class="comps">
+<td colspan=2 style="text-align:left"></td>
+<td style="text-align:left" colspan=26><a href="http://kenpom.com/blog/index.php/weblog/free_tim_williams/">Similar</a>: 
+'10 <a href="/player.php?p=4094">Kevin Ford</a> (890),
+'12 <a href="/player.php?p=7284">Dominique Sutton</a> (889),
+'09 <a href="/player.php?p=4184">Nicchaeus Doaks</a> (886),
+'12 <a href="/player.php?p=10505">Chehales Tapscott</a> (885),
+'08 <a href="/player.php?p=2119">Amadi McKenzie</a> (884)
+</tr>
+<tr class="comps-player"><td>2010</td><td style="text-align:left"><a href="/team.php?team=Texas A%26M Corpus Chris&y=2010"><b>Texas A&M Corpus Chris</b></a> <span class="seed"></span><br /><span class="plrank">National Rank</span></td><td>6-7</td><td>205</td><td>Jr</td><td>32<br /></td>
+<td class="divide">75.7<br /><span class="plrank">487</span></td><td class="divide">121.3<br /><span class="plrank">53</span></td><td>19.2</td><td>18.4</td><td class="divide">65.8<br /><span class="plrank">7</span></td><td>66.9<br /><span class="plrank">7</span></td><td class="divide">11.4<br /><span class="plrank">179</span></td><td>18.9<br /><span class="plrank">241</span></td><td class="divide">12.2</td><td>18.4</td><td class="divide">4.6<br /><span class="plrank">228</span></td><td>1.6</td><td class="divide">3.0</td><td>4.5</td><td>62.0<br /><span class="plrank">109</span></td><td class="divide">97-145</td><td>.669</td><td class="divide">154-233</td><td>.661</td><td class="divide">0-1</td><td>.000</td></tr>
+<tr class="comps">
+<td colspan=2 style="text-align:left"></td>
+<td style="text-align:left" colspan=26><a href="http://kenpom.com/blog/index.php/weblog/free_tim_williams/">Similar</a>: 
+<b>'09 <a href="/player.php?p=5694">Jon Avery</a> (909)</b>,
+'07 <a href="/player.php?p=2205">Quincy Williams</a> (896),
+'09 <a href="/player.php?p=5555">Julius Thomas</a> (883),
+'08 <a href="/player.php?p=4271">Julius Carter</a> (879),
+'11 <a href="/player.php?p=10291">Leon Powell</a> (877)
+</tr>
+<tr class="comps-player"><td>2009</td><td style="text-align:left"><a href="/team.php?team=Texas A%26M Corpus Chris&y=2009"><b>Texas A&M Corpus Chris</b></a> <span class="seed"></span><br /><span class="plrank">National Rank</span></td><td>6-7</td><td>205</td><td>So</td><td>29<br /></td>
+<td class="divide">54.5</td><td class="divide">105.2</td><td>18.4</td><td>17.9</td><td class="divide">48.6</td><td>53.0</td><td class="divide">12.7<br /><span class="plrank">83</span></td><td>16.4<br /><span class="plrank">460</span></td><td class="divide">8.1</td><td>18.1</td><td class="divide">5.5<br /><span class="plrank">153</span></td><td>2.2</td><td class="divide">4.3</td><td>4.3</td><td>53.9</td><td class="divide">64-96</td><td>.667</td><td class="divide">85-177</td><td>.480</td><td class="divide">1-1</td><td>.999</td></tr>
+<tr class="comps">
+<td colspan=2 style="text-align:left"></td>
+<td style="text-align:left" colspan=26><a href="http://kenpom.com/blog/index.php/weblog/free_tim_williams/">Similar</a>: 
+<b>'07 <a href="/player.php?p=4043">Jack Liles</a> (928)</b>,
+<b>'10 <a href="/player.php?p=9178">Mike Morrison</a> (923)</b>,
+<b>'12 <a href="/player.php?p=11183">Nick Cook</a> (915)</b>,
+<b>'10 <a href="/player.php?p=8027">Yannick Crowder</a> (910)</b>,
+<b>'08 <a href="/player.php?p=5094">Anthony Johnson</a> (907)</b></td>
+</tr>
+<tr class="comps-player"><td>2008</td><td style="text-align:left"><a href="/team.php?team=Texas A%26M Corpus Chris&y=2008"><b>Texas A&M Corpus Chris</b></a> <span class="seed"></span><br /><span class="plrank">National Rank</span></td><td>6-7</td><td>205</td><td>Fr</td><td>28<br /></td>
+<td class="divide">41.7</td><td class="divide">102.8</td><td>19.7</td><td>16.7</td><td class="divide">51.4</td><td>56.5</td><td class="divide">14.7<br /><span class="plrank">22</span></td><td>17.7<br /><span class="plrank">331</span></td><td class="divide">5.5</td><td>23.5</td><td class="divide">4.8<br /><span class="plrank">207</span></td><td>1.7</td><td class="divide">3.4</td><td>5.1<br /><span class="plrank">292</span></td><td>72.2</td><td class="divide">53-78</td><td>.679</td><td class="divide">51-91</td><td>.560</td><td class="divide">3-17</td><td>.176</td></tr>
+<tr class="comps">
+<td colspan=2 style="text-align:left"></td>
+<td style="text-align:left" colspan=26><a href="http://kenpom.com/blog/index.php/weblog/free_tim_williams/">Similar</a>: 
+'10 <a href="/player.php?p=9820">Dallin Bachynski</a> (896),
+'07 <a href="/player.php?p=5423">Zahir Carrington</a> (894),
+'11 <a href="/player.php?p=10805">Will Triggs</a> (891),
+'07 <a href="/player.php?p=5378">Alejo Rodriguez</a> (884),
+'11 <a href="/player.php?p=10716">Tshilidzi Nephawe</a> (883)
+</tr>
+</tr>
+</tr>
+</tr>
+</tbody></table>
+</div>    </div> <!-- end data-area div -->
+	</div>
+	<div id="team-footer"> 
+&copy; 1999-2012 The Forecast Factory LLC. All rights reserved.
+	
+	| <a href="terms.php">Terms of Use</a> | <a href="privacy.php">Privacy Policy</a>
+	| This season's stats provided by The Sports Network<br/ >   
+	</div>
+	</div> 
+   <!-- end wrapper div -->
+</body>
+</html>
