@@ -1,4 +1,0 @@
-player(pid, fname, lname, stats)
-team(tid, name, record, year, stats)
-game(tid1,tid2,date,location,score1,score2)
-
