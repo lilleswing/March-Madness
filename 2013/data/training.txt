@@ -1,0 +1,4195 @@
+Texas Christian,Cal Poly,7
+Belmont,Lipscomb,29
+Eastern Michigan,Rochester MI,14
+Kansas St.,North Dakota,33
+Houston,Florida A&M,5
+San Diego,San Diego Christ.,33
+IUPUI,Utah Valley,13
+Morgan St.,Texas San Antonio,12
+Connecticut,Michigan St.,4
+Miami FL,Stetson,8
+Pittsburgh,Mount St. Mary's,32
+Albany,Duquesne,3
+Vermont,Siena,1
+Villanova,District of Columbia,20
+Bowling Green,Lake Erie,10
+Georgia,Jacksonville,6
+Richmond,Liberty,42
+St. Bonaventure,Bethune Cookman,10
+Campbell,Averett,19
+Pennsylvania,MD Baltimore County,5
+Monmouth,Hofstra,29
+High Point,NC Greensboro,8
+Georgia Tech,Tulane,18
+Northeastern,Boston University,1
+Bucknell,Purdue,5
+Harvard,MIT,15
+NC Asheville,Western Carolina,10
+Wake Forest,Radford,12
+Iona,Denver,7
+Charlotte,Charleston Southern,10
+South Alabama,Florida St.,5
+North Carolina,Gardner Webb,17
+Colorado,Wofford,15
+Xavier,Fairleigh Dickinson,42
+Duke,Georgia St.,19
+Penn St.,St. Francis PA,7
+Davidson,Emory,26
+Navy,Marymount,27
+Rider,Robert Morris,25
+Holy Cross,Old Dominion,1
+Cleveland St.,Grambling,43
+Seton Hall,Missouri Kansas City,39
+Virginia Commonwealth,Florida Gulf Coast,23
+Norfolk St.,Rhode Island,12
+College of Charleston,Towson,17
+Loyola MD,Binghamton,26
+Eastern Kentucky,Cincinnati Christian,33
+St. Peter's,Rutgers,4
+William & Mary,Hampton,18
+Appalachian St.,Montreat,32
+Marshall,Longwood,34
+Oakland,Albion,34
+Austin Peay,Samford,11
+Minnesota,American,36
+Syracuse,San Diego St.,13
+Savannah St.,Trinity Baptist,22
+Texas St.,Fordham,10
+Texas A&M,Louisiana Tech,12
+Nebraska Omaha,Northern Illinois,13
+Northwestern St.,East Texas Baptist,41
+Jacksonville St.,Reinhardt,30
+Louisiana St.,UC Santa Barbara,14
+Wisconsin Milwaukee,Mary,30
+Iowa St.,Southern,23
+Arkansas Little Rock,Tennessee Martin,16
+Troy,Mississippi St.,3
+Loyola Chicago,Toledo,12
+Texas,Fresno St.,2
+Alabama A&M,Miles,20
+North Carolina A&T,Greensboro,31
+St. Louis,South Carolina Upstate,17
+Bradley,Eastern Illinois,23
+McNeese St.,Louisiana College,18
+Arkansas,Sam Houston St.,5
+North Dakota St.,Valley City St.,46
+Auburn,IUPU Fort Wayne,11
+Illinois,Colgate,20
+Indiana,Bryant,43
+Kansas,Southeast Missouri St.,19
+Missouri St.,Philander Smith,28
+Creighton,North Texas,20
+St. Francis NY,Lafayette,11
+Baylor,Lehigh,22
+Michigan,Slippery Rock,38
+Murray St.,Brescia,45
+Kentucky,Maryland,3
+Valparaiso,Georgia Southern,31
+Middle Tennessee,Alabama St.,44
+Texas Tech,Prairie View A&M,10
+Mississippi,Mississippi Valley St.,36
+Colorado St.,Montana,7
+DePaul,UC Riverside,32
+Gonzaga,Southern Utah,38
+Stony Brook,Marist,3
+Brigham Young,Tennessee St.,15
+New Orleans,San Jose St.,4
+Stephen F. Austin,Howard Payne,54
+Texas Arlington,Cal St. Bakersfield,2
+Utah,Willamette,57
+Oregon St.,Niagara,19
+Oklahoma St.,UC Davis,8
+Texas El Paso,Oral Roberts,20
+Weber St.,Arizona Christian,58
+Alabama,South Dakota St.,3
+Iowa,Texas Pan American,31
+Houston Baptist,Arkansas Pine Bluff,4
+Loyola Marymount,Pacifica,59
+Wright St.,Idaho,10
+Sacramento St.,UC Merced,34
+Cal St. Northridge,Pepperdine,6
+UCLA,Indiana St.,27
+Stanford,San Francisco,12
+Southern California,Coppin St.,14
+Portland St.,Pacific OR,19
+Hawaii,Maryland Eastern Shore,12
+Morehead St.,Long Island,3
+Tennessee,Kennesaw St.,9
+South Carolina St.,Claflin,19
+North Carolina St.,Miami OH,38
+George Mason,Virginia,4
+Detroit,Northern Michigan,35
+Drake,William Jewell,30
+Notre Dame,Evansville,9
+Princeton,Buffalo,4
+Vanderbilt,Nicholls St.,15
+Northern Iowa,Wartburg,53
+New Hampshire,Suffolk,40
+Wisconsin Green Bay,Chicago St.,5
+Air Force,Army,11
+Butler,Elon,15
+Providence,NJ Inst of Technology,1
+Ohio,Portland,29
+Virginia Tech,East Tennessee St.,18
+La Salle,Delaware,7
+Quinnipiac,Hartford,4
+Northern Colorado,Southwest,46
+Winthrop,St. Andrews Pres.,32
+Mercer,Univ of the South,29
+Missouri,SIU Edwardsville,14
+The Citadel,Virginia Military Inst,8
+Youngstown St.,George Washington,7
+Lincoln,Howard,6
+East Carolina,Washington & Lee,22
+Texas San Antonio,Holy Cross,4
+Long Beach St.,North Alabama,10
+Central Florida,South Florida,18
+Dayton,Arkansas St.,13
+North Florida,Edward Waters,14
+Columbia,Furman,21
+Cornell,Western Michigan,8
+Delaware St.,Gwynedd Mercy,18
+Dartmouth,Maine,13
+Old Dominion,Morgan St.,11
+Arizona St.,Central Arkansas,15
+Gardner Webb,Covenant,38
+Oregon,Northern Arizona,10
+Washington St.,Eastern Washington,19
+St. Thomas TX,Rice,13
+Wichita St.,North Carolina Central,14
+Texas A&M Corpus Chris,Texas Lutheran,11
+Tennessee Tech,Crowley's Ridge,75
+Utah St.,Idaho St.,8
+UAB,Young Harris,46
+Pacific,Holy Names,38
+St. Mary's,Sonoma St.,26
+Santa Clara,Simpson CA,40
+UC Irvine,Nevada,14
+Wyoming,Western St.,20
+Villanova,Marshall,12
+Ball St.,Grambling,27
+Ohio St.,Albany,22
+Illinois Chicago,UC Riverside,7
+NC Wilmington,NC Asheville,8
+Purdue,Hofstra,29
+Wisconsin,Southeastern Louisiana,40
+Cincinnati,Tennessee Martin,23
+Brown,Binghamton,9
+Boston College,Florida International,14
+Texas San Antonio,Old Dominion,9
+North Carolina,Florida Atlantic,24
+San Diego St.,San Diego Christian,34
+Jacksonville St.,Eastern Michigan,7
+Oklahoma,Louisiana Monroe,34
+Florida,Alabama St.,49
+Stony Brook,Mount Ida,36
+Boise St.,Texas Southern,18
+Louisville,Manhattan,28
+Holy Cross,Morgan St.,1
+Marquette,Colgate,21
+Prairie View A&M,Schreiner,29
+Louisiana Lafayette,Oakland,11
+Arizona,Charleston Southern,9
+Georgetown,Duquesne,6
+Western Carolina,Mars Hill,27
+St. Mary's KS,Nebraska Omaha,10
+Southern Methodist,Loyola Marymount,15
+Nebraska,Southern,11
+Washington,Loyola MD,22
+Tulsa,LSU Shreveport,56
+Houston Baptist,Maryland Eastern Shore,15
+Seattle,Montana St.,15
+Oregon St.,New Mexico St.,9
+Hawaii,Arkansas Pine Bluff,27
+California,Cal St. Bakersfield,13
+Baylor,Jackson St.,31
+Alabama,West Alabama,31
+Gonzaga,West Virginia,34
+New Mexico,Davidson,5
+Hawaii,Houston Baptist,13
+Pittsburgh,Fordham,35
+St. Peter's,Central Connecticut,3
+William & Mary,Liberty,12
+Mercer,Oglethorpe,45
+American,Quinnipiac,6
+Youngstown St.,Georgia,12
+MD Baltimore County,Eastern,18
+Seton Hall,Norfolk St.,13
+Northwestern St.,Campbell,4
+Delaware St.,Philadelphia Biblical,49
+Chattanooga,Tennessee Temple,35
+North Carolina Central,Johnson & Wales NC,63
+Clemson,Presbyterian,33
+Canisius,Boston University,8
+Notre Dame,Monmouth,27
+Virginia,Fairfield,9
+Akron,John Carroll,44
+Saint Joseph's,Yale,26
+NC Greensboro,Winston Salem,16
+South Carolina Upstate,Hiwassee,54
+Providence,Bryant,32
+Florida St.,Buffalo,27
+Utah Valley,North Carolina A&T,9
+Virginia Tech,Rhode Island,19
+Wofford,Webber,33
+Indiana,North Dakota St.,26
+Rutgers,Sacred Heart,26
+Memphis,North Florida,15
+Iowa,Central Michigan,12
+Minnesota,Toledo,26
+Southeast Missouri St.,Lyon,28
+Texas A&M,Troy,18
+Illinois St.,UC Santa Barbara,28
+Southern Illinois,New Orleans,17
+Iowa St.,Alabama A&M,58
+Samford,Martin Methodist,19
+Loyola Chicago,Rockhurst,23
+Texas,Coppin St.,23
+Maryland,Morehead St.,22
+Bradley,Texas Pan American,17
+Kansas St.,Lamar,24
+Illinois,St. Francis NY,25
+Lehigh,Robert Morris,29
+Michigan,IUPUI,37
+Oregon,Portland St.,11
+Delaware,Pennsylvania,15
+Nevada Las Vegas,Northern Arizona,38
+Cal St. Northridge,Eastern Washington,17
+Alabama Huntsville,North Texas,3
+Arkansas Pine Bluff,Maryland Eastern Shore,10
+Stanford,Cal St. Fullerton,13
+Texas Christian,Centenary,28
+Lipscomb,Maryville TN,18
+Stony Brook,Rider,8
+Valparaiso,Northern Illinois,23
+Massachusetts,Harvard,3
+Missouri,Alcorn St.,37
+Temple,Kent St.,14
+St. John's,Detroit,3
+Xavier,Butler,15
+East Carolina,Methodist,36
+Wichita St.,Virginia Commonwealth,2
+Western Michigan,Marygrove,45
+Central Florida,Alabama St.,29
+Middle Tennessee,Savannah St.,3
+Bucknell,George Mason,5
+Richmond,NC Wilmington,43
+New Hampshire,Dartmouth,14
+Mount St. Mary's,Hartford,7
+Miami OH,Grambling,26
+Northeastern,Princeton,1
+Jacksonville,Trinity Baptist,30
+High Point,Appalachian St.,22
+Michigan St.,Kansas,3
+Connecticut,Vermont,18
+Niagara,St. Francis PA,17
+Cincinnati,Mississippi Valley St.,42
+Stetson,Florida A&M,22
+Virginia Military Inst,Central Pennsylvania,35
+Elon,Bridgewater VA,44
+Indiana St.,Winthrop,11
+Florida Gulf Coast,Miami FL,12
+Charlotte,Georgia Southern,13
+NJ Inst of Technology,Eastern Nazarene,33
+Northwestern,Texas Southern,30
+Furman,Southern Wesleyan,19
+Mississippi,Coastal Carolina,18
+Texas St.,Texas Tyler,20
+Prairie View A&M,Arlington Baptist,53
+Wright St.,Eastern Illinois,12
+Sam Houston St.,Hardin Simmons,51
+Mississippi St.,Florida Atlantic,20
+South Dakota St.,Tennessee St.,7
+Tulane,Bethune Cookman,10
+Central Arkansas,Hendrix,43
+Western Kentucky,Austin Peay,20
+Belmont,Maryville MO,39
+IUPU Fort Wayne,Rochester MI,17
+Missouri Kansas City,Lincoln MO,35
+Chicago St.,Concordia IL,16
+Arkansas St.,Arkansas Monticello,29
+Louisiana St.,McNeese St.,25
+Brigham Young,Georgia St.,18
+Marquette,Southeastern Louisiana,11
+Boise St.,Oakland,8
+California,Pepperdine,17
+Duke,Kentucky,7
+Southern California,Long Beach St.,18
+Albany,Washington,1
+San Francisco,Cal St. Hayward,15
+Houston,San Jose St.,2
+Lipscomb,Gardner Webb,4
+Georgetown,Liberty,9
+Savannah St.,North Florida,7
+Florida,Wisconsin,18
+St. Bonaventure,Cornell,4
+Georgia Tech,Presbyterian,14
+Holy Cross,Maine,3
+Colgate,Marist,14
+Texas Pan American,Rochester MI,9
+Navy,Binghamton,23
+The Citadel,Montreat,17
+SIU Edwardsville,Western Illinois,12
+Texas Tech,Nebraska Omaha,28
+Rice,St. Edwards,12
+Louisiana Tech,Arkansas Little Rock,18
+Tennessee Martin,Fontbonne,26
+Oral Roberts,St. Gregory,49
+Santa Clara,St. Louis,12
+North Dakota,Crown,36
+South Alabama,William Carey,18
+Creighton,UAB,17
+Denver,Texas A&M Corpus Chris,17
+Montana,Minot St.,29
+Wyoming,North Carolina Central,13
+Fresno St.,UC Riverside,9
+San Diego,Northern Kentucky,4
+Washington St.,Utah Valley,23
+Sacramento St.,Cal St. Bakersfield,18
+Loyola MD,MD Baltimore County,16
+Southern,South Dakota,4
+Colorado,Dayton,10
+Southern Methodist,Texas Christian,3
+Tennessee,NC Asheville,7
+Baylor,Boston College,10
+St. John's,College of Charleston,11
+North Carolina St.,Penn St.,17
+Charleston Southern,Hiwassee,36
+North Carolina Central,Southern,4
+Norfolk St.,Longwood,12
+Richmond,Hampton,10
+Alabama,Oregon St.,3
+Louisville,Samford,26
+Morehead St.,Alice Lloyd,51
+Virginia Tech,Virginia Military Inst,15
+Indiana,Sam Houston St.,54
+Florida Gulf Coast,Ave Maria,32
+South Carolina St.,Webber,20
+Tulsa,Northern Kentucky,20
+Central Connecticut,Brown,15
+Massachusetts,Providence,2
+American,Mount St. Mary's,5
+Minnesota,Tennessee St.,29
+Northwestern,Mississippi Valley St.,13
+Murray St.,Auburn,20
+Southeast Missouri St.,McNeese St.,11
+Texas A&M,Prairie View A&M,22
+Jacksonville St.,Alabama A&M,18
+Bethune Cookman,New Orleans,6
+Tennessee Tech,Coastal Carolina,2
+Wichita St.,Western Carolina,16
+Iowa,Howard,30
+Kansas,Chattanooga,14
+Buffalo,Evansville,6
+Gardner Webb,DePaul,12
+Colorado St.,Chadron St.,43
+Stanford,Alcorn St.,18
+Air Force,Western St.,34
+Nebraska,Valparaiso,2
+Wyoming,South Dakota,20
+St. Mary's,Utah St.,9
+New Mexico St.,Southeastern Louisiana,25
+Cal Poly,Northern Colorado,11
+Arizona,Texas El Paso,21
+Cal St. Northridge,San Diego,3
+Portland,Idaho St.,3
+UC Irvine,Pacifica,69
+UCLA,James Madison,30
+George Mason,Mercer,3
+Tulane,Nebraska Omaha,24
+South Dakota,North Carolina Central,12
+New Mexico,Illinois Chicago,7
+Army,Binghamton,9
+Marshall,District of Columbia,22
+Western Michigan,Loyola Chicago,10
+Western Illinois,Buffalo,9
+Eastern Kentucky,Kennesaw St.,14
+Connecticut,Wake Forest,6
+Ball St.,Wofford,5
+East Carolina,NC Greensboro,3
+Clemson,Furman,17
+Kentucky,Lafayette,52
+Wright St.,North Carolina A&T,12
+Kent St.,Chicago St.,29
+Central Michigan,Olivet,14
+Hofstra,South Dakota St.,3
+Rutgers,Princeton,6
+Georgia Southern,Webber,23
+Bucknell,Niagara,17
+Savannah St.,Alabama St.,5
+Eastern Michigan,Eastern Illinois,8
+Ohio,NC Wilmington,38
+Maryland,Long Island,17
+South Carolina,Morgan St.,16
+Hartford,Sacred Heart,15
+Florida St.,Brigham Young,18
+Miami FL,Jacksonville,16
+Youngstown St.,St. Francis PA,15
+South Florida,Maryland Eastern Shore,19
+Harvard,Manhattan,34
+Cal St. Northridge,Siena,4
+Campbell,Appalachian St.,19
+North Texas,Cameron,29
+Mississippi,Arkansas Little Rock,40
+St. Peter's,Cornell,4
+Missouri,Nicholls St.,20
+Towson,Radford,8
+California,Denver,11
+Oklahoma,Texas Arlington,4
+Evansville,Yale,10
+Nevada,Cal St. Fullerton,3
+Sacramento St.,Utah,3
+Fresno St.,Pacific,5
+Tulsa,San Diego,12
+Wyoming,Southern,7
+Oregon,Vanderbilt,26
+North Carolina,Long Beach St.,15
+Wisconsin Green Bay,Southern Utah,12
+Loyola MD,Norfolk St.,16
+Bryant,New Hampshire,12
+George Washington,Boston University,13
+Indiana St.,Truman St.,13
+Cleveland St.,Old Dominion,12
+Virginia Commonwealth,Winthrop,36
+Stephen F. Austin,Florida International,9
+Northern Iowa,North Dakota,25
+Xavier,Robert Morris,2
+Elon,Colgate,9
+DePaul,Austin Peay,31
+San Diego St.,Missouri St.,16
+Albany,Missouri Kansas City,3
+South Dakota St.,Marshall,1
+Texas San Antonio,South Carolina Upstate,8
+Northwestern St.,Hannibal LaGrange,49
+Wichita St.,Howard,19
+Rider,Monmouth,3
+UC Riverside,Whitman,13
+Drexel,Pennsylvania,2
+Tennessee Tech,East Tennessee St.,3
+Canisius,St. Bonaventure,3
+Virginia,Seattle,40
+Eastern Illinois,Texas Pan American,13
+Florida Atlantic,Coppin St.,3
+Western Michigan,Maryland Eastern Shore,17
+Ohio St.,Rhode Island,11
+Utah Valley,Arizona Christian,26
+Yale,Buffalo,4
+North Dakota St.,Mayville St.,33
+William & Mary,High Point,22
+Marist,Columbia,5
+Bradley,IUPUI,7
+Bucknell,New Mexico St.,13
+Eastern Michigan,IUPU Fort Wayne,13
+Detroit,Drake,6
+Brown,Maine,2
+The Citadel,Union,42
+South Florida,Loyola Chicago,18
+Cal St. Northridge,Tulsa,16
+Charlotte,Lamar,21
+Southern Methodist,Texas St.,3
+Radford,Kennesaw St.,9
+Vermont,Northeastern,11
+Temple,Rice,14
+Wisconsin Milwaukee,Davidson,5
+Houston,Grambling,40
+Memphis,Samford,11
+Iowa,Gardner Webb,9
+Southern Illinois,Benedictine Springfiel,38
+Houston Baptist,Dallas Christian,9
+Western Kentucky,Western Carolina,11
+Evansville,Western Illinois,5
+Nevada,Wisconsin Green Bay,2
+Utah St.,Texas A&M Corpus Chris,9
+UC Santa Barbara,Master's,20
+Nevada Las Vegas,Jacksonville St.,19
+Siena,Northern Kentucky,4
+Loyola Marymount,Cal St. Bakersfield,3
+Montana,Idaho,3
+Cal St. Fullerton,Southern Utah,43
+Hofstra,District of Columbia,15
+Loyola Chicago,Maryland Eastern Shore,16
+Michigan St.,Texas Southern,28
+South Dakota St.,District of Columbia,48
+Tulane,Chicago St.,28
+Texas Christian,Prairie View A&M,5
+Syracuse,Wagner,31
+Kansas St.,North Florida,19
+Bucknell,West Alabama,17
+Northwestern,Fairleigh Dickinson,27
+Sacred Heart,Stony Brook,2
+Central Florida,Savannah St.,3
+Central Connecticut,La Salle,7
+Morehead St.,Lafayette,14
+Cincinnati,North Carolina A&T,54
+Binghamton,St. Peter's,8
+Ohio,Wofford,23
+Montana St.,Portland,19
+Arizona St.,Florida A&M,27
+Western Michigan,South Florida,5
+Boise St.,Louisiana Lafayette,6
+Southeast Missouri St.,Chattanooga,12
+Louisville,Miami OH,41
+Nebraska,Nebraska Omaha,13
+Creighton,Presbyterian,29
+Western Illinois,Yale,12
+Florida,Middle Tennessee,21
+Illinois St.,Delaware St.,39
+Gonzaga,South Dakota,38
+Cal St. Fullerton,Wisconsin Green Bay,11
+San Diego,Siena,17
+Niagara,New Mexico St.,3
+Eastern Illinois,IUPU Fort Wayne,1
+Northern Illinois,Judson,18
+Air Force,Regis,40
+Arkansas,Longwood,49
+UAB,Navy,19
+Louisiana Tech,Troy,24
+Northern Arizona,UC Davis,3
+Eastern Kentucky,Radford,8
+Wisconsin,Cornell,33
+Nevada,Southern Utah,18
+Minnesota,Richmond,15
+Towson,Kennesaw St.,6
+Iowa St.,Campbell,20
+Eastern Michigan,Texas Pan American,10
+South Carolina St.,NJ Inst of Technology,3
+St. Mary's,Eastern Washington,19
+Duke,Florida Gulf Coast,21
+Belmont,Stanford,8
+Illinois,Southern California,30
+Towson,Cincinnati Christian,39
+Butler,Marquette,1
+Tennessee St.,South Alabama,11
+Louisiana Tech,Southeast Missouri St.,4
+Indiana,Georgia,13
+North Carolina,Mississippi St.,46
+UC Irvine,Liberty,18
+Furman,Brevard,23
+Troy,Chattanooga,7
+Georgia St.,Monmouth,13
+Virginia Tech,NC Greensboro,9
+Stetson,Southeastern,22
+South Carolina,Rider,12
+St. Louis,Texas A&M,21
+San Francisco,American,14
+Southern Mississippi,Sam Houston St.,12
+Arkansas Little Rock,Wisconsin Milwaukee,16
+Houston,Louisiana College,47
+Georgetown,UCLA,8
+Jacksonville,Missouri St.,6
+Fort Valley St.,Alcorn St.,8
+Arizona,Long Beach St.,22
+Chaminade,Texas,13
+Kansas,Washington St.,37
+Oral Roberts,Pacific,2
+Fresno St.,Cal Poly,9
+Oregon,Jacksonville St.,22
+Hawaii,North Dakota,5
+Monmouth,South Alabama,2
+James Madison,Youngstown St.,1
+Gardner Webb,Howard,12
+Troy,Southeast Missouri St.,3
+Southern Mississippi,UC Irvine,4
+Indiana St.,Ball St.,20
+Winthrop,Lenoir Rhyne,24
+East Carolina,Appalachian St.,10
+Middle Tennessee,Central Florida,14
+Columbia,Villanova,18
+Florida,Savannah St.,18
+Richmond,Wofford,6
+North Dakota St.,Duquesne,14
+Wichita St.,DePaul,13
+Kent St.,Bethune Cookman,1
+Louisiana Tech,Chattanooga,8
+North Carolina Central,Toccoa Falls,54
+Georgia St.,Tennessee St.,2
+Cincinnati,Campbell,19
+La Salle,Hartford,13
+Army,St. Francis NY,8
+IUPU Fort Wayne,Judson,70
+South Florida,Bradley,19
+Albany,South Carolina St.,28
+Rutgers,Boston University,2
+Coastal Carolina,Johnson & Wales NC,56
+Saint Joseph's,Harvard,19
+East Tennessee St.,Charleston Southern,2
+Southern Illinois,SIU Edwardsville,16
+Texas Tech,Grambling,35
+Mississippi,McNeese St.,26
+Tennessee Martin,Lyon,34
+Illinois St.,Fairleigh Dickinson,33
+Louisiana St.,Northwestern St.,7
+New Orleans,Blue Mountain,48
+Wisconsin,Presbyterian,45
+Canisius,Buffalo,7
+Sam Houston St.,Liberty,14
+Iowa St.,North Carolina A&T,29
+Oakland,Texas Southern,2
+Evansville,Tennessee Tech,12
+Maryland,Lafayette,9
+Arkansas,Florida A&M,29
+Michigan St.,Boise St.,4
+UAB,Prairie View A&M,6
+Creighton,Longwood,48
+Southeastern Louisiana,Louisiana College,42
+Northwestern,Delaware St.,19
+Stephen F. Austin,Jarvis Christian,39
+Alabama A&M,Oakwood,26
+Arizona St.,Cornell,11
+Santa Clara,South Carolina Upstate,20
+Utah Valley,Eastern Washington,3
+Iowa,Western Kentucky,8
+San Jose St.,UC Santa Cruz,40
+Idaho,Wisconsin Green Bay,10
+UC Davis,Sacramento St.,11
+Austin Peay,Western Carolina,1
+Texas Christian,Navy,2
+Monmouth,Tennessee St.,11
+San Diego St.,Arkansas Pine Bluff,36
+Georgia St.,South Alabama,2
+Belmont,Alaska Anchorage,14
+Northeastern,UC Riverside,9
+Boston College,Auburn,1
+North Dakota St.,James Madison,22
+Toledo,Samford,13
+Colgate,St. Francis PA,9
+Southern Mississippi,Liberty,18
+Kentucky,Morehead St.,11
+Seton Hall,Maine,27
+Bryant,Brown,7
+Vermont,Yale,13
+Duquesne,Youngstown St.,10
+High Point,St. Andrews Pres.,31
+Georgia Southern,Kennesaw St.,16
+Miami OH,William & Mary,13
+Notre Dame,George Washington,17
+Manhattan,Hofstra,11
+Florida St.,North Florida,8
+Radford,Brevard,28
+Virginia Military Inst,Old Dominion,5
+Elon,South Carolina,12
+Syracuse,Princeton,20
+Florida Gulf Coast,Alcorn St.,2
+NJ Inst of Technology,New Hampshire,2
+St. John's,Holy Cross,12
+Purdue,NC Wilmington,26
+South Dakota St.,Southwest St.,9
+Arkansas St.,Central Arkansas,1
+Louisiana Lafayette,Southern New Orleans,10
+Nebraska,Tulane,4
+Tulsa,Jackson St.,20
+Southern Methodist,Rider,13
+Arkansas Little Rock,Jacksonville,22
+New Mexico St.,Northern New Mexico,30
+Brigham Young,Texas San Antonio,19
+Colorado St.,Denver,7
+Eastern Washington,South Carolina Upstate,5
+Utah,Idaho St.,11
+Central Michigan,Wright St.,4
+Air Force,Montana St.,14
+Southern Utah,Carroll MT,10
+Wyoming,Northern Colorado,9
+UC Santa Barbara,San Diego,18
+Seattle,Pacific Lutheran,9
+Portland,Portland St.,21
+Santa Clara,Utah Valley,8
+West Virginia,Marist,43
+Missouri,Stanford,8
+Davidson,Vanderbilt,13
+Pacific,Xavier,3
+Oral Roberts,Loyola Marymount,9
+Charlotte,Texas St.,9
+Duke,Minnesota,18
+St. Mary's,Drexel,12
+Virginia Commonwealth,Memphis,13
+Oklahoma,Texas El Paso,7
+Gonzaga,Clemson,8
+Georgia Tech,Rice,18
+Louisville,Northern Iowa,5
+California,Drake,3
+Columbia,Wayland Baptist,12
+Illinois St.,UAB,12
+Bethune Cookman,Nebraska Omaha,12
+Alabama,Charleston Southern,13
+Wofford,Hampton,5
+Fairleigh Dickinson,Delaware St.,1
+Virginia Tech,Appalachian St.,11
+Cincinnati,Iowa St.,8
+Jacksonville St.,Northern Arizona,2
+Florida,Central Florida,13
+North Carolina A&T,Campbell,25
+Prairie View A&M,Navy,2
+Cornell,Presbyterian,34
+Penn St.,Bucknell,3
+Mississippi,Lipscomb,46
+South Carolina Upstate,Utah Valley,25
+Ohio St.,Missouri Kansas City,46
+Kentucky,Long Island,29
+North Carolina St.,NC Asheville,2
+Arizona St.,Arkansas,15
+Wake Forest,William & Mary,6
+Utah,Central Michigan,16
+Providence,Fairfield,19
+Santa Clara,Eastern Washington,15
+South Dakota,Culver Stockton,8
+Valparaiso,Chicago St.,21
+Michigan St.,Oakland,18
+Northwestern,Texas Christian,24
+Oregon,Nevada Las Vegas,4
+Wright St.,Idaho St.,15
+New Mexico St.,Louisiana Lafayette,22
+Creighton,Wisconsin,10
+Cal St. Fullerton,San Diego Christian,46
+New Mexico,Idaho,15
+Georgia,East Tennessee St.,16
+Georgetown,Mount St. Mary's,22
+George Mason,Boston University,3
+IUPU Fort Wayne,Dartmouth,4
+Miami OH,James Madison,18
+Arkansas Little Rock,Southern Methodist,13
+Wagner,North Carolina Central,2
+Notre Dame,St. Francis PA,17
+College of Charleston,Baylor,4
+Florida Atlantic,American,3
+St. Louis,Southern Illinois,10
+Stony Brook,Canisius,7
+Dayton,Manhattan,8
+NC Wilmington,Wofford,12
+Radford,The Citadel,13
+Princeton,Lafayette,19
+Central Michigan,Idaho St.,2
+Utah,Wright St.,12
+NJ Inst of Technology,South Carolina St.,9
+Ohio,Richmond,25
+George Washington,Hofstra,24
+Bradley,Tennessee Martin,23
+Miami FL,Detroit,15
+Chattanooga,Kennesaw St.,14
+Texas Pan American,SIU Edwardsville,11
+Eastern Illinois,Houston Baptist,20
+Washington St.,Arkansas Pine Bluff,28
+Stephen F. Austin,Tulsa,16
+Illinois Chicago,Southeast Missouri St.,11
+Boise St.,UC Santa Barbara,16
+Coppin St.,Cheyney,20
+Holy Cross,New Hampshire,10
+Loyola Chicago,Northern Illinois,7
+Hartford,Central Connecticut,3
+St. Bonaventure,Niagara,5
+Virginia Military Inst,Elon,9
+Eastern Michigan,Madonna,18
+Middle Tennessee,Texas Southern,27
+Eastern Kentucky,Norfolk St.,24
+Florida International,Coastal Carolina,10
+Marshall,Nevada,7
+Binghamton,Marywood,25
+Maryland,Georgia Southern,17
+St. John's,Florida Gulf Coast,11
+Louisiana Tech,Louisiana Monroe,16
+Wisconsin Green Bay,North Dakota St.,15
+Louisiana St.,Mississippi Valley St.,25
+Texas Arlington,Samford,7
+Tulane,Southern,3
+Sacramento St.,Central Arkansas,3
+South Dakota,Waldorf,25
+Montana,San Diego,1
+Murray St.,Old Dominion,7
+Western Kentucky,Brescia,28
+Colorado St.,Washington,18
+Brigham Young,Cal St. Northridge,12
+Kent St.,Nebraska,14
+Wyoming,Cal St. Bakersfield,14
+Utah St.,Weber St.,10
+Pepperdine,UC Irvine,10
+San Francisco,Columbia,20
+Michigan St.,Louisiana Lafayette,3
+Rider,Wisconsin Milwaukee,14
+Seton Hall,St. Peter's,15
+Syracuse,Colgate,36
+Indiana St.,High Point,14
+NC Wilmington,Hampton,1
+Lehigh,Sacred Heart,14
+Temple,Delaware,5
+Rutgers,NC Greensboro,7
+Oklahoma St.,Portland St.,23
+Bryant,Boston College,2
+Howard,Wilmington DE,16
+Maine,Siena,6
+Troy,Alabama St.,4
+Houston,Texas A&M Corpus Chris,2
+Arkansas St.,Lamar,40
+New Mexico,Portland,15
+Long Beach St.,Fresno St.,8
+Connecticut,Stony Brook,11
+Illinois,Gardner Webb,1
+Oregon St.,Montana St.,13
+Indiana,Ball St.,48
+Mercer,Furman,27
+Colorado,Air Force,15
+Cal Poly,UCLA,2
+San Diego St.,Southern California,6
+Savannah St.,Robert Morris,9
+Tennessee,Oakland,27
+Albany,Wagner,3
+Monmouth,Lafayette,5
+Notre Dame,Chicago St.,27
+Morehead St.,Norfolk St.,6
+IUPUI,Indiana East,33
+East Carolina,Georgia St.,9
+South Florida,Stetson,9
+Mount St. Mary's,George Washington,9
+Loyola MD,Towson,12
+Nicholls St.,New Orleans,13
+Texas Tech,Jackson St.,9
+Southeast Missouri St.,Hannibal LaGrange,41
+Marquette,MD Baltimore County,33
+Evansville,Alabama A&M,26
+Texas A&M,Northwestern St.,13
+Colorado St.,Northern Colorado,16
+Tennessee St.,Fisk,39
+Kansas,San Jose St.,13
+Murray St.,Lipscomb,9
+Presbyterian,Toccoa Falls,59
+Lehigh,Quinnipiac,11
+Bowling Green,Detroit,5
+Bucknell,Dartmouth,13
+Pittsburgh,Howard,24
+North Florida,Bethune Cookman,6
+North Carolina Central,Utah Valley,18
+Vermont,Harvard,7
+Butler,Hanover,24
+Providence,Holy Cross,19
+Minnesota,Florida St.,9
+Virginia Tech,Iowa,16
+NJ Inst of Technology,Lyndon St.,56
+Michigan,North Carolina St.,7
+UAB,Troy,20
+Southern Mississippi,Denver,11
+Mississippi St.,Alcorn St.,18
+Tulane,Loyola New Orleans,12
+Texas,Sam Houston St.,28
+Illinois Chicago,Northern Illinois,12
+McNeese St.,Centenary,31
+DePaul,Fairfield,7
+Maryland,Northwestern,20
+Nebraska,Wake Forest,16
+Indiana,North Carolina,24
+Sacramento St.,Dominican CA,9
+Portland,Lewis & Clark,5
+Alabama,Lamar,28
+UCLA,Cal St. Northridge,26
+Washington,St. Louis,5
+Fairleigh Dickinson,St. Peter's,5
+West Virginia,Virginia Military Inst,25
+Cleveland St.,Ball St.,6
+Longwood,Central Pennsylvania,13
+Western Carolina,Furman,14
+Massachusetts,Siena,1
+Toledo,Texas A&M Corpus Chris,12
+Pennsylvania,Binghamton,11
+Stony Brook,Cornell,23
+Bradley,Central Michigan,17
+Eastern Kentucky,Delaware St.,33
+Maine,Northeastern,3
+Virginia,Wisconsin,6
+Lafayette,Delaware,3
+George Washington,James Madison,1
+Iona,Niagara,11
+Duquesne,Appalachian St.,1
+Marshall,Morehead St.,3
+Elon,Georgia Southern,5
+Saint Joseph's,American,19
+North Carolina A&T,NC Greensboro,11
+Radford,Hampton,9
+Ohio,St. Bonaventure,5
+Boston University,Coastal Carolina,30
+Wofford,Winthrop,15
+Navy,IUPU Fort Wayne,5
+Temple,Buffalo,15
+Purdue,Clemson,12
+Virginia Commonwealth,Stetson,36
+South Carolina St.,Jacksonville,2
+Loyola MD,Coppin St.,16
+College of Charleston,Charleston Southern,5
+Miami FL,Michigan St.,8
+Austin Peay,Berea College,55
+Arizona St.,Arkansas Pine Bluff,13
+George Mason,Rhode Island,3
+Louisiana Tech,Southeastern Louisiana,37
+Texas Arlington,North Texas,13
+Prairie View A&M,Houston,1
+Southern Methodist,Utah,7
+Oklahoma,Oral Roberts,1
+Central Arkansas,Eastern Illinois,2
+Florida Gulf Coast,Samford,24
+Loyola Chicago,Tennessee Tech,3
+Wichita St.,Tulsa,26
+Southern Illinois,Fresno St.,3
+Boise St.,Creighton,13
+Brigham Young,Montana,25
+Texas El Paso,New Mexico St.,1
+Air Force,Jackson St.,29
+Illinois,Georgia Tech,13
+Boston College,Penn St.,12
+Duke,Ohio St.,5
+Wyoming,UC Santa Barbara,28
+Nevada Las Vegas,UC Irvine,28
+Arizona,Northern Arizona,43
+Stanford,Seattle,11
+Nevada,UC Davis,1
+Washington St.,Idaho,9
+Long Island,Columbia,9
+Weber St.,Dayton,1
+New Mexico,Mercer,18
+South Dakota St.,North Dakota,1
+Connecticut,New Hampshire,8
+Morgan St.,Liberty,5
+Western Michigan,High Point,1
+North Florida,Florida A&M,25
+Manhattan,Fordham,7
+Canisius,MD Baltimore County,18
+Campbell,Newberry,13
+Brown,Sacred Heart,13
+East Tennessee St.,Milligan,48
+Hartford,Yale,9
+South Carolina Upstate,NC Asheville,2
+Notre Dame,Kentucky,14
+South Alabama,Florida Atlantic,11
+Norfolk St.,St. Francis NY,6
+La Salle,Rider,11
+Florida International,Arkansas St.,19
+St. John's,South Carolina,24
+Southeast Missouri St.,New Orleans,16
+Memphis,Tennessee Martin,28
+Western Illinois,South Dakota,2
+Middle Tennessee,Louisiana Lafayette,14
+North Dakota St.,Nebraska Omaha,44
+Missouri Kansas City,IUPUI,14
+Missouri St.,Malone,33
+Chicago St.,Trinity Christian,26
+Arkansas Little Rock,Troy,2
+Western Kentucky,Louisiana Monroe,11
+Florida,Marquette,33
+Gonzaga,Lewis Clark St.,47
+Idaho St.,Montana Western,18
+Louisiana St.,Seton Hall,5
+Oregon,Texas San Antonio,17
+Long Beach St.,Loyola Marymount,3
+Pepperdine,Montana St.,10
+Texas Christian,Southern Utah,9
+Georgetown,Tennessee,1
+South Florida,Georgia,11
+Louisiana Tech,Georgia St.,18
+Utah,Texas St.,5
+Kansas,Oregon St.,6
+Oklahoma,Northwestern St.,4
+Syracuse,Arkansas,9
+DePaul,Auburn,4
+Eastern Washington,Cal St. Fullerton,4
+San Francisco,Montana,10
+Drake,Nevada,10
+Lipscomb,Tennessee Tech,16
+Dayton,Northern Illinois,17
+Providence,Mississippi St.,10
+Rider,Drexel,9
+Michigan St.,Nicholls St.,45
+Baylor,Kentucky,9
+Texas,Texas Arlington,16
+Illinois Chicago,Northwestern,6
+New Hampshire,Brown,13
+Harvard,Fordham,9
+Louisville,Illinois St.,3
+Samford,Georgia Southern,9
+Jacksonville St.,Alcorn St.,4
+Southern,Champion Baptist,54
+Iowa,Texas A&M Corpus Chris,29
+St. John's,NJ Inst of Technology,8
+Boston University,St. Peter's,8
+Cleveland St.,Toledo,5
+Minnesota,North Florida,28
+Dartmouth,Longwood,8
+Stony Brook,Eastern Illinois,14
+Western Michigan,Oakland,4
+Rhode Island,Vermont,10
+Mississippi,Rutgers,13
+Youngstown St.,Bowling Green,9
+Duquesne,Maine,14
+Wright St.,Morehead St.,9
+Miami FL,Massachusetts,13
+Temple,Wagner,8
+Iowa St.,Brigham Young,21
+Butler,Ball St.,14
+Mount St. Mary's,Binghamton,1
+Virginia Tech,Oklahoma St.,10
+Duke,Delaware,38
+Penn St.,Pennsylvania,11
+American,St. Francis PA,10
+Xavier,Purdue,6
+SIU Edwardsville,Chicago St.,14
+Missouri,Appalachian St.,16
+Delaware St.,Maryland Eastern Shore,10
+Loyola Chicago,Furman,27
+Cincinnati,Alabama,2
+Creighton,Saint Joseph's,29
+Central Florida,Florida Tech,28
+Cornell,Colgate,7
+Southern Methodist,Hofstra,26
+Virginia,Wisconsin Green Bay,16
+James Madison,Winthrop,10
+Texas A&M,Houston,11
+North Carolina Central,North Carolina A&T,4
+Bryant,Army,11
+Michigan,Bradley,8
+Ohio St.,Northern Kentucky,27
+Colorado St.,Evansville,7
+Southeast Missouri St.,Southeastern Louisiana,3
+Villanova,Vanderbilt,10
+Western Illinois,Missouri Kansas City,5
+Charleston Southern,Barber Scotia,32
+Oral Roberts,Missouri St.,20
+Norfolk St.,Savannah St.,10
+Richmond,Wake Forest,2
+North Carolina,UAB,18
+Florida A&M,Bethune Cookman,8
+Oregon,Arkansas Pine Bluff,21
+Northern Arizona,Sam Houston St.,17
+Virginia Commonwealth,Belmont,10
+Nevada Las Vegas,Hawaii,14
+Lehigh,Fairleigh Dickinson,40
+Tennessee Martin,Kennesaw St.,2
+MD Baltimore County,Towson,4
+St. Bonaventure,Buffalo,3
+Pittsburgh,Detroit,13
+Princeton,Kent St.,12
+Bucknell,Columbia,8
+William & Mary,Old Dominion,9
+Stephen F. Austin,San Diego,5
+Marshall,NC Wilmington,3
+Charlotte,East Carolina,12
+NC Greensboro,The Citadel,30
+Hartford,Holy Cross,3
+Robert Morris,Ohio,8
+College of Charleston,Elon,2
+IUPU Fort Wayne,Miami OH,1
+Florida Gulf Coast,Loyola MD,15
+South Alabama,Florida International,11
+Albany,Siena,13
+Davidson,Chattanooga,26
+Eastern Kentucky,Western Carolina,2
+Indiana,Coppin St.,36
+Arizona,Texas Tech,28
+Rice,Houston Baptist,8
+Louisiana Lafayette,North Texas,4
+Northern Iowa,Wisconsin Milwaukee,11
+Gonzaga,Pacific,18
+Hampton,Howard,8
+Arkansas Little Rock,Louisiana Monroe,25
+South Dakota St.,Nebraska Omaha,15
+Tulane,Navy,10
+Florida Atlantic,Arkansas St.,7
+Tennessee St.,Alabama A&M,11
+South Dakota,IUPUI,20
+Loyola Marymount,Portland St.,10
+Fairfield,Austin Peay,19
+Arizona St.,Sacramento St.,20
+Western Kentucky,Troy,4
+New Mexico St.,Southern Mississippi,8
+Southern Utah,San Diego Christian,30
+San Jose St.,Montana St.,8
+UC Riverside,Northern Colorado,6
+Cal St. Bakersfield,Texas San Antonio,33
+St. Mary's,Cal Poly,18
+San Diego St.,UCLA,9
+Wyoming,Colorado,7
+Idaho,UC Davis,7
+Washington St.,Portland,12
+Long Island,Lafayette,11
+Clemson,South Carolina,9
+George Washington,Manhattan,12
+Wisconsin,California,25
+St. Louis,Valparaiso,13
+Kansas St.,South Carolina Upstate,19
+Central Michigan,Niagara,2
+Mercer,Florida St.,5
+Georgia St.,Liberty,1
+High Point,Johnson & Wales NC,63
+Maryland,George Mason,7
+Stanford,Denver,13
+Boise St.,Seattle,23
+Wichita St.,Air Force,3
+Washington,Cal St. Fullerton,2
+Jacksonville,Florida Christian,23
+Bowling Green,Wright St.,13
+Gardner Webb,Virginia Wise,19
+Bethune Cookman,Stetson,23
+Monmouth,Binghamton,12
+Syracuse,Eastern Michigan,36
+Virginia Military Inst,Virginia Lynchburg,41
+Norfolk St.,South Carolina St.,6
+McNeese St.,Texas Tyler,26
+Texas Arlington,Texas Pan American,9
+Tennessee Tech,Berea College,24
+Nebraska,Southern California,12
+San Diego St.,Texas Southern,12
+Fresno St.,Long Beach St.,5
+Arkansas Little Rock,St. Gregory,61
+Purdue,Lamar,33
+Winthrop,Brevard,23
+Liberty,Southern Virginia,25
+Lehigh,Fordham,18
+Bucknell,Kent St.,16
+Kentucky,Samford,32
+St. Bonaventure,Siena,15
+Seton Hall,NJ Inst of Technology,9
+Robert Morris,Campbell,3
+George Mason,MD Baltimore County,11
+Eastern Kentucky,North Carolina Central,6
+Georgia Tech,Georgia,8
+Massachusetts,Northeastern,6
+Georgetown,Texas,23
+Wagner,Hofstra,8
+Lafayette,St. Francis PA,3
+Harvard,Boston College,16
+Richmond,Old Dominion,27
+Army,Marist,34
+Howard,American,5
+Arkansas,Oklahoma,3
+Delaware,Radford,9
+Elon,Dartmouth,22
+Florida A&M,Edward Waters,18
+East Carolina,St. Andrews Pres.,52
+Saint Joseph's,Coppin St.,12
+Charleston Southern,The Citadel,28
+Minnesota,South Dakota St.,24
+Texas Tech,Northern Kentucky,6
+Louisville,College of Charleston,42
+Wyoming,Illinois St.,14
+Missouri,Southeast Missouri St.,16
+Wisconsin,Nebraska Omaha,46
+Iowa St.,Florida Gulf Coast,11
+Mississippi St.,Texas San Antonio,11
+Tennessee St.,Drexel,10
+Tulane,Nicholls St.,17
+Murray St.,Bethel TN,22
+Iowa,South Dakota,24
+Bradley,George Washington,4
+Illinois,Western Carolina,8
+New Mexico St.,South Alabama,6
+Northwestern St.,Louisiana Tech,6
+Michigan,Western Michigan,32
+North Carolina St.,Connecticut,4
+Northwestern,Baylor,4
+San Diego,Southern Utah,14
+Arizona,Southern Mississippi,8
+San Francisco,St. John's,16
+UC Irvine,San Diego Christian,42
+Nevada Las Vegas,Portland,8
+Houston,Texas Christian,6
+Belmont,Lipscomb,34
+Loyola MD,St. Peter's,6
+Ball St.,Holy Cross IN,19
+Quinnipiac,Colgate,11
+Albany,St. Francis NY,4
+Holy Cross,Sacred Heart,5
+Towson,Vermont,4
+La Salle,Penn St.,25
+Navy,Monmouth,19
+North Dakota St.,Morehead St.,12
+Virginia,Tennessee,8
+Wake Forest,High Point,11
+James Madison,East Tennessee St.,25
+Butler,IUPUI,32
+Memphis,Ohio,26
+Florida,Florida St.,25
+Maryland,Maryland Eastern Shore,32
+Yale,Bryant,2
+Detroit,Toledo,6
+Wofford,Gardner Webb,12
+Niagara,Loyola MD,1
+Central Connecticut,New Hampshire,3
+West Virginia,Marshall,10
+Austin Peay,Oakland City,25
+Illinois Chicago,Roosevelt,38
+NC Wilmington,Coker,15
+Oral Roberts,Texas St.,9
+Texas A&M,Stephen F. Austin,8
+Middle Tennessee,UAB,20
+Northern Iowa,Northern Colorado,17
+Western Illinois,Eastern Illinois,12
+Buffalo,Wisconsin Milwaukee,20
+DePaul,Chicago St.,10
+Central Arkansas,Tennessee Martin,1
+Western Kentucky,Southern Illinois,1
+Northern Illinois,SIU Edwardsville,11
+Michigan St.,Arkansas Pine Bluff,32
+Missouri Kansas City,North Dakota,3
+St. Mary's,Drake,15
+Evansville,Miami OH,26
+Tulsa,Missouri St.,19
+Valparaiso,IUPU Fort Wayne,11
+Arizona St.,Hartford,8
+Utah,Boise St.,21
+New Mexico,Southern California,8
+Temple,Villanova,15
+Denver,Mercer,29
+Oklahoma St.,South Florida,12
+Weber St.,Utah Valley,33
+Dayton,Alabama,5
+San Jose St.,UC Davis,9
+Pepperdine,UC Riverside,22
+Cal St. Northridge,Vanguard,51
+Colorado,Colorado St.,9
+Gonzaga,Washington St.,2
+Pittsburgh,Duquesne,21
+St. Louis,North Texas,4
+Charlotte,Davidson,4
+William & Mary,Howard,9
+Boston University,Coastal Carolina,6
+Cincinnati,Arkansas Little Rock,34
+Florida Atlantic,Stetson,10
+Providence,Rhode Island,15
+Oakland,Rochester MI,11
+Maine,Fisher,55
+Youngstown St.,Geneva,43
+South Dakota St.,Dakota St.,31
+Syracuse,Long Beach St.,31
+Creighton,Nebraska,22
+Tennessee Tech,Wisconsin Green Bay,6
+Montana St.,Montana Tech,24
+San Diego St.,UC Santa Barbara,14
+Fresno St.,San Diego Christian,35
+Cal St. Bakersfield,Cal St. Fullerton,2
+Canisius,Fairfield,12
+Rider,Siena,6
+Fairleigh Dickinson,Lafayette,2
+Prairie View A&M,Dallas Christian,48
+Marist,Manhattan,4
+Mount St. Mary's,Navy,7
+Connecticut,Harvard,8
+Virginia Commonwealth,Old Dominion,13
+South Carolina,Jacksonville,17
+Iowa,Iowa St.,9
+Pepperdine,Hawaii,7
+Georgetown,Towson,6
+Ohio St.,Long Beach St.,34
+Texas St.,Texas Pan American,15
+Kentucky,Portland,28
+Michigan,Arkansas,13
+Lipscomb,Tennessee Martin,24
+Ball St.,South Dakota,11
+North Carolina St.,Cleveland St.,17
+New Hampshire,Yale,8
+Memphis,Austin Peay,18
+Bryant,Binghamton,22
+Kansas,Colorado,36
+Tulsa,Texas Christian,1
+Arizona St.,Cal St. Northridge,11
+New Mexico,Valparaiso,13
+Bowling Green,Samford,15
+Louisville,Missouri Kansas City,52
+Morehead St.,Indiana St.,8
+Drexel,Princeton,7
+Robert Morris,Hampton,12
+Georgia St.,Southern Tech,28
+South Carolina Upstate,Texas San Antonio,11
+Cincinnati,Maryland Eastern Shore,32
+Lehigh,St. Francis PA,16
+William & Mary,Radford,5
+Albany,Colgate,6
+Eastern Michigan,Purdue,3
+Ohio,Oakland,17
+Boston College,St. Francis NY,8
+Maryland,South Carolina St.,15
+Detroit,Rochester MI,35
+Michigan St.,Loyola Chicago,12
+Murray St.,Evansville,12
+Kansas St.,George Washington,3
+Illinois Chicago,Colorado St.,9
+Vermont,Quinnipiac,7
+Missouri,Tennessee St.,30
+Chicago St.,Alabama St.,13
+Arkansas St.,St. Bonaventure,3
+Duke,Temple,23
+West Virginia,Virginia Tech,1
+Bethune Cookman,Webber,13
+Virginia,Mississippi Valley St.,28
+Holy Cross,Dartmouth,11
+Oregon St.,Grambling,31
+Oklahoma St.,Missouri St.,20
+Western Kentucky,IUPUI,20
+Air Force,Arkansas Pine Bluff,16
+Penn St.,Army,8
+Wyoming,Panhandle St.,19
+Florida A&M,Allen,50
+Western Carolina,Appalachian St.,6
+NC Asheville,Montreat,34
+Middle Tennessee,Mississippi,3
+UCLA,Texas,2
+Oregon,Idaho St.,52
+Marquette,Wisconsin,10
+Indiana,Central Connecticut,31
+Central Arkansas,Southeast Missouri St.,3
+Mercer,Alabama A&M,19
+Pittsburgh,North Florida,42
+Gardner Webb,Tennessee Tech,20
+Duquesne,New Orleans,18
+Wright St.,Virginia Military Inst,33
+Georgia Tech,NC Wilmington,7
+Eastern Kentucky,Chattanooga,11
+La Salle,Northeastern,2
+St. John's,Fordham,11
+Toledo,Eastern Illinois,8
+Notre Dame,Brown,27
+Stephen F. Austin,LSU Shreveport,27
+Seton Hall,Wake Forest,4
+Marshall,Coppin St.,6
+Georgia Southern,Brewton Parker,23
+Syracuse,Monmouth,52
+Davidson,Wofford,7
+Buffalo,Niagara,10
+San Jose St.,Sacramento St.,5
+Charlotte,Central Michigan,12
+North Carolina,East Tennessee St.,23
+Western Illinois,SIU Edwardsville,17
+Butler,Northwestern,9
+Louisiana Tech,Southern Mississippi,10
+North Texas,Jackson St.,18
+Pacific,San Francisco,8
+Illinois St.,Western Michigan,22
+Villanova,Pennsylvania,13
+Arizona,Clemson,12
+Wichita St.,Northern Colorado,26
+UAB,South Alabama,14
+Nevada,Washington,3
+Sam Houston St.,Houston Baptist,12
+Drake,IUPU Fort Wayne,10
+McNeese St.,Louisiana Lafayette,5
+Brigham Young,Utah,3
+Texas El Paso,Idaho,4
+Weber St.,UC Irvine,14
+Montana,Carroll MT,20
+Utah St.,Western Oregon,29
+Rutgers,Iona,8
+Cal Poly,Menlo,46
+Illinois,Gonzaga,11
+Santa Clara,Pacific Union,35
+San Diego,Tulane,6
+Minnesota,Southern California,14
+Long Island,Hofstra,4
+Dayton,Miami OH,22
+Youngstown St.,Hiram,27
+Canisius,Marist,12
+Lafayette,Sacred Heart,2
+Florida International,Stetson,3
+Manhattan,Siena,20
+Columbia,American,12
+Fairfield,Rider,13
+Creighton,Akron,16
+Furman,Presbyterian,24
+Florida Atlantic,Warner Southern,33
+Hartford,Fairleigh Dickinson,10
+Norfolk St.,MD Baltimore County,17
+Florida St.,Maine,32
+Xavier,Kent St.,7
+North Dakota St.,North Dakota,20
+DePaul,Wisconsin Milwaukee,34
+Nevada Las Vegas,California,1
+Iowa St.,Nebraska Omaha,28
+Washington St.,Fresno St.,9
+South Dakota St.,Cal St. Bakersfield,6
+Georgetown,Longwood,36
+Virginia Tech,Mississippi Valley St.,21
+Navy,Bryant,10
+Seattle,Eastern Washington,6
+Southern,William Carey,27
+Detroit,Alabama St.,13
+Villanova,Saint Joseph's,4
+Duquesne,West Virginia,4
+Harvard,Boston University,1
+IUPUI,Indiana Northwest,6
+Michigan,Binghamton,28
+Stony Brook,St. Francis NY,16
+Rutgers,George Washington,3
+NJ Inst of Technology,Army,2
+Jacksonville St.,Martin Methodist,15
+Louisiana St.,Chattanooga,13
+Louisiana Lafayette,Lamar,17
+Auburn,Grambling,50
+Illinois,Norfolk St.,10
+Minnesota,North Dakota St.,13
+Santa Clara,San Jose St.,21
+St. Mary's,Jackson St.,53
+Nevada,Cal Poly,13
+San Diego,Arizona Christian,23
+Fairfield,Wisconsin Milwaukee,16
+Ohio St.,Savannah St.,40
+Central Florida,Bethune Cookman,10
+Presbyterian,North Greenville,8
+Albany,South Carolina St.,9
+Coppin St.,MD Baltimore County,19
+Rio Grande,Campbell,2
+Vermont,Dartmouth,2
+Temple,Towson,11
+NC Asheville,Lenoir Rhyne,11
+Niagara,Hartford,16
+Long Island,Rice,27
+New Orleans,Nicholls St.,3
+Maryland,Monmouth,33
+McNeese St.,Louisiana Tech,8
+DePaul,Arizona St.,17
+Wisconsin,Wisconsin Green Bay,11
+Baylor,Lamar,17
+Oregon St.,Portland St.,5
+Colorado,Fresno St.,7
+Longwood,Southern Virginia,12
+Anderson SC,College of Charleston,16
+Florida Gulf Coast,Florida International,3
+Coastal Carolina,Toccoa Falls,37
+North Carolina A&T,NJ Inst of Technology,5
+Texas Pan American,Eureka,28
+Southern,Louisiana Monroe,29
+Texas Arlington,Houston Baptist,34
+North Dakota,Presentation,42
+Alabama St.,Troy,6
+Nevada Las Vegas,La Verne,47
+Washington,Seattle,13
+Washington St.,Jackson St.,11
+Cal St. Fullerton,Idaho St.,13
+Tennessee,Wichita St.,9
+Belmont,Middle Tennessee,15
+Central Florida,Old Dominion,4
+Army,Maine,29
+Miami FL,Charlotte,31
+Mississippi,East Tennessee St.,22
+Boise St.,Louisiana St.,19
+Cal Poly,Eastern New Mexico,3
+Portland,Portland Bible,29
+Hawaii,Chaminade,11
+Ohio St.,NC Asheville,18
+North Carolina,East Carolina,6
+Kentucky,Lipscomb,38
+St. Louis,Tennessee Martin,22
+Auburn,Furman,14
+Illinois Chicago,Eastern Michigan,26
+Rhode Island,Southern Methodist,22
+St. Bonaventure,Cleveland St.,34
+Wright St.,Hofstra,6
+Cincinnati,Marshall,16
+Winthrop,Ohio,1
+Oklahoma,Texas A&M,10
+Georgia Southern,Virginia Tech,5
+Marquette,Savannah St.,20
+Evansville,Alabama St.,13
+Iowa,Northern Iowa,7
+Louisville,Memphis,9
+Fordham,Princeton,3
+Arizona St.,Dartmouth,19
+San Diego St.,San Diego,16
+Northwestern St.,Missouri Valley,17
+Arkansas Little Rock,Tulsa,7
+Virginia Commonwealth,Alabama,19
+Howard,Liberty,7
+Oregon,Nebraska,22
+Notre Dame,Purdue,13
+Iowa St.,Drake,9
+Stanford,UC Davis,23
+St. John's,St. Francis NY,17
+New Mexico,New Mexico St.,15
+Richmond,Stetson,19
+Denver,Nebraska Omaha,35
+Nevada,San Francisco,8
+North Dakota St.,Towson,17
+Bucknell,La Salle,8
+North Carolina St.,Norfolk St.,22
+Pittsburgh,Bethune Cookman,49
+Gardner Webb,The Citadel,13
+Clemson,Florida A&M,23
+Stephen F. Austin,Lubbock Christian,11
+Indiana St.,IUPUI,14
+Southern California,UC Riverside,44
+Robert Morris,Duquesne,22
+Syracuse,Canisius,24
+Davidson,NC Wilmington,16
+Kansas,Belmont,29
+Washington,Jackson St.,8
+Long Beach St.,Brigham Young Hawaii,17
+Southern Mississippi,Grambling,48
+Texas Pan American,Lamar,5
+Hartford,Rice,7
+Troy,Georgia St.,1
+Santa Clara,Pacific,4
+Southern Illinois,Wisconsin Green Bay,2
+Vanderbilt,Alabama A&M,25
+Tennessee Tech,Wisconsin Milwaukee,11
+Houston,Louisiana Lafayette,22
+Sam Houston St.,Samford,16
+Loyola Chicago,Mississippi St.,8
+Texas,Texas St.,12
+Ball St.,South Dakota,7
+Arkansas,Alcorn St.,38
+Michigan,West Virginia,15
+Valparaiso,Missouri St.,8
+UCLA,Prairie View A&M,42
+Gonzaga,Kansas St.,16
+Michigan St.,Tuskegee,36
+Brigham Young,Weber St.,10
+Utah St.,Utah Valley,6
+UC Santa Barbara,San Diego Christian,27
+UC Irvine,Fresno St.,7
+Arizona,Florida,1
+Cal St. Bakersfield,La Verne,20
+Idaho,Walla Walla,44
+Portland St.,George Fox,11
+Creighton,California,10
+Georgetown,Western Carolina,13
+Dayton,Florida Atlantic,25
+Loyola MD,Mount St. Mary's,22
+Detroit,Akron,7
+Rutgers,UAB,9
+Seton Hall,North Carolina A&T,11
+North Texas,Southeastern Louisiana,5
+Marist,Maine,25
+James Madison,NC Greensboro,12
+Niagara,Vermont,10
+Appalachian St.,Missouri Kansas City,10
+Western Michigan,High Point,6
+Mercer,Chattanooga,10
+Cal St. Fullerton,Texas Southern,7
+Murray St.,Western Kentucky,5
+Arkansas St.,Austin Peay,12
+Villanova,Delaware,10
+Charlotte,Kennesaw St.,14
+Oklahoma St.,Central Arkansas,28
+Fairfield,Drexel,11
+DePaul,Northern Illinois,5
+South Alabama,Texas A&M Corpus Chris,5
+Illinois St.,Morgan St.,19
+Illinois,Eastern Kentucky,13
+Oregon St.,Chicago St.,10
+McNeese St.,Texas Tech,5
+Central Michigan,Pepperdine,3
+Long Island,Manhattan,27
+Connecticut,Maryland Eastern Shore,34
+Northwestern,Texas St.,6
+Bethune Cookman,Florida Christian,51
+Georgia Tech,Alabama St.,34
+Canisius,Longwood,28
+Notre Dame,IUPU Fort Wayne,12
+Nevada Las Vegas,Texas El Paso,2
+Bucknell,St. Francis PA,27
+Syracuse,Detroit,4
+Oakland,Valparaiso,2
+SIU Edwardsville,Eureka,3
+Missouri,South Carolina St.,51
+Louisiana Tech,Arkansas Little Rock,2
+Baylor,South Carolina Upstate,16
+Florida St.,Louisiana Monroe,15
+Bradley,Georgia Southern,19
+Southern Illinois,New Orleans,13
+Northern Arizona,Montana St.,7
+Colorado St.,North Florida,28
+Vanderbilt,Cornell,11
+Northern Colorado,Tabor,28
+Southern Utah,North Dakota,12
+UC Davis,Eastern Washington,22
+Santa Clara,Cal Poly,8
+Jackson St.,Seattle,9
+Portland,Cal St. Bakersfield,18
+East Carolina,Gardner Webb,2
+Ohio St.,Winthrop,10
+South Florida,Youngstown St.,18
+Michigan St.,Bowling Green,11
+Georgia,Mercer,9
+Texas A&M,Texas A&M Corpus Chris,12
+Stony Brook,Sacred Heart,5
+Charleston Southern,East Tennessee St.,21
+NC Asheville,Northeastern,6
+Purdue,Ball St.,10
+Yale,Albertus Magnus,49
+Lafayette,Arcadia,24
+Wake Forest,Furman,24
+Iona,Liberty,18
+Hampton,American,7
+Southern Mississippi,Georgia St.,2
+Stetson,Florida Atlantic,1
+Providence,Colgate,34
+Kansas,Richmond,28
+Florida Gulf Coast,Southeastern,26
+Wofford,Jacksonville,42
+College of Charleston,Old Dominion,11
+Lipscomb,Austin Peay,3
+Western Illinois,Illinois Chicago,16
+Miami FL,Central Florida,22
+Nebraska Omaha,Benedictine,4
+Middle Tennessee,Tennessee St.,29
+Stephen F. Austin,Oklahoma,1
+Alabama A&M,Missouri St.,12
+Robert Morris,Louisiana Lafayette,5
+Auburn,Tennessee Tech,19
+Houston Baptist,Arlington Baptist,39
+Evansville,Oakland City,34
+Virginia Commonwealth,Western Kentucky,32
+North Carolina St.,Stanford,9
+Arizona,Oral Roberts,25
+Brigham Young,Eastern New Mexico,33
+Utah,Southern Methodist,9
+Nebraska,Jacksonville St.,4
+Holy Cross,San Francisco,10
+UC Riverside,Whittier,29
+Louisiana St.,UC Irvine,6
+Cal St. Northridge,San Diego Christian,30
+UCLA,Long Beach St.,19
+California,UC Santa Barbara,9
+San Diego St.,Point Loma,27
+Tennessee,Presbyterian,16
+Akron,Arkansas Pine Bluff,30
+Texas Christian,Southern,11
+Kansas St.,Texas Southern,9
+Wyoming,Denver,10
+South Carolina,Appalachian St.,5
+St. Peter's,Long Island,13
+Cleveland St.,Notre Dame OH,11
+NC Wilmington,NC Greensboro,14
+Florida,Southeastern Louisiana,39
+Bucknell,Marist,6
+St. Bonaventure,The Citadel,40
+Seton Hall,Longwood,18
+Pittsburgh,Delaware St.,28
+Duquesne,Western Michigan,5
+Canisius,Temple,10
+Louisville,Florida International,24
+Notre Dame,Kennesaw St.,28
+Virginia,Morgan St.,18
+Coastal Carolina,Clemson,23
+Marshall,Savannah St.,16
+North Carolina A&T,Eastern Kentucky,11
+Duke,Cornell,41
+Indiana,Mount St. Mary's,39
+Coppin St.,Towson,3
+Massachusetts,Ohio,9
+Charlotte,Radford,16
+SIU Edwardsville,Robert Morris IL,32
+Alabama,Texas Tech,4
+Samford,Tennessee Martin,13
+Southeast Missouri St.,New Orleans,23
+Wisconsin Green Bay,Marquette,2
+Wright St.,Miami OH,8
+Sam Houston St.,Huston Tillotson,36
+Oklahoma St.,Texas Arlington,25
+South Dakota,Morehead St.,10
+Belmont,South Dakota St.,27
+Bradley,Mississippi Valley St.,35
+Iowa St.,Missouri Kansas City,15
+Drake,North Carolina Central,3
+Creighton,Tulsa,17
+Montana,Northern Arizona,6
+Murray St.,Arkansas St.,7
+West Virginia,Oakland,5
+New Mexico,New Mexico St.,5
+Colorado St.,Cal St. Bakersfield,20
+Gonzaga,Campbell,22
+Texas,North Carolina,18
+Iowa,South Carolina St.,44
+Nevada Las Vegas,Northern Iowa,14
+St. Mary's,Pacific,28
+Seattle,Northern Illinois,27
+Oregon St.,Howard,16
+Portland,North Florida,10
+Sacramento St.,Montana St.,5
+Mississippi,Loyola Marymount,3
+Illinois St.,Dayton,1
+Cincinnati,Xavier,15
+Pepperdine,Alabama St.,8
+Tulane,Texas Pan American,27
+St. Louis,Eastern Illinois,27
+La Salle,Iona,14
+Kent St.,St. Francis PA,29
+Central Michigan,Texas St.,12
+Princeton,Rider,17
+Northern Kentucky,Hampton,2
+Duke,Elon,22
+UC Davis,Southern Illinois,8
+Lehigh,North Texas,15
+Stephen F. Austin,Grambling,22
+Memphis,Lipscomb,6
+Wichita St.,Charleston Southern,12
+Arkansas,Robert Morris,5
+UAB,Louisiana Monroe,7
+Valparaiso,IUPUI,20
+Michigan,Eastern Michigan,39
+Washington,Cal Poly,13
+Weber St.,Eastern Washington,21
+Utah St.,Nicholls St.,7
+Portland St.,Idaho St.,14
+UC Irvine,Southern California,7
+Boise St.,Idaho,10
+Tulane,Pepperdine,15
+Chattanooga,Reinhardt,30
+Denver,Southern Utah,25
+Connecticut,Fordham,15
+Liberty,Milligan,18
+Central Florida,Stetson,17
+Tennessee,Western Carolina,14
+Quinnipiac,Albany,2
+Youngstown St.,Bethune Cookman,16
+Eastern Kentucky,High Point,3
+William & Mary,Salisbury St.,33
+Notre Dame,Niagara,22
+Delaware,Pennsylvania,23
+Indiana,Florida Atlantic,36
+IUPU Fort Wayne,Kennesaw St.,23
+Virginia Commonwealth,Longwood,37
+Rutgers,Howard,24
+NC Asheville,St. John's,7
+Tennessee St.,South Carolina Upstate,3
+Northeastern,Central Connecticut,19
+Maryland,Stony Brook,7
+Middle Tennessee,Vanderbilt,4
+North Dakota St.,Morehead St.,20
+Northern Colorado,North Dakota,9
+Texas San Antonio,Texas A&M Corpus Chris,30
+Southern Illinois,Nicholls St.,12
+Colorado,Northern Arizona,47
+Stanford,Northwestern,2
+Wagner,Southern Methodist,10
+Baylor,Brigham Young,15
+Wyoming,UC Santa Barbara,16
+Pacific,Cal Maritime,38
+Nevada,Cal St. San Marcos,10
+Montana,Sacramento St.,1
+Utah St.,UC Davis,12
+Washington St.,Buffalo,11
+Cal St. Northridge,Utah,5
+Santa Clara,Alcorn St.,12
+Nebraska,Central Michigan,14
+Miami FL,Hawaii,15
+Arizona,East Tennessee St.,20
+Georgetown,American,17
+Dayton,Murray St.,9
+College of Charleston,Coastal Carolina,9
+Temple,Syracuse,4
+North Carolina,McNeese St.,34
+St. Louis,Loyola Marymount,21
+Missouri,Illinois,9
+Northern Iowa,St. Mary's,7
+Oklahoma St.,Tennessee Tech,36
+Mercer,Alabama,7
+Army,Rosemont,42
+Bryant,Dartmouth,13
+Boston University,Cornell,13
+Iowa,Coppin St.,30
+Southeast Missouri St.,Missouri Kansas City,1
+Georgia,Southern California,8
+Miami OH,Illinois Chicago,12
+Loyola Chicago,St. Peter's,5
+Arizona St.,Texas Tech,15
+La Salle,Sacred Heart,29
+Florida St.,Charlotte,3
+Rhode Island,Georgia St.,5
+South Dakota St.,New Mexico,5
+Vermont,Fairleigh Dickinson,14
+Massachusetts,East Carolina,7
+Harvard,Holy Cross,7
+Appalachian St.,Presbyterian,8
+Butler,Evansville,8
+Fairfield,Saint Joseph's,3
+NJ Inst of Technology,City College of New Yo,28
+Oakland,Eastern Michigan,2
+Ohio,Maryland Eastern Shore,36
+Boston College,Providence,3
+Wofford,Xavier,1
+Michigan St.,Texas,11
+Marquette,Louisiana St.,4
+St. Francis NY,Colgate,12
+Northern Kentucky,Navy,9
+Maine,Florida Gulf Coast,6
+Wake Forest,NC Greensboro,14
+Valparaiso,Purdue Calumet,28
+Illinois St.,Austin Peay,26
+North Carolina St.,St. Bonaventure,19
+Georgia Southern,Mississippi Valley St.,11
+Mississippi St.,Central Arkansas,7
+James Madison,San Jose St.,9
+Oregon,Houston Baptist,41
+California,Prairie View A&M,32
+George Washington,Virginia Military Inst,9
+DePaul,MD Baltimore County,8
+South Alabama,Arkansas Little Rock,15
+Drake,Eastern Illinois,18
+Hartford,Marist,10
+West Virginia,Radford,10
+Kansas,Ohio St.,8
+Air Force,UC Riverside,8
+Kentucky,Marshall,28
+Southern,Texas A&M,2
+Gardner Webb,Spalding,29
+Georgia Tech,The Citadel,32
+Elon,Columbia,1
+Houston,Chicago St.,22
+Cincinnati,Wright St.,10
+Eastern Washington,Idaho St.,3
+Old Dominion,Virginia,2
+North Florida,Cal St. Bakersfield,10
+South Carolina,Manhattan,6
+San Diego St.,San Francisco,22
+North Carolina Central,Utah Valley,6
+Minnesota,Lafayette,25
+Villanova,Monmouth,27
+Kent St.,Arkansas St.,4
+Princeton,Bucknell,12
+Jacksonville,Furman,12
+Washington,Northern Illinois,10
+UC Davis,Nicholls St.,11
+Texas Pan American,Nebraska Omaha,8
+Texas Christian,Rice,2
+Kansas St.,Florida,6
+Wisconsin Green Bay,South Dakota,17
+Tulsa,Oral Roberts,4
+Wichita St.,Southern Mississippi,8
+Florida International,Texas Southern,3
+Drexel,Davidson,11
+Louisiana Lafayette,Duquesne,12
+Arkansas,Alabama A&M,27
+Seton Hall,Long Island,31
+Winthrop,Auburn,7
+Louisville,Western Kentucky,23
+New Mexico St.,Missouri St.,20
+Oregon St.,San Diego,7
+Texas El Paso,Arkansas Pine Bluff,22
+Wisconsin,Wisconsin Milwaukee,21
+Nevada Las Vegas,Canisius,15
+Seattle,Campbell,23
+Utah St.,Southern Illinois,12
+UCLA,Fresno St.,13
+Colorado St.,Portland,17
+Western Michigan,Mount St. Mary's,21
+George Mason,Richmond,3
+Tulane,Hofstra,21
+Akron,Cleveland St.,30
+Penn St.,New Hampshire,27
+Northwestern,Brown,21
+IUPUI,Ball St.,9
+James Madison,San Diego,3
+Clemson,South Carolina St.,36
+Iona,Norfolk St.,28
+Boise St.,New Orleans,16
+Fordham,Siena,6
+Pittsburgh,Kennesaw St.,16
+Canisius,Alcorn St.,13
+IUPUI,IUPU Fort Wayne,14
+Florida Atlantic,Troy,7
+Western Kentucky,Florida International,13
+Arkansas St.,Louisiana Lafayette,17
+Brigham Young,Northern Arizona,30
+New Mexico,Cincinnati,1
+St. Mary's,Rhode Island,23
+Loyola Marymount,Morgan St.,17
+Western Illinois,Oakland,10
+Akron,Texas Southern,15
+Eastern Michigan,Siena Heights,38
+Utah Valley,Austin Peay,7
+Cleveland St.,Rio Grande,20
+Liberty,Union,37
+Central Florida,Howard,17
+Villanova,NJ Inst of Technology,10
+Seton Hall,Stony Brook,1
+Chattanooga,High Point,7
+Saint Joseph's,Iona,5
+Brown,Providence,1
+Cornell,St. Francis PA,12
+Colgate,Binghamton,27
+Albany,Navy,10
+Buffalo,Notre Dame OH,20
+Bucknell,Loyola MD,20
+Rutgers,Rider,12
+Southern Mississippi,Morehead St.,36
+Texas Tech,North Carolina A&T,11
+Gonzaga,Baylor,7
+Louisiana St.,Houston Baptist,17
+Memphis,Oral Roberts,15
+St. Louis,SIU Edwardsville,27
+North Dakota,Bowling Green,3
+Indiana,Jacksonville,34
+Belmont,Boston University,16
+Utah,Albertson,34
+Nevada,Yale,10
+Pepperdine,Fresno Pacific,1
+Southern,Spring Hill,21
+Hawaii,Cal St. Northridge,3
+Georgia,Florida A&M,9
+Duke,Santa Clara,13
+Western Illinois,IUPU Fort Wayne,12
+Maryland,Delaware St.,29
+Kansas St.,Missouri Kansas City,8
+Campbell,NC Wilmington,12
+Lamar,Long Island,1
+Wisconsin Milwaukee,Ohio Dominican,15
+St. Peter's,Central Connecticut,2
+South Carolina,Presbyterian,16
+Southeast Missouri St.,Tennessee Martin,5
+Montana St.,Northwest Indian,31
+Arizona St.,Coppin St.,16
+Toledo,Illinois Chicago,19
+South Dakota,Nebraska Omaha,23
+College of Charleston,Vermont,12
+Purdue,William & Mary,7
+Wisconsin,Samford,36
+Mount St. Mary's,MD Baltimore County,3
+Texas,Rice,16
+Brigham Young,Virginia Tech,26
+Radford,Central Pennsylvania,27
+North Carolina,Nevada Las Vegas,6
+Colorado,Hartford,28
+Boston College,Holy Cross,10
+Marquette,North Carolina Central,9
+Florida St.,Tulsa,19
+Loyola Chicago,DePaul,8
+Youngstown St.,Marygrove,41
+Illinois,Auburn,2
+San Francisco,Dominican CA,17
+Maine,Quinnipiac,5
+San Diego,Morgan St.,3
+Oakland,IUPUI,22
+Valparaiso,Murray St.,2
+Nebraska,Nicholls St.,9
+UAB,Northeastern,20
+Virginia Commonwealth,Fairleigh Dickinson,29
+Cal Poly,UC Riverside,10
+Columbia,Manhattan,11
+Louisville,Kentucky,3
+Houston,Prairie View A&M,5
+Massachusetts,Northern Illinois,5
+Penn St.,Duquesne,10
+Stephen F. Austin,Texas A&M Corpus Chris,11
+Ohio St.,Chicago St.,43
+Colorado St.,Adams St.,25
+Florida,Air Force,17
+Southeastern Louisiana,Spring Hill,10
+San Jose St.,Texas St.,17
+Texas A&M,Army,6
+Sam Houston St.,Howard Payne,41
+Louisiana Monroe,Florida Atlantic,1
+Alabama St.,Auburn Montgomery,23
+East Carolina,Norfolk St.,11
+Jacksonville St.,Tennessee Tech,21
+Charleston Southern,Virginia Intermont,46
+Washington St.,Idaho St.,35
+Tennessee,Xavier,4
+Davidson,Richmond,6
+Middle Tennessee,Florida International,17
+Utah St.,Texas San Antonio,4
+South Florida,George Mason,4
+La Salle,Siena,28
+Louisiana Tech,Denver,8
+Bryant,Lehigh,1
+Georgia Tech,Fordham,25
+Michigan,Central Michigan,15
+Fairfield,Old Dominion,1
+Syracuse,Alcorn St.,21
+Long Beach St.,Pacific,4
+Connecticut,Washington,8
+Butler,Vanderbilt,19
+Oklahoma,Ohio,11
+Harvard,California,5
+Western Kentucky,North Texas,6
+Texas Arlington,New Mexico St.,21
+Bradley,Drake,10
+Arkansas,Northwestern St.,18
+North Dakota St.,South Dakota St.,3
+Kansas,American,32
+Arkansas St.,South Alabama,9
+Creighton,Evansville,17
+Louisiana Lafayette,Arkansas Little Rock,9
+Tennessee St.,Eastern Illinois,8
+Weber St.,Southwest,65
+Southern Utah,Northern Colorado,1
+Cal St. Fullerton,UC Santa Barbara,7
+Idaho,Seattle,7
+Texas Pan American,Portland,4
+Loyola Marymount,Cal St. Bakersfield,7
+Stanford,Lafayette,6
+North Carolina St.,Western Michigan,16
+Virginia,Wofford,35
+Indiana St.,Illinois St.,2
+Winthrop,Hampton,7
+Wright St.,Mount St. Joseph,9
+NC Asheville,Bluefield,29
+Morehead St.,Union,47
+Appalachian St.,Milligan,20
+Cornell,Binghamton,2
+Colgate,New Hampshire,2
+George Washington,Sacred Heart,39
+Miami OH,Wilmington OH,17
+South Carolina Upstate,Coastal Georgia,30
+Detroit,Canisius,5
+West Virginia,Eastern Kentucky,7
+Boise St.,Corban,56
+Fresno St.,Sonoma St.,25
+Alabama A&M,Mississippi St.,2
+St. Francis NY,NJ Inst of Technology,2
+Southern Methodist,Furman,19
+St. Mary's,Yale,16
+Texas Christian,Mississippi Valley St.,3
+Tulane,Alabama,3
+Wichita St.,Northern Iowa,25
+Missouri St.,Southern Illinois,11
+Wisconsin Green Bay,Illinois Springfield,41
+Cal St. Bakersfield,North Carolina A&T,8
+Kent St.,Fairmont St.,2
+Coastal Carolina,Greensboro,20
+Memphis,Loyola MD,14
+Akron,Princeton,4
+Cincinnati,Pittsburgh,9
+Chicago St.,Toledo,5
+Iona,St. Bonaventure,19
+North Carolina St.,NC Greensboro,21
+Middle Tennessee,North Texas,18
+Kansas St.,South Dakota,20
+Minnesota,Michigan St.,13
+Fairleigh Dickinson,Longwood,8
+Liberty,Western Carolina,1
+Temple,Bowling Green,18
+Boston College,Dartmouth,21
+Denver,Texas Arlington,15
+Delaware,Rider,7
+Elon,Manchester,35
+San Jose St.,Texas San Antonio,13
+Texas Tech,Florida A&M,14
+Northwestern St.,LeTourneau,50
+Oklahoma,Texas A&M Corpus Chris,30
+Syracuse,Central Connecticut,34
+Army,Houston Baptist,9
+Southern Mississippi,William Carey,30
+Albany,Brown,7
+Fordham,Monmouth,11
+College of Charleston,Marist,10
+Central Arkansas,Central Baptist,25
+Saint Joseph's,Drexel,14
+Indiana,Iowa,4
+Mercer,Stetson,6
+North Florida,Lipscomb,14
+Utah St.,Texas St.,24
+Florida Gulf Coast,Kennesaw St.,9
+Oregon St.,Texas Pan American,25
+Nebraska Omaha,Missouri Kansas City,12
+Gonzaga,Oklahoma St.,1
+Oregon,Nevada,13
+Jacksonville,Northern Kentucky,2
+St. Louis,New Mexico,14
+Louisiana Tech,New Mexico St.,9
+St. Mary's,Harvard,1
+Jacksonville St.,Tennessee Martin,10
+Iowa St.,Yale,10
+Florida Atlantic,Hofstra,4
+Stony Brook,Manhattan,6
+Maryland,IUPUI,18
+Clemson,The Citadel,41
+Presbyterian,Montreat,42
+Stetson,Kennesaw St.,10
+Kent St.,Cleveland St.,17
+Kentucky,Eastern Michigan,52
+Ohio St.,Nebraska,26
+Ball St.,Norfolk St.,1
+North Carolina Central,Winthrop,7
+Florida International,Florida A&M,16
+Towson,NC Wilmington,5
+Albany,MD Baltimore County,17
+Richmond,Air Force,23
+Bucknell,Cornell,16
+Virginia Commonwealth,East Tennessee St.,51
+Georgia Tech,Chattanooga,16
+Vermont,New Hampshire,13
+Columbia,Colgate,7
+Lafayette,NJ Inst of Technology,17
+Louisville,Providence,18
+Massachusetts,Miami OH,1
+Wake Forest,Xavier,7
+Butler,Pennsylvania,13
+Delaware St.,Marshall,2
+Drexel,Georgia St.,17
+North Carolina A&T,Radford,4
+James Madison,Old Dominion,3
+Hartford,Binghamton,3
+Syracuse,Rutgers,25
+Virginia Military Inst,Shenandoah,56
+Duke,Davidson,17
+IUPU Fort Wayne,Navy,5
+Maine,Boston University,5
+Jacksonville,Lipscomb,14
+Northern Kentucky,North Florida,13
+South Carolina Upstate,Hampton,19
+Illinois Chicago,Youngstown St.,5
+South Florida,Central Florida,9
+Wyoming,Southern Methodist,3
+Vanderbilt,William & Mary,14
+Indiana St.,Northern Iowa,4
+Boise St.,Texas Arlington,18
+UAB,Georgia Southern,4
+Auburn,Florida St.,6
+Bradley,Southern Illinois,6
+Creighton,Illinois St.,7
+Wichita St.,Drake,12
+Tulsa,Buffalo,6
+Loyola Chicago,Valparaiso,9
+Purdue,Illinois,7
+Arkansas Pine Bluff,Mississippi Valley St.,15
+Alabama A&M,Grambling,25
+Alabama St.,Jackson St.,4
+Alcorn St.,Prairie View A&M,14
+Southern,Texas Southern,6
+Miami FL,La Salle,17
+Seton Hall,DePaul,1
+San Diego St.,Cal St. Bakersfield,15
+Colorado St.,Texas El Paso,4
+Santa Clara,San Francisco,5
+Akron,Coppin St.,28
+Hawaii,Cal St. Fullerton,2
+Michigan,Northwestern,28
+St. Francis NY,Quinnipiac,2
+Wagner,Monmouth,4
+Sacred Heart,Long Island,4
+Wright St.,Wisconsin Green Bay,11
+Eastern Kentucky,Eastern Illinois,11
+Fairfield,Canisius,21
+Fairleigh Dickinson,Mount St. Mary's,7
+Morehead St.,SIU Edwardsville,4
+Mississippi St.,New Orleans,51
+Niagara,Marist,22
+Florida Atlantic,Louisiana Lafayette,5
+St. Francis PA,Central Connecticut,7
+Bryant,Robert Morris,7
+Detroit,Wisconsin Milwaukee,15
+Oakland,Nebraska Omaha,12
+American,Maryland Eastern Shore,14
+North Texas,Troy,17
+Murray St.,Tennessee Martin,11
+Southeast Missouri St.,Austin Peay,2
+Southern Mississippi,Dillard,94
+Belmont,Jacksonville St.,11
+Brigham Young,Loyola Marymount,41
+Houston,Texas Pan American,25
+Tennessee St.,Tennessee Tech,6
+North Dakota St.,South Dakota,26
+South Dakota St.,Missouri Kansas City,16
+Oral Roberts,Southeastern Louisiana,14
+Northwestern St.,McNeese St.,15
+Arkansas Little Rock,Western Kentucky,8
+South Alabama,Louisiana Monroe,5
+Nicholls St.,Central Arkansas,4
+Northern Arizona,Sacramento St.,7
+New Mexico St.,Texas San Antonio,20
+Denver,Texas St.,11
+Stephen F. Austin,Lamar,36
+Weber St.,Northern Colorado,25
+Montana,Eastern Washington,15
+Montana St.,Portland St.,3
+North Dakota,Idaho St.,13
+Utah St.,Seattle,9
+UC Santa Barbara,UC Irvine,3
+Nevada Las Vegas,Chicago St.,22
+Idaho,San Jose St.,9
+Cal Poly,Long Beach St.,6
+Southern California,Stanford,2
+UC Riverside,Cal St. Northridge,1
+UCLA,California,14
+Northeastern,George Mason,10
+Wisconsin,Penn St.,9
+San Diego,Portland,11
+Gonzaga,Pepperdine,16
+Manhattan,St. Peter's,2
+Iona,Siena,4
+Rhode Island,Brown,12
+Georgia,George Washington,11
+Yale,Holy Cross,7
+Valparaiso,Cleveland St.,24
+Loyola MD,Rider,6
+Memphis,Tennessee,5
+Texas A&M,Houston Baptist,8
+Alabama St.,Grambling,13
+Southern,Prairie View A&M,5
+Mississippi,Fordham,27
+Texas Southern,Alcorn St.,9
+St. Louis,Savannah St.,8
+Hawaii,UC Riverside,15
+Rutgers,Pittsburgh,5
+Dayton,UAB,7
+Louisiana St.,Bethune Cookman,16
+Notre Dame,Seton Hall,19
+Saint Joseph's,Morgan St.,10
+Texas Tech,Texas Christian,9
+Delaware,Old Dominion,12
+Maryland,Virginia Tech,23
+Duke,Wake Forest,18
+Michigan St.,Purdue,23
+Princeton,Elon,10
+Maine,MD Baltimore County,15
+Northeastern,NC Wilmington,4
+Hartford,Boston University,3
+South Carolina,South Carolina St.,11
+Kansas St.,Oklahoma St.,6
+High Point,Winthrop,13
+Coastal Carolina,Longwood,8
+Stony Brook,New Hampshire,16
+La Salle,Pennsylvania,17
+Vermont,Albany,25
+Massachusetts,Eastern Michigan,14
+George Mason,William & Mary,7
+Butler,New Orleans,13
+Georgia St.,James Madison,16
+Ohio,Marshall,37
+Detroit,Wisconsin Green Bay,8
+Marquette,Georgetown,1
+IUPU Fort Wayne,Nebraska Omaha,18
+Florida Gulf Coast,Jacksonville,23
+Illinois,Ohio St.,19
+Miami FL,Georgia Tech,13
+Kennesaw St.,Mercer,8
+Brigham Young,San Francisco,4
+Quinnipiac,Long Island,8
+UCLA,Stanford,8
+St. Mary's,Loyola Marymount,13
+Gonzaga,Santa Clara,7
+Niagara,Fairfield,4
+Pepperdine,Portland,7
+Columbia,Army,12
+Creighton,Indiana St.,13
+North Florida,Stetson,16
+Sacred Heart,St. Francis NY,1
+Oklahoma,West Virginia,10
+Central Florida,Florida A&M,30
+Wagner,Fairleigh Dickinson,13
+Northwestern St.,Lamar,28
+Howard,Coppin St.,10
+Florida St.,Clemson,5
+Youngstown St.,Loyola Chicago,2
+St. John's,Cincinnati,1
+Bryant,St. Francis PA,20
+Charleston Southern,Radford,7
+Towson,Drexel,3
+North Carolina St.,Boston College,5
+Alabama,Oakland,20
+Colorado St.,St. Bonaventure,21
+Sam Houston St.,Texas A&M Corpus Chris,4
+East Carolina,NC Wesleyan,31
+Virginia Commonwealth,Lehigh,4
+Southeastern Louisiana,Central Arkansas,4
+Harvard,Rice,30
+College of Charleston,Furman,4
+Arizona,Utah,3
+Norfolk St.,Navy,6
+Oral Roberts,Nicholls St.,13
+Southern Utah,Northern Arizona,13
+South Dakota,South Dakota St.,3
+Tennessee St.,Jacksonville St.,9
+Murray St.,Southeast Missouri St.,8
+North Dakota St.,Missouri Kansas City,19
+NC Asheville,Liberty,14
+Virginia Military Inst,Presbyterian,9
+Wright St.,Wisconsin Milwaukee,2
+Missouri,Bucknell,2
+Eastern Kentucky,SIU Edwardsville,6
+Colgate,Dartmouth,16
+Canisius,Marist,9
+Mount St. Mary's,Monmouth,12
+Stephen F. Austin,McNeese St.,28
+North Carolina A&T,Georgia Southern,6
+Central Connecticut,Robert Morris,7
+Davidson,NC Greensboro,32
+South Carolina Upstate,Northern Kentucky,6
+Western Carolina,The Citadel,17
+Florida International,Louisiana Lafayette,5
+Morehead St.,Eastern Illinois,15
+Lipscomb,East Tennessee St.,4
+Louisiana Monroe,North Texas,13
+Northern Iowa,Illinois St.,10
+Chattanooga,Samford,4
+Tulane,Wofford,14
+DePaul,Providence,10
+Louisiana Tech,Texas Arlington,3
+Arkansas,Delaware St.,35
+Middle Tennessee,South Alabama,4
+Missouri St.,Drake,12
+Arkansas St.,Western Kentucky,14
+Troy,Arkansas Little Rock,3
+Belmont,Tennessee Tech,31
+Boise St.,Walla Walla,67
+New Mexico St.,Texas St.,11
+Evansville,Southern Illinois,17
+Weber St.,North Dakota,32
+Montana,Portland St.,7
+NJ Inst of Technology,Utah Valley,5
+Idaho St.,Northern Colorado,23
+Washington,Washington St.,5
+Nevada Las Vegas,Cal St. Bakersfield,21
+Pacific,UC Davis,10
+San Jose St.,Seattle,5
+Cal Poly,UC Irvine,5
+Long Beach St.,UC Santa Barbara,7
+Cal St. Fullerton,Cal St. Northridge,19
+California,Southern California,8
+Minnesota,Northwestern,18
+Syracuse,South Florida,11
+Loyola MD,St. Peter's,16
+Arkansas Pine Bluff,Alabama St.,15
+Wisconsin,Nebraska,6
+Kansas,Temple,7
+Cornell,American,8
+Rider,Siena,19
+Denver,Texas San Antonio,25
+Iona,Manhattan,8
+Florida,Yale,21
+Wichita St.,Bradley,6
+Arizona St.,Colorado,9
+Tulsa,Southern Methodist,1
+Virginia,North Carolina,9
+Texas Southern,Prairie View A&M,5
+Mississippi Valley St.,Alabama A&M,11
+Southern,Grambling,39
+Oregon,Oregon St.,13
+Michigan,Iowa,28
+Florida International,Bethune Cookman,2
+Stetson,Jacksonville,9
+Cleveland St.,Illinois Chicago,10
+Western Carolina,Warren Wilson,25
+Hofstra,Georgia St.,2
+Hampton,James Madison,4
+Notre Dame,Cincinnati,6
+Albany,Binghamton,12
+Indiana,Penn St.,23
+East Tennessee St.,Northern Kentucky,5
+Florida Gulf Coast,North Florida,2
+South Carolina Upstate,Lipscomb,37
+Southeastern Louisiana,Lamar,4
+Nicholls St.,McNeese St.,1
+Northwestern St.,Sam Houston St.,9
+Sacramento St.,Southern Utah,5
+Baylor,Texas Tech,34
+Lehigh,Muhlenberg,35
+Missouri,Alabama,16
+North Carolina Central,Virginia Lynchburg,69
+Dartmouth,Army,17
+Holy Cross,Columbia,9
+Connecticut,DePaul,21
+Boston University,Vermont,10
+Duke,Clemson,28
+Appalachian St.,Wofford,1
+Lafayette,Pennsylvania,2
+Texas Pan American,Houston Baptist,10
+Missouri St.,Illinois St.,7
+Creighton,Drake,30
+Alabama St.,Mississippi Valley St.,4
+Arkansas Pine Bluff,Alabama A&M,16
+Alcorn St.,Grambling,34
+Pittsburgh,Georgetown,28
+Ohio St.,Purdue,10
+San Jose St.,New Orleans,7
+Southern,Jackson St.,13
+Campbell,Longwood,10
+Central Florida,UAB,16
+Florida,Georgia,33
+Fordham,Duquesne,7
+Richmond,Rhode Island,3
+MD Baltimore County,New Hampshire,11
+Louisville,Seton Hall,15
+Gardner Webb,NC Asheville,7
+Wright St.,Cleveland St.,16
+Toledo,Kent St.,12
+Central Michigan,Bowling Green,6
+Rutgers,St. John's,2
+Northern Illinois,Miami OH,11
+James Madison,NC Wilmington,28
+Akron,Western Michigan,22
+Coastal Carolina,Presbyterian,18
+Marshall,Tulsa,18
+Butler,Saint Joseph's,6
+NC Greensboro,Lees McRae,39
+Stony Brook,Binghamton,25
+Syracuse,Providence,6
+Radford,High Point,5
+Michigan,Nebraska,15
+Ball St.,Eastern Michigan,2
+George Washington,St. Bonaventure,19
+Boston College,Virginia Tech,11
+Virginia Military Inst,Liberty,13
+Delaware,Hofstra,15
+Indiana St.,Bradley,15
+Charlotte,La Salle,9
+Charleston Southern,Winthrop,12
+Villanova,South Florida,8
+Valparaiso,Illinois Chicago,5
+Southern Mississippi,Rice,23
+Mississippi,Tennessee,18
+Wisconsin Green Bay,Loyola Chicago,13
+North Carolina St.,Georgia Tech,13
+Evansville,Northern Iowa,3
+Mississippi St.,South Carolina,2
+Houston,Southern Methodist,11
+Oklahoma St.,Texas Christian,18
+Texas El Paso,Tulane,9
+Memphis,East Carolina,13
+Florida St.,Maryland,3
+Wichita St.,Southern Illinois,6
+Eastern Kentucky,Murray St.,12
+Utah Valley,Missouri Kansas City,12
+New Mexico,Nevada Las Vegas,5
+Texas A&M,Arkansas,18
+Wake Forest,Virginia,3
+Air Force,Nevada,13
+Auburn,Louisiana St.,5
+Minnesota,Illinois,17
+Boise St.,Wyoming,2
+Stanford,Washington St.,11
+Cal St. Fullerton,Cal St. Bakersfield,12
+Long Beach St.,Cal St. Northridge,9
+Washington,California,15
+UC Irvine,Hawaii,4
+San Diego St.,Fresno St.,3
+Virginia Commonwealth,Dayton,12
+Ohio,Buffalo,18
+Hartford,Maine,7
+San Diego,San Francisco,4
+Iona,Marist,4
+Loyola Marymount,Santa Clara,4
+Mercer,North Florida,19
+Robert Morris,Fairleigh Dickinson,34
+Monmouth,St. Francis PA,5
+Stetson,East Tennessee St.,2
+Rider,Manhattan,9
+Central Connecticut,Sacred Heart,6
+Miami FL,North Carolina,9
+Xavier,Temple,5
+Bryant,Quinnipiac,8
+Michigan St.,Iowa,3
+St. Francis NY,Mount St. Mary's,14
+Chattanooga,The Citadel,5
+Detroit,Youngstown St.,41
+Samford,College of Charleston,5
+Jacksonville St.,SIU Edwardsville,13
+Texas Arlington,Texas San Antonio,8
+Louisiana Tech,Texas St.,17
+Nebraska Omaha,IUPUI,11
+Middle Tennessee,Florida Atlantic,10
+Tennessee Tech,Eastern Illinois,4
+Arkansas Little Rock,North Texas,14
+Tennessee St.,Tennessee Martin,32
+South Dakota St.,Oakland,7
+Belmont,Southeast Missouri St.,35
+Northwestern,Penn St.,16
+North Dakota St.,IUPU Fort Wayne,12
+Montana,North Dakota,15
+Florida International,Arkansas St.,2
+Troy,Louisiana Monroe,9
+Sam Houston St.,Lamar,11
+Oral Roberts,Northwestern St.,6
+Stephen F. Austin,Central Arkansas,8
+McNeese St.,Texas A&M Corpus Chris,4
+Kentucky,Vanderbilt,2
+Oregon,Arizona,4
+St. Louis,Massachusetts,8
+Eastern Washington,Northern Arizona,23
+Weber St.,Southern Utah,7
+Montana St.,Northern Colorado,3
+UCLA,Utah,4
+UC Davis,Cal Poly,2
+Pacific,UC Santa Barbara,18
+Colorado,Southern California,6
+Denver,Idaho,6
+Portland St.,Sacramento St.,18
+Gonzaga,St. Mary's,5
+Arizona St.,Oregon St.,10
+Wagner,Long Island,11
+George Mason,Old Dominion,25
+Brigham Young,Pepperdine,25
+Niagara,St. Peter's,19
+Siena,Canisius,3
+Northern Kentucky,Lipscomb,14
+Wright St.,Loyola Chicago,1
+Creighton,Missouri St.,22
+Utah St.,San Jose St.,6
+Georgetown,St. John's,16
+Northeastern,Towson,11
+North Carolina St.,Duke,8
+Clemson,Virginia,15
+Morgan St.,South Carolina St.,16
+Delaware,Georgia St.,3
+Syracuse,Villanova,11
+Indiana,Minnesota,7
+Western Illinois,Nebraska Omaha,15
+Baylor,Texas Christian,11
+New Orleans,Champion Baptist,37
+South Dakota St.,IUPU Fort Wayne,26
+Alabama,Tennessee,3
+Virginia Military Inst,Winthrop,18
+Kansas St.,West Virginia,1
+Auburn,South Carolina,3
+New Mexico,Fresno St.,27
+Mississippi St.,Georgia,11
+Kent St.,Ball St.,14
+Charleston Southern,Longwood,13
+Stony Brook,Hartford,14
+Butler,Dayton,6
+Ohio,Western Michigan,2
+La Salle,Richmond,12
+Charlotte,Rhode Island,8
+Lehigh,Holy Cross,32
+Western Carolina,NC Greensboro,3
+Brown,Daniel Webster,37
+Cornell,SUNY Old Westbury,19
+Northern Iowa,Bradley,31
+Yale,Oberlin,65
+Valparaiso,Wisconsin Milwaukee,24
+Lafayette,Navy,17
+NC Asheville,Radford,18
+Connecticut,Notre Dame,7
+Iowa St.,Texas,20
+North Carolina,Florida St.,5
+American,Colgate,9
+UCLA,Colorado,3
+Wisconsin,Illinois,23
+Sacred Heart,Quinnipiac,6
+Southern Mississippi,Houston,19
+Vermont,MD Baltimore County,15
+Southern Methodist,Tulane,6
+St. Mary's,San Francisco,6
+Oklahoma,Oklahoma St.,9
+Brigham Young,Santa Clara,18
+San Diego,Pepperdine,12
+North Dakota,Montana St.,13
+Portland,Loyola Marymount,4
+Jacksonville,Mercer,2
+Bryant,Central Connecticut,7
+Kansas,Texas Tech,14
+St. Francis NY,Wagner,19
+Texas A&M,Kentucky,12
+Virginia Commonwealth,St. Bonaventure,7
+Savannah St.,Coppin St.,8
+East Tennessee St.,Florida Gulf Coast,10
+Bethune Cookman,North Carolina A&T,12
+Florida,Louisiana St.,22
+Hofstra,William & Mary,11
+Harvard,Dartmouth,10
+Louisville,South Florida,26
+Wake Forest,Boston College,3
+James Madison,Drexel,8
+Norfolk St.,Maryland Eastern Shore,5
+California,Washington St.,13
+Akron,Northern Illinois,15
+Xavier,George Washington,15
+Boston University,Binghamton,24
+Sam Houston St.,McNeese St.,15
+Hampton,Howard,2
+Cleveland St.,Detroit,12
+North Florida,Kennesaw St.,9
+Davidson,Furman,8
+Appalachian St.,Elon,10
+Southeastern Louisiana,Nicholls St.,5
+Texas Arlington,Texas St.,17
+Stetson,South Carolina Upstate,2
+Northwestern St.,Central Arkansas,12
+Middle Tennessee,Louisiana Monroe,9
+Belmont,Tennessee Martin,37
+Southern,Arkansas Pine Bluff,34
+North Dakota St.,Oakland,8
+Bowling Green,Eastern Michigan,2
+Prairie View A&M,Grambling,16
+Temple,St. Louis,10
+Wyoming,Nevada,11
+Princeton,Pennsylvania,12
+Southern California,Utah,17
+Alcorn St.,Mississippi Valley St.,5
+Arkansas,Vanderbilt,23
+North Carolina Central,Florida A&M,23
+Tulsa,Rice,13
+Liberty,Coastal Carolina,8
+Louisiana Tech,Texas San Antonio,2
+NC Wilmington,George Mason,8
+College of Charleston,Chattanooga,27
+Bucknell,Army,21
+Saint Joseph's,Duquesne,8
+Robert Morris,Monmouth,15
+Texas A&M Corpus Chris,Lamar,6
+High Point,Gardner Webb,6
+Eastern Kentucky,Morehead St.,7
+Jacksonville St.,Eastern Illinois,6
+Alabama A&M,Alabama St.,7
+Wofford,Georgia Southern,18
+Miami OH,Buffalo,1
+Long Beach St.,Hawaii,4
+Samford,The Citadel,4
+Campbell,Presbyterian,16
+Albany,Maine,13
+Denver,Seattle,13
+SIU Edwardsville,Tennessee Tech,4
+Texas Pan American,Fisher,46
+North Texas,South Alabama,10
+Mississippi,Missouri,15
+Wisconsin Green Bay,Illinois Chicago,6
+Drake,Illinois St.,5
+Cincinnati,Rutgers,10
+Arkansas Little Rock,Florida International,12
+Tennessee St.,Southeast Missouri St.,12
+Florida Atlantic,Western Kentucky,3
+Missouri Kansas City,South Dakota,4
+Southern Illinois,Indiana St.,5
+Louisiana Lafayette,Arkansas St.,5
+Murray St.,Austin Peay,3
+Stephen F. Austin,Oral Roberts,11
+Memphis,UAB,16
+Texas Southern,Jackson St.,27
+Texas El Paso,Marshall,11
+Utah Valley,Houston Baptist,21
+Cal St. Fullerton,UC Riverside,2
+Sacramento St.,Eastern Washington,7
+Idaho St.,Southern Utah,1
+Montana,Northern Colorado,8
+Arizona,Oregon St.,10
+UC Santa Barbara,UC Davis,7
+Pacific,Cal Poly,22
+UC Irvine,Cal St. Northridge,10
+New Mexico St.,Idaho,1
+Portland St.,Northern Arizona,5
+Washington,Stanford,5
+Long Island,Mount St. Mary's,14
+Providence,Seton Hall,12
+Niagara,Fairfield,3
+Siena,St. Peter's,13
+Iona,Canisius,10
+Manhattan,Marist,12
+Rider,Loyola MD,7
+Massachusetts,Fordham,4
+Evansville,Wichita St.,4
+Iowa,Northwestern,20
+Miami FL,Maryland,7
+Oregon,Arizona St.,3
+Ohio St.,Michigan,3
+Purdue,Penn St.,18
+Michigan St.,Nebraska,10
+NJ Inst of Technology,Fairleigh Dickinson,3
+Louisville,Connecticut,15
+Furman,Wofford,4
+Elon,Western Carolina,13
+Appalachian St.,NC Greensboro,13
+Georgia Southern,Davidson,13
+Hampton,Quinnipiac,6
+College of Charleston,The Citadel,4
+Coppin St.,South Carolina St.,21
+North Carolina Central,Bethune Cookman,9
+Norfolk St.,Howard,5
+North Carolina A&T,Florida A&M,28
+Chicago St.,Benedictine Springfiel,24
+Prairie View A&M,Jackson St.,14
+Southern,Mississippi Valley St.,34
+Texas Southern,Grambling,45
+Kansas,Baylor,17
+Weber St.,Idaho St.,16
+Texas El Paso,Houston Baptist,28
+Arkansas Pine Bluff,Alcorn St.,10
+Stony Brook,Boston University,27
+Kentucky,Tennessee,10
+St. John's,Notre Dame,4
+Clemson,Wake Forest,16
+Eastern Michigan,Central Michigan,6
+Creighton,Northern Iowa,11
+Bradley,Southern Illinois,3
+Cincinnati,DePaul,5
+Wisconsin,Indiana,5
+Winthrop,Presbyterian,11
+East Carolina,Houston,11
+Georgetown,Providence,9
+Western Michigan,Toledo,23
+NC Wilmington,Old Dominion,5
+La Salle,Dayton,2
+Pittsburgh,Villanova,15
+MD Baltimore County,Hartford,13
+Gardner Webb,Coastal Carolina,1
+Vermont,Binghamton,24
+Northeastern,Hofstra,5
+Albany,New Hampshire,6
+Miami OH,Bowling Green,3
+Butler,Richmond,15
+Georgia St.,William & Mary,16
+NC Greensboro,Wofford,19
+Radford,Longwood,10
+Bucknell,Colgate,14
+Ohio,Northern Illinois,18
+Miami FL,Boston College,1
+Maryland,North Carolina St.,1
+Army,Lafayette,23
+Temple,George Washington,2
+Virginia Military Inst,Campbell,19
+Michigan St.,Penn St.,9
+Towson,Delaware,3
+Holy Cross,Navy,15
+Kent St.,Buffalo,12
+Indiana St.,Missouri St.,8
+Charlotte,Fordham,6
+Charleston Southern,NC Asheville,6
+Lehigh,American,6
+Illinois Chicago,Loyola Chicago,2
+Memphis,Rice,26
+Xavier,St. Bonaventure,2
+Southern Mississippi,Southern Methodist,4
+Missouri,Georgia,17
+Oklahoma,Texas Tech,18
+Wichita St.,Illinois St.,12
+Drake,Evansville,14
+Tulsa,Texas El Paso,3
+Colorado St.,Air Force,39
+Iowa St.,West Virginia,2
+Alabama,Mississippi St.,32
+Kansas St.,Texas Christian,13
+Purdue,Nebraska,9
+Marquette,Seton Hall,7
+Washington St.,Utah,10
+Nevada Las Vegas,San Diego St.,7
+Fresno St.,Wyoming,13
+St. Mary's,Brigham Young,1
+Washington,Colorado,10
+George Mason,James Madison,11
+Akron,Ball St.,7
+Hawaii,Pacific,8
+Santa Clara,San Francisco,31
+San Diego,Loyola Marymount,8
+Niagara,Siena,23
+Gonzaga,Portland,22
+Michigan,Minnesota,8
+Mercer,East Tennessee St.,19
+Louisiana Tech,Idaho,6
+Florida,Texas A&M,21
+Massachusetts,Duquesne,13
+Davidson,The Citadel,32
+Dartmouth,Colby Sawyer,38
+South Carolina Upstate,Kennesaw St.,12
+Canisius,Manhattan,4
+North Dakota St.,IUPUI,38
+Georgia Southern,College of Charleston,4
+Florida Atlantic,Troy,21
+Stetson,Northern Kentucky,12
+Central Connecticut,Wagner,7
+Robert Morris,Sacred Heart,4
+Valparaiso,Detroit,1
+Oakland,Missouri Kansas City,13
+Monmouth,St. Francis NY,4
+Elon,Furman,14
+IUPU Fort Wayne,South Dakota,2
+Florida International,North Texas,6
+Loyola MD,Marist,14
+Pennsylvania,NJ Inst of Technology,1
+SIU Edwardsville,Austin Peay,13
+South Dakota St.,Western Illinois,6
+Morehead St.,Southeast Missouri St.,16
+Wisconsin Green Bay,Youngstown St.,9
+Middle Tennessee,Arkansas Little Rock,32
+Wisconsin Milwaukee,Cleveland St.,12
+Samford,Western Carolina,4
+Tennessee St.,Jacksonville St.,6
+Western Kentucky,Louisiana Lafayette,23
+Belmont,Eastern Kentucky,7
+Seattle,Texas Arlington,17
+Murray St.,Eastern Illinois,21
+North Dakota,Eastern Washington,18
+South Alabama,Louisiana Monroe,15
+Northwestern,Illinois,14
+Rider,St. Peter's,12
+Nicholls St.,Northwestern St.,15
+Oral Roberts,Texas A&M Corpus Chris,12
+Sam Houston St.,Central Arkansas,11
+UCLA,Oregon St.,10
+New Mexico St.,Utah St.,13
+Denver,San Jose St.,36
+Rutgers,South Florida,3
+Stephen F. Austin,Southeastern Louisiana,12
+Weber St.,Northern Arizona,13
+Montana,Southern Utah,6
+Duke,Georgia Tech,16
+Idaho St.,Sacramento St.,1
+Northern Colorado,Portland St.,17
+UC Davis,Cal St. Northridge,3
+UC Irvine,Cal St. Fullerton,27
+Oregon,Southern California,2
+Jacksonville,North Florida,9
+Vermont,Stony Brook,8
+Iona,Fairfield,11
+UC Davis,Hawaii,11
+Coastal Carolina,Virginia Military Inst,23
+Towson,James Madison,26
+Pittsburgh,Connecticut,8
+George Mason,Hofstra,11
+North Carolina,Maryland,10
+St. John's,DePaul,9
+Memphis,Harvard,10
+Campbell,Winthrop,4
+St. Bonaventure,Temple,3
+Arkansas Pine Bluff,Texas Southern,3
+Baylor,Hardin Simmons,69
+Nebraska,Penn St.,4
+Mississippi,Arkansas,12
+Iowa St.,Texas Christian,13
+Vanderbilt,South Carolina,7
+Florida,Missouri,31
+Lehigh,Colgate,15
+Wisconsin Green Bay,Cleveland St.,27
+Brigham Young,San Diego,17
+Purdue,West Virginia,27
+Canisius,Siena,32
+Drexel,William & Mary,11
+Holy Cross,American,19
+Oklahoma St.,Texas Tech,34
+Kansas,Texas,5
+Eastern Michigan,Miami OH,7
+Xavier,La Salle,7
+Virginia Tech,Wake Forest,1
+Bradley,Missouri St.,3
+Northeastern,Delaware,4
+Binghamton,Maine,1
+Arizona,Arizona St.,17
+East Tennessee St.,Kennesaw St.,10
+San Francisco,Loyola Marymount,9
+Columbia,Cornell,9
+South Dakota St.,IUPUI,15
+Niagara,Manhattan,4
+Santa Clara,Pepperdine,7
+St. Mary's,Portland,22
+North Dakota,Portland St.,9
+Stetson,Lipscomb,16
+Mount St. Mary's,Central Connecticut,5
+Tennessee,Mississippi St.,15
+Bethune Cookman,South Carolina St.,8
+Northwestern St.,Southeastern Louisiana,35
+George Washington,Massachusetts,3
+Boston University,New Hampshire,10
+Syracuse,Louisville,2
+Virginia,Florida St.,20
+Maryland Eastern Shore,Delaware St.,5
+Providence,Villanova,3
+Texas El Paso,Southern Methodist,9
+Sacred Heart,St. Francis PA,3
+North Carolina A&T,Howard,24
+Air Force,Boise St.,11
+Wichita St.,Creighton,3
+Bryant,Wagner,23
+McNeese St.,Lamar,24
+Kansas St.,Oklahoma,9
+Mercer,South Carolina Upstate,8
+Eastern Kentucky,Jacksonville St.,11
+Stanford,California,10
+NC Asheville,Longwood,3
+St. Francis NY,Fairleigh Dickinson,19
+Central Arkansas,Texas A&M Corpus Chris,9
+Saint Joseph's,Pennsylvania,20
+Florida Gulf Coast,Northern Kentucky,19
+Charleston Southern,High Point,8
+South Florida,Georgetown,3
+Savannah St.,Florida A&M,2
+Richmond,Charlotte,20
+Southern Mississippi,UAB,15
+Chicago St.,Houston Baptist,25
+Mississippi Valley St.,Prairie View A&M,9
+Morgan St.,Hampton,2
+Norfolk St.,Coppin St.,7
+Arkansas Little Rock,Western Kentucky,5
+Southern,Alabama St.,12
+Ohio,Toledo,9
+Alabama,Texas A&M,1
+Michigan St.,Ohio St.,3
+South Dakota,Oakland,19
+Jackson St.,Grambling,11
+Middle Tennessee,Louisiana Lafayette,22
+Denver,Utah St.,11
+Detroit,Illinois Chicago,51
+Presbyterian,Liberty,8
+Bucknell,Lafayette,15
+Morehead St.,Tennessee Martin,14
+Brown,Yale,14
+Radford,Gardner Webb,1
+Colorado St.,Nevada Las Vegas,5
+Akron,Kent St.,4
+Western Carolina,Chattanooga,9
+Central Michigan,Ball St.,14
+Marist,St. Peter's,11
+Stephen F. Austin,Nicholls St.,23
+Marshall,East Carolina,21
+The Citadel,Georgia Southern,15
+Alcorn St.,Alabama A&M,10
+Georgia St.,Old Dominion,15
+Virginia Commonwealth,Duquesne,27
+Albany,Hartford,10
+Robert Morris,Quinnipiac,12
+Davidson,College of Charleston,9
+Elon,Wofford,7
+Buffalo,Bowling Green,3
+Missouri Kansas City,IUPU Fort Wayne,4
+Florida International,Troy,6
+Wyoming,San Diego St.,13
+Western Illinois,North Dakota St.,8
+Texas Pan American,Utah Valley,2
+Rice,New Orleans,24
+Louisiana Tech,Seattle,7
+Georgia,Louisiana St.,9
+Southeast Missouri St.,Tennessee Tech,12
+Oregon,UCLA,9
+Youngstown St.,Wisconsin Milwaukee,3
+Notre Dame,Rutgers,3
+Samford,Appalachian St.,4
+Southern California,Oregon St.,1
+Tulane,Tulsa,3
+Belmont,Tennessee St.,12
+Western Michigan,Northern Illinois,37
+Idaho,Texas Arlington,13
+Iowa,Wisconsin,4
+Indiana St.,Evansville,10
+Arkansas St.,Louisiana Monroe,24
+Valparaiso,Wright St.,6
+Eastern Illinois,Austin Peay,10
+Murray St.,SIU Edwardsville,9
+New Mexico St.,San Jose St.,17
+Butler,Gonzaga,1
+Weber St.,Sacramento St.,9
+Kentucky,Auburn,22
+Long Beach St.,Cal St. Fullerton,10
+Northern Arizona,Idaho St.,5
+Northern Colorado,Eastern Washington,16
+UC Riverside,UC Irvine,10
+Nevada,Fresno St.,7
+Cal St. Bakersfield,Nebraska Omaha,5
+Colorado,Washington St.,9
+Pacific,Cal St. Northridge,12
+Utah,Washington,9
+Long Island,Monmouth,10
+Illinois St.,Southern Illinois,14
+Navy,Army,9
+Indiana,Northwestern,8
+Northern Iowa,Drake,30
+Furman,NC Greensboro,8
+Rider,Iona,5
+North Carolina St.,Clemson,4
+Syracuse,Cincinnati,2
+Baylor,Oklahoma St.,10
+Alabama St.,Alcorn St.,3
+Loyola MD,Fairfield,5
+Georgia St.,Towson,2
+Wright St.,Detroit,2
+Florida A&M,South Carolina St.,12
+North Carolina Central,Howard,35
+Georgetown,Notre Dame,16
+Savannah St.,Bethune Cookman,3
+Norfolk St.,Morgan St.,2
+Arkansas Pine Bluff,Prairie View A&M,4
+Texas Southern,Mississippi Valley St.,27
+Southern,Alabama A&M,14
+Oklahoma,Texas,6
+Montana St.,Southern Utah,8
+Ohio St.,Iowa,9
+Liberty,Longwood,27
+Missouri,South Carolina,6
+Michigan St.,Wisconsin,2
+Wake Forest,North Carolina St.,2
+Pittsburgh,Providence,4
+Maine,Vermont,3
+Villanova,Louisville,9
+Memphis,Tulane,11
+Kansas,Kansas St.,4
+Houston Baptist,Missouri Kansas City,2
+Illinois,Nebraska,20
+Maryland,Boston College,5
+Alabama,Kentucky,4
+Lehigh,Bucknell,3
+Buffalo,Ball St.,3
+Loyola Chicago,Cleveland St.,12
+Winthrop,Gardner Webb,6
+Western Michigan,Eastern Michigan,4
+Central Florida,Rice,11
+George Mason,Towson,10
+La Salle,Butler,1
+George Washington,Rhode Island,1
+Charleston Southern,Presbyterian,20
+Bowling Green,Kent St.,15
+Akron,Toledo,15
+Stony Brook,MD Baltimore County,7
+Southern Mississippi,Marshall,56
+Seton Hall,South Florida,8
+Campbell,Radford,9
+St. Louis,Duquesne,9
+High Point,Virginia Military Inst,27
+Northern Illinois,Central Michigan,13
+Drexel,Hofstra,3
+Temple,Pennsylvania,7
+Lafayette,Holy Cross,10
+NC Asheville,Coastal Carolina,3
+Northeastern,William & Mary,4
+Ohio,Miami OH,12
+St. Bonaventure,Saint Joseph's,9
+Georgia St.,NC Wilmington,18
+Miami FL,Duke,27
+Indiana,Penn St.,23
+Youngstown St.,Wright St.,7
+West Virginia,Texas Christian,21
+Delaware St.,Howard,17
+St. John's,Rutgers,12
+Charlotte,Xavier,6
+American,Navy,23
+Illinois Chicago,Wisconsin Milwaukee,10
+New Mexico,Colorado St.,5
+Boise St.,Fresno St.,7
+Florida,Georgia,17
+Illinois St.,Indiana St.,2
+Vanderbilt,Auburn,12
+Northern Iowa,Southern Illinois,13
+Louisiana St.,Texas A&M,4
+Tulsa,Houston,15
+East Carolina,UAB,6
+Drake,Creighton,5
+Wichita St.,Missouri St.,10
+Evansville,Bradley,10
+Valparaiso,Wisconsin Green Bay,12
+Northwestern,Minnesota,7
+Texas Tech,Iowa St.,5
+North Carolina,Georgia Tech,16
+Air Force,New Orleans,42
+Arkansas,Mississippi St.,26
+Oregon,Washington St.,7
+Santa Clara,Cal St. Bakersfield,30
+San Diego St.,Nevada,21
+New Mexico St.,Denver,11
+Oregon St.,Washington,8
+Dayton,Fordham,45
+Fairfield,Marist,34
+Quinnipiac,Central Connecticut,7
+Mississippi,Tennessee,6
+Davidson,Western Carolina,5
+Sacred Heart,Bryant,11
+Monmouth,Fairleigh Dickinson,19
+Jacksonville,East Tennessee St.,3
+Eastern Kentucky,Tennessee St.,9
+Hartford,New Hampshire,11
+Wagner,Mount St. Mary's,2
+Belmont,Morehead St.,1
+NC Greensboro,Samford,2
+South Carolina Upstate,North Florida,6
+Robert Morris,St. Francis PA,14
+Michigan,Purdue,15
+Wofford,Furman,13
+Northern Kentucky,Mercer,17
+Oakland,IUPUI,18
+Long Island,St. Francis NY,10
+Elon,Chattanooga,24
+Western Illinois,IUPU Fort Wayne,3
+College of Charleston,The Citadel,15
+SIU Edwardsville,Southeast Missouri St.,3
+Middle Tennessee,North Texas,8
+Jacksonville St.,Austin Peay,7
+Eastern Illinois,Tennessee Martin,13
+James Madison,Delaware,14
+Arkansas Little Rock,Florida Atlantic,3
+Murray St.,Tennessee Tech,8
+Florida St.,Clemson,3
+Nebraska Omaha,South Dakota,5
+Virginia,Virginia Tech,16
+Florida International,Louisiana Lafayette,5
+South Alabama,Western Kentucky,8
+Southeastern Louisiana,Sam Houston St.,4
+Oral Roberts,Lamar,17
+California,Utah,5
+Nicholls St.,Texas A&M Corpus Chris,7
+Northern Arizona,Northern Colorado,2
+Montana St.,Weber St.,5
+Nevada Las Vegas,Wyoming,12
+UCLA,Arizona,11
+Montana,Idaho St.,19
+Texas Arlington,Utah St.,6
+Southern Utah,Portland St.,13
+Cal St. Northridge,UC Santa Barbara,6
+Cal St. Fullerton,UC Davis,7
+Louisiana Tech,San Jose St.,22
+Pacific,UC Riverside,5
+Cal Poly,Hawaii,29
+Texas San Antonio,Seattle,3
+Colorado,Stanford,21
+Sacramento St.,North Dakota,9
+Texas St.,Idaho,5
+Gonzaga,Brigham Young,20
+St. Mary's,San Diego,33
+San Francisco,Portland,3
+Pepperdine,Loyola Marymount,3
+Niagara,Siena,9
+Iona,St. Peter's,19
+Loyola MD,Manhattan,10
+Canisius,Rider,17
+Florida Gulf Coast,Stetson,31
+Wisconsin Green Bay,Wisconsin Milwaukee,20
+Lafayette,Lehigh,21
+Georgetown,Louisville,2
+Notre Dame,South Florida,8
+Akron,Buffalo,4
+Drexel,Georgia St.,11
+Ohio St.,Penn St.,14
+Fordham,Rhode Island,3
+Virginia,Boston College,14
+Oklahoma St.,West Virginia,14
+Alcorn St.,Southern,4
+Boston University,MD Baltimore County,6
+Duke,Maryland,20
+Gardner Webb,Virginia Military Inst,14
+Indiana St.,Northern Iowa,1
+South Carolina,Arkansas,21
+Iowa St.,Kansas St.,6
+Presbyterian,Longwood,11
+Stony Brook,Maine,10
+Tennessee,Alabama,1
+Georgia Southern,Western Carolina,6
+NC Wilmington,Hofstra,6
+Wisconsin,Minnesota,1
+NC Asheville,High Point,11
+Davidson,Appalachian St.,23
+NC Greensboro,Chattanooga,8
+Memphis,Marshall,1
+Eastern Michigan,Northern Illinois,17
+George Washington,Charlotte,28
+Marquette,Providence,10
+Air Force,Wyoming,9
+Elon,The Citadel,4
+Santa Clara,San Diego,14
+Youngstown St.,Cleveland St.,14
+St. Mary's,Pepperdine,12
+Gonzaga,San Francisco,14
+Georgia Tech,Wake Forest,20
+Ball St.,Miami OH,20
+Army,American,13
+Nebraska,Northwestern,15
+South Dakota St.,North Dakota St.,16
+Sacred Heart,Monmouth,14
+Central Connecticut,St. Francis NY,2
+San Diego St.,New Mexico,21
+Dayton,Duquesne,16
+Central Florida,Southern Methodist,9
+Quinnipiac,Fairleigh Dickinson,2
+Savannah St.,South Carolina St.,15
+Kentucky,Louisiana St.,5
+St. Louis,St. Bonaventure,10
+Northwestern St.,Stephen F. Austin,4
+Pittsburgh,DePaul,38
+East Tennessee St.,North Florida,14
+Delaware St.,Bethune Cookman,16
+North Carolina Central,Coppin St.,9
+Nevada,Boise St.,16
+James Madison,Old Dominion,10
+Bucknell,Holy Cross,7
+Detroit,Loyola Chicago,12
+NJ Inst of Technology,Texas Pan American,13
+Wagner,St. Francis PA,25
+Radford,Winthrop,1
+Baylor,Texas Christian,26
+Morgan St.,North Carolina A&T,3
+Long Island,Bryant,1
+Kansas,Oklahoma,13
+North Dakota,Northern Arizona,2
+Southern Mississippi,Tulsa,3
+Texas El Paso,East Carolina,1
+Southeastern Louisiana,Texas A&M Corpus Chris,14
+Missouri,Vanderbilt,22
+Washington St.,Oregon St.,3
+South Carolina Upstate,Jacksonville,15
+Central Arkansas,Lamar,29
+Oakland,Western Illinois,7
+Jacksonville St.,Murray St.,1
+Chicago St.,Utah Valley,8
+Jackson St.,Mississippi Valley St.,3
+Georgia,Texas A&M,7
+Prairie View A&M,Alabama St.,2
+Middle Tennessee,Western Kentucky,19
+Ohio,Kent St.,1
+Houston,UAB,5
+Butler,Temple,12
+Saint Joseph's,Xavier,10
+Norfolk St.,Hampton,7
+Arkansas Pine Bluff,Grambling,12
+Florida A&M,Maryland Eastern Shore,1
+Nebraska Omaha,Missouri Kansas City,8
+Charleston Southern,Liberty,4
+Toledo,Bowling Green,13
+North Carolina St.,North Carolina,8
+Illinois Chicago,Wright St.,6
+Arizona,Southern California,24
+Western Michigan,Central Michigan,17
+Belmont,Eastern Kentucky,11
+Northeastern,George Mason,20
+Oregon,Washington,5
+Cornell,Columbia,3
+William & Mary,Towson,7
+Coastal Carolina,Campbell,14
+New Hampshire,Binghamton,18
+Robert Morris,Mount St. Mary's,8
+College of Charleston,Wofford,29
+Northern Kentucky,Kennesaw St.,11
+Colgate,Navy,14
+Long Beach St.,UC Irvine,22
+Vermont,Albany,7
+Morehead St.,Tennessee St.,9
+La Salle,Virginia Commonwealth,8
+Tennessee Martin,SIU Edwardsville,3
+Arkansas Little Rock,North Texas,5
+Illinois St.,Evansville,5
+Florida,Mississippi St.,35
+Tulane,Rice,7
+Texas,Texas Tech,16
+Mississippi,Auburn,2
+Houston Baptist,Ecclesia,54
+Arkansas St.,Florida Atlantic,25
+Wichita St.,Bradley,34
+Oral Roberts,McNeese St.,21
+Tennessee Tech,Austin Peay,18
+Mercer,Lipscomb,6
+Texas Southern,Alabama A&M,33
+Montana,Weber St.,2
+Louisiana Tech,Utah St.,3
+Southern Utah,Eastern Washington,14
+Arizona St.,UCLA,18
+UC Davis,UC Riverside,7
+Texas Arlington,San Jose St.,19
+Pacific,Cal St. Fullerton,4
+Colorado St.,Fresno St.,11
+Cal Poly,Cal St. Northridge,11
+Texas St.,Seattle,3
+Hawaii,UC Santa Barbara,5
+Sacramento St.,Northern Colorado,7
+Idaho,Texas San Antonio,4
+Brigham Young,Portland,18
+Creighton,Southern Illinois,30
+Iona,Loyola MD,8
+Massachusetts,Richmond,5
+St. John's,Seton Hall,4
+Missouri St.,Drake,6
+Clemson,Virginia Tech,7
+Indiana,Michigan St.,5
+Fairfield,St. Peter's,7
+Connecticut,Rutgers,12
+Siena,Marist,4
+Princeton,College of New Jersey,38
+Colorado,California,10
+Niagara,Canisius,1
+Manhattan,Rider,11
+South Alabama,Florida International,2
+Miami FL,Florida St.,24
+Michigan,Illinois,14
+Stanford,Utah,31
+Louisville,Pittsburgh,3
+James Madison,NC Wilmington,7
+Delaware,Drexel,2
+Bethune Cookman,Maryland Eastern Shore,1
+North Carolina Central,Morgan St.,8
+South Carolina Upstate,East Tennessee St.,17
+Delaware St.,Florida A&M,9
+North Carolina A&T,Coppin St.,1
+Prairie View A&M,Alabama A&M,19
+Mississippi Valley St.,Grambling,15
+Kansas,West Virginia,5
+Texas Southern,Alabama St.,32
+Marquette,South Florida,13
+Utah Valley,Peru St.,35
+Eastern Washington,Portland St.,11
+Jackson St.,Arkansas Pine Bluff,15
+Liberty,Campbell,17
+Ohio St.,Wisconsin,9
+Tennessee,Vanderbilt,1
+Stony Brook,Albany,16
+Clemson,Georgia Tech,3
+Virginia,North Carolina St.,3
+Texas Pan American,Panhandle St.,8
+Indiana St.,Wichita St.,13
+Bradley,Illinois St.,6
+Minnesota,Nebraska,19
+Kentucky,Mississippi,13
+North Carolina,Boston College,12
+Nevada Las Vegas,Nevada,12
+Michigan,Northwestern,22
+Toledo,Ball St.,7
+Winthrop,Coastal Carolina,13
+Memphis,East Carolina,7
+Georgetown,Seton Hall,22
+Massachusetts,La Salle,1
+Virginia Commonwealth,Rhode Island,6
+Akron,Bowling Green,13
+Georgia,Auburn,8
+Saint Joseph's,Fordham,4
+Detroit,Wright St.,7
+High Point,Longwood,28
+Georgia St.,Northeastern,5
+Lafayette,Colgate,29
+NC Asheville,Presbyterian,3
+Notre Dame,Villanova,5
+Western Michigan,Miami OH,4
+Southern Methodist,Marshall,11
+Army,Holy Cross,14
+Cincinnati,Rutgers,8
+Oklahoma,Baylor,3
+MD Baltimore County,Binghamton,3
+Virginia Military Inst,Radford,1
+Towson,Old Dominion,2
+Delaware,William & Mary,10
+Lehigh,Navy,22
+Buffalo,Central Michigan,18
+New Hampshire,Maine,3
+Youngstown St.,Valparaiso,12
+College of Charleston,Appalachian St.,13
+Hampton,South Carolina St.,4
+NJ Inst of Technology,Fisher,39
+Bucknell,American,1
+Rice,Houston,10
+Florida,South Carolina,39
+Louisiana St.,Missouri,3
+Duke,Wake Forest,5
+Loyola Chicago,Wisconsin Milwaukee,11
+Oklahoma St.,Iowa St.,2
+Central Florida,Tulane,8
+Florida St.,Maryland,2
+Northern Illinois,Kent St.,2
+Drake,Southern Illinois,5
+Creighton,Missouri St.,14
+Indiana,Purdue,37
+Stephen F. Austin,McNeese St.,20
+Colorado St.,Boise St.,20
+Air Force,Fresno St.,12
+Xavier,Dayton,5
+Miami FL,Virginia Tech,9
+Kansas St.,Texas,26
+Long Beach St.,UC Santa Barbara,2
+UC Irvine,Cal Poly,7
+Stanford,Oregon,24
+Temple,Richmond,7
+Vermont,Hartford,6
+New Mexico,Wyoming,4
+Florida Gulf Coast,North Florida,14
+Furman,Georgia Southern,7
+Bryant,Fairleigh Dickinson,15
+Drexel,George Mason,4
+Central Connecticut,Monmouth,20
+Northern Kentucky,East Tennessee St.,2
+Canisius,Loyola MD,12
+Mount St. Mary's,Quinnipiac,4
+James Madison,Hofstra,21
+Jacksonville,Stetson,1
+Elon,NC Greensboro,6
+Florida Atlantic,Louisiana Monroe,5
+Michigan St.,Illinois,5
+Davidson,Samford,20
+The Citadel,Wofford,6
+Middle Tennessee,Florida International,2
+South Carolina Upstate,Lipscomb,12
+Denver,Texas San Antonio,14
+Illinois Chicago,Wisconsin Green Bay,3
+Tennessee Martin,Eastern Kentucky,7
+Nebraska Omaha,IUPU Fort Wayne,7
+Tennessee St.,Tennessee Tech,19
+Western Kentucky,Troy,4
+Belmont,Morehead St.,19
+Iowa,Penn St.,9
+Louisiana Lafayette,North Texas,31
+North Dakota St.,Missouri Kansas City,37
+Weber St.,North Dakota,15
+South Dakota St.,South Dakota,13
+Arkansas St.,South Alabama,12
+Northwestern St.,Lamar,22
+Oral Roberts,Nicholls St.,12
+Southeastern Louisiana,Central Arkansas,1
+Alabama,Arkansas,3
+St. Louis,Butler,17
+Arizona,Washington,4
+Eastern Washington,Montana St.,4
+Southern Utah,Sacramento St.,12
+Northern Colorado,Idaho St.,15
+Hawaii,UC Riverside,4
+Seattle,San Jose St.,8
+California,Oregon St.,3
+Cal St. Northridge,Cal St. Fullerton,6
+Utah St.,Idaho,10
+Montana,Portland St.,13
+Arizona St.,Washington St.,4
+Gonzaga,Loyola Marymount,45
+Long Island,St. Francis PA,20
+St. Mary's,San Francisco,4
+New Mexico St.,Texas St.,14
+Santa Clara,Portland,24
+Brigham Young,Pepperdine,2
+Fairfield,Rider,10
+Mercer,Kennesaw St.,24
+Siena,Manhattan,3
+Pennsylvania,Columbia,4
+Brown,Dartmouth,12
+Harvard,Yale,3
+Princeton,Cornell,17
+Detroit,Youngstown St.,11
+Valparaiso,Wisconsin Milwaukee,31
+Cincinnati,Seton Hall,6
+Akron,Ohio,14
+Northwestern,Purdue,15
+Pittsburgh,Syracuse,10
+William & Mary,Hofstra,13
+Boston College,Clemson,7
+West Virginia,Texas Tech,16
+Missouri,Auburn,14
+Georgia,South Carolina,11
+Winthrop,Liberty,10
+Bowling Green,Ball St.,11
+Denver,Texas St.,15
+Oakland,Nebraska Omaha,15
+Brigham Young,Santa Clara,17
+Marshall,Central Florida,4
+Charlotte,Massachusetts,1
+Georgia St.,Old Dominion,20
+Wisconsin Green Bay,Loyola Chicago,8
+Memphis,Tulsa,30
+Duke,Florida St.,19
+Colgate,Holy Cross,18
+Maryland,Wake Forest,26
+La Salle,George Washington,9
+St. Louis,Dayton,29
+Delaware,NC Wilmington,15
+American,Lafayette,4
+Sam Houston St.,Texas A&M Corpus Chris,4
+Utah,Colorado,3
+St. Mary's,Portland,35
+Western Illinois,IUPUI,9
+San Francisco,Pepperdine,8
+Air Force,San Diego St.,3
+North Dakota,Idaho St.,17
+Houston Baptist,NJ Inst of Technology,9
+Missouri St.,Evansville,1
+Creighton,Bradley,17
+Florida Gulf Coast,Jacksonville,3
+NC Asheville,Campbell,17
+Georgetown,St. John's,12
+Quinnipiac,Wagner,5
+St. Bonaventure,Duquesne,8
+Miami FL,North Carolina St.,1
+Norfolk St.,Coppin St.,10
+North Carolina Central,Delaware St.,11
+Alabama,Vanderbilt,4
+Stony Brook,New Hampshire,2
+Mount St. Mary's,Sacred Heart,9
+George Mason,James Madison,11
+North Carolina A&T,Maryland Eastern Shore,2
+Butler,Rhode Island,7
+Hampton,Morgan St.,2
+Toledo,Northern Illinois,5
+Savannah St.,Howard,10
+Arkansas,Tennessee,13
+Oklahoma St.,Kansas,5
+North Florida,Stetson,5
+The Citadel,Furman,5
+Colorado St.,Wyoming,19
+Appalachian St.,Western Carolina,9
+California,Oregon,4
+St. Francis PA,St. Francis NY,3
+Illinois St.,Southern Illinois,36
+Northern Kentucky,South Carolina Upstate,5
+Central Arkansas,Nicholls St.,3
+Southern,Grambling,28
+South Dakota St.,Missouri Kansas City,31
+Jacksonville St.,Morehead St.,11
+Louisiana St.,Mississippi St.,1
+Richmond,Xavier,2
+Kansas St.,Oklahoma,2
+Princeton,Columbia,6
+Saint Joseph's,Temple,1
+Arkansas Pine Bluff,Alabama St.,4
+Eastern Kentucky,Southeast Missouri St.,9
+Virginia Commonwealth,Fordham,16
+New Mexico St.,Texas San Antonio,13
+Western Michigan,Buffalo,11
+College of Charleston,NC Greensboro,22
+Florida,Mississippi,14
+Bucknell,Navy,15
+Central Connecticut,Fairleigh Dickinson,9
+MD Baltimore County,Maine,1
+Gardner Webb,Longwood,11
+Cornell,Pennsylvania,2
+Bryant,Monmouth,15
+Stephen F. Austin,Lamar,14
+High Point,Presbyterian,10
+Kent St.,Eastern Michigan,15
+Miami OH,Central Michigan,9
+Dartmouth,Yale,9
+Canisius,Iona,3
+Middle Tennessee,Florida Atlantic,17
+Alabama A&M,Mississippi Valley St.,1
+Coastal Carolina,Radford,10
+Hartford,Boston University,8
+Ohio St.,Nebraska,7
+Davidson,Wofford,11
+Elon,Samford,11
+Long Beach St.,Cal Poly,2
+Florida International,Louisiana Monroe,3
+Albany,Binghamton,33
+Georgia Southern,Chattanooga,2
+SIU Edwardsville,Eastern Illinois,4
+Texas Pan American,Chicago St.,3
+Cleveland St.,Illinois Chicago,11
+East Carolina,Rice,16
+Louisiana Tech,Texas Arlington,13
+New Mexico,Nevada,13
+Boise St.,Nevada Las Vegas,5
+Northeastern,Drexel,7
+Iowa St.,Baylor,8
+South Alabama,Arkansas Little Rock,4
+Texas,Texas Christian,17
+North Dakota St.,South Dakota,19
+Southern Mississippi,UAB,4
+Troy,Louisiana Lafayette,19
+Oral Roberts,Southeastern Louisiana,6
+Belmont,Tennessee Tech,22
+Texas Southern,Prairie View A&M,36
+Texas El Paso,Tulane,12
+Indiana,Michigan,8
+Washington,Arizona St.,4
+Hawaii,Cal St. Fullerton,2
+Montana,Eastern Washington,19
+Southern Utah,Northern Arizona,11
+Weber St.,Northern Colorado,21
+Cal St. Northridge,UC Riverside,16
+Northern Iowa,Wichita St.,5
+Utah St.,Seattle,22
+Cal St. Bakersfield,Utah Valley,13
+Arizona,Washington St.,14
+UC Irvine,UC Santa Barbara,2
+Idaho,San Jose St.,3
+Pacific,UC Davis,13
+Montana St.,Portland St.,6
+Gonzaga,San Diego,2
+Robert Morris,Long Island,3
+Providence,Villanova,3
+Minnesota,Iowa,3
+Lehigh,Army,9
+Rider,Marist,6
+Louisville,Marquette,19
+Georgia Tech,Virginia,6
+Stanford,Oregon St.,8
+Manhattan,St. Peter's,8
+Wisconsin,Illinois,6
+Northwestern St.,McNeese St.,12
+Towson,NC Wilmington,13
+Fairfield,Siena,10
+Wright St.,Loyola Chicago,3
+Iowa St.,Oklahoma,19
+Syracuse,Notre Dame,16
+Hampton,Coppin St.,6
+Delaware St.,North Carolina A&T,9
+North Carolina Central,Maryland Eastern Shore,28
+Norfolk St.,Morgan St.,5
+Howard,South Carolina St.,12
+Arkansas Pine Bluff,Alabama A&M,9
+Alabama St.,Mississippi Valley St.,8
+Alcorn St.,Grambling,25
+Southern,Jackson St.,20
+West Virginia,Texas,2
+Pittsburgh,Seton Hall,10
+Northern Arizona,Sacramento St.,1
+George Mason,Old Dominion,11
+Cleveland St.,Youngstown St.,6
+Liberty,Radford,5
+Eastern Kentucky,Crowley's Ridge,66
+Akron,Central Michigan,12
+North Carolina,Wake Forest,25
+Boston University,Maine,7
+Arkansas,Florida,11
+Purdue,Penn St.,9
+Miami FL,Boston College,22
+Villanova,DePaul,23
+Kansas St.,Texas Tech,9
+Northern Iowa,Missouri St.,11
+Bradley,Evansville,6
+Southern Illinois,Wichita St.,2
+Valparaiso,Illinois Chicago,25
+Kentucky,South Carolina,22
+Florida St.,Georgia Tech,2
+Ohio,Ball St.,27
+Virginia Military Inst,Longwood,33
+Marquette,South Florida,23
+Western Michigan,Kent St.,6
+Central Florida,Southern Mississippi,2
+NC Wilmington,Georgia St.,4
+Towson,Delaware,20
+Presbyterian,Gardner Webb,3
+Wagner,Mount St. Mary's,9
+Toledo,Miami OH,1
+Albany,MD Baltimore County,23
+High Point,Campbell,6
+Vermont,New Hampshire,15
+George Washington,Duquesne,22
+Massachusetts,Rhode Island,28
+St. John's,Connecticut,6
+Northeastern,Hofstra,5
+NC Asheville,Winthrop,13
+James Madison,William & Mary,10
+Coastal Carolina,Charleston Southern,20
+Butler,St. Bonaventure,19
+Hartford,Binghamton,14
+Providence,Cincinnati,4
+NJ Inst of Technology,Colgate,19
+Eastern Michigan,Buffalo,19
+Robert Morris,St. Francis PA,12
+Michigan St.,Minnesota,11
+Indiana St.,Creighton,19
+Louisville,Rutgers,20
+Georgia,Tennessee,6
+St. Louis,Fordham,17
+Memphis,Southern Methodist,8
+Louisiana St.,Vanderbilt,1
+Tulane,Marshall,16
+Bowling Green,Northern Illinois,16
+Auburn,Alabama,12
+Houston Baptist,Missouri Kansas City,21
+Illinois St.,Drake,8
+UAB,Tulsa,7
+Mississippi,Mississippi St.,18
+Fresno St.,Nevada Las Vegas,9
+Texas El Paso,Rice,12
+Texas Christian,Kansas,7
+Wyoming,Cal St. Bakersfield,8
+Colorado St.,Nevada,4
+Oregon St.,Utah,18
+San Diego St.,Boise St.,1
+Dayton,Saint Joseph's,6
+New Mexico,Air Force,23
+Arizona,Stanford,7
+Temple,Charlotte,1
+Hawaii,Long Beach St.,21
+Fairfield,St. Peter's,17
+Florida International,Florida Atlantic,19
+NC Greensboro,Furman,23
+Quinnipiac,Monmouth,16
+Sacred Heart,Fairleigh Dickinson,7
+Chattanooga,The Citadel,13
+North Florida,Kennesaw St.,8
+Virginia,Clemson,37
+Stetson,South Carolina Upstate,7
+Manhattan,Canisius,13
+Old Dominion,Drexel,12
+Bryant,St. Francis NY,7
+Wofford,Elon,10
+Davidson,Western Carolina,14
+Oakland,North Dakota St.,3
+Illinois,Indiana,2
+South Dakota St.,IUPU Fort Wayne,6
+Florida Gulf Coast,East Tennessee St.,24
+Rider,Niagara,3
+Youngstown St.,Loyola Chicago,1
+Louisiana Tech,Texas San Antonio,25
+Western Kentucky,North Texas,11
+Eastern Illinois,Tennessee Martin,28
+Southeast Missouri St.,SIU Edwardsville,9
+Middle Tennessee,Arkansas St.,13
+Detroit,Wisconsin Milwaukee,8
+College of Charleston,Samford,4
+Texas Arlington,Texas St.,25
+Murray St.,Belmont,5
+South Alabama,Troy,3
+Northwestern St.,Oral Roberts,12
+Arkansas Little Rock,Louisiana Monroe,10
+Lamar,Texas A&M Corpus Chris,4
+Northern Arizona,Portland St.,7
+North Dakota,Montana St.,9
+Texas A&M,Missouri,2
+UCLA,Washington,2
+New Mexico St.,Idaho,2
+Denver,Seattle,17
+Stephen F. Austin,Central Arkansas,36
+Montana,Northern Colorado,10
+Maryland,Virginia Tech,5
+Duke,North Carolina St.,13
+Arizona St.,California,4
+UC Davis,UC Santa Barbara,8
+Cal Poly,Pacific,5
+Cal St. Northridge,UC Irvine,9
+Sacramento St.,Eastern Washington,6
+Colorado,Oregon,1
+St. Mary's,Santa Clara,21
+Southern California,Washington St.,4
+Western Illinois,Nebraska Omaha,18
+Long Island,Central Connecticut,6
+Gonzaga,Pepperdine,26
+San Diego,Brigham Young,6
+Portland,Loyola Marymount,9
+Yale,Pennsylvania,9
+Harvard,Cornell,2
+Dartmouth,Columbia,3
+Princeton,Brown,17
+NC Asheville,Virginia Military Inst,11
+Lipscomb,Northern Kentucky,18
+Loyola MD,Siena,12
+Utah St.,San Jose St.,27
+Hawaii,UC Irvine,6
+Temple,Dayton,1
+Valparaiso,Cleveland St.,8
+Georgetown,Rutgers,6
+Wake Forest,Florida St.,25
+Texas Southern,Jackson St.,7
+Missouri,Mississippi,19
+Arkansas Pine Bluff,Southern,3
+Georgia Tech,Virginia Tech,10
+Buffalo,Northern Illinois,5
+Indiana St.,Southern Illinois,1
+Manhattan,Fairfield,22
+Vanderbilt,Arkansas,18
+Oklahoma St.,Texas,13
+Ball St.,Western Michigan,3
+Hofstra,NC Wilmington,9
+La Salle,Fordham,36
+St. Bonaventure,Rhode Island,6
+Delaware,George Mason,7
+Massachusetts,Saint Joseph's,18
+San Francisco,Brigham Young,12
+Tulane,Houston,3
+Radford,Presbyterian,11
+Ohio,Bowling Green,9
+Butler,George Washington,3
+Marquette,DePaul,11
+Miami FL,North Carolina,26
+Kennesaw St.,Jacksonville,7
+Villanova,South Florida,28
+Gonzaga,Loyola Marymount,19
+Akron,Miami OH,4
+Nebraska Omaha,IUPUI,7
+Southeastern Louisiana,Nicholls St.,11
+American,Colgate,15
+UAB,Marshall,14
+Maine,Albany,14
+East Tennessee St.,Stetson,1
+Vermont,MD Baltimore County,12
+Longwood,Winthrop,6
+Central Florida,East Carolina,10
+Elon,Furman,4
+Kentucky,Auburn,10
+Memphis,Southern Mississippi,13
+Northwestern St.,Central Arkansas,20
+Morgan St.,Coppin St.,29
+North Carolina Central,Florida A&M,8
+Oklahoma,Kansas,6
+Lehigh,Holy Cross,7
+Baylor,Texas Tech,27
+West Virginia,Texas Christian,13
+North Carolina A&T,Bethune Cookman,10
+Bucknell,Army,2
+Howard,Maryland Eastern Shore,19
+Davidson,Appalachian St.,35
+Mercer,North Florida,20
+Iowa,Northwestern,14
+Sam Houston St.,Lamar,38
+Florida,Mississippi St.,25
+Georgia,Texas A&M,6
+Oakland,South Dakota St.,5
+Florida Gulf Coast,South Carolina Upstate,25
+Charleston Southern,Campbell,18
+San Diego St.,Fresno St.,22
+Savannah St.,South Carolina St.,4
+St. Louis,Richmond,10
+Middle Tennessee,Troy,52
+Denver,Idaho,16
+Nevada,Air Force,5
+NJ Inst of Technology,Chicago St.,5
+Yale,Princeton,4
+Mississippi Valley St.,Alcorn St.,5
+Alabama St.,Alabama A&M,7
+Norfolk St.,Delaware St.,18
+Kansas St.,Iowa St.,9
+Prairie View A&M,Grambling,10
+Missouri Kansas City,South Dakota,15
+Southeast Missouri St.,Eastern Illinois,13
+Stanford,Arizona St.,3
+Tennessee Martin,SIU Edwardsville,9
+Toledo,Eastern Michigan,8
+Monmouth,Fairleigh Dickinson,4
+Gardner Webb,Liberty,3
+Pennsylvania,Brown,23
+Cornell,Dartmouth,23
+High Point,Coastal Carolina,12
+Kent St.,Central Michigan,15
+Michigan St.,Purdue,13
+Columbia,Harvard,15
+Stephen F. Austin,Oral Roberts,10
+Iona,Rider,7
+Virginia Commonwealth,Charlotte,7
+Boston University,Binghamton,21
+Mount St. Mary's,St. Francis PA,11
+Xavier,Duquesne,8
+Hartford,Stony Brook,5
+Wofford,NC Greensboro,9
+Lafayette,Navy,23
+North Dakota St.,IUPU Fort Wayne,4
+College of Charleston,Chattanooga,3
+Eastern Kentucky,Morehead St.,21
+Western Carolina,Georgia Southern,9
+Wichita St.,Missouri St.,29
+Southern Methodist,Rice,22
+Louisiana Tech,Texas St.,15
+North Texas,Florida International,10
+Boise St.,Wyoming,7
+Wisconsin Green Bay,Detroit,9
+Oregon,Utah,9
+Wright St.,Wisconsin Milwaukee,15
+Samford,The Citadel,12
+Arkansas St.,Western Kentucky,18
+Texas Arlington,Texas San Antonio,5
+Alabama,Louisiana St.,3
+Murray St.,Tennessee St.,21
+Texas A&M Corpus Chris,McNeese St.,3
+South Alabama,Florida Atlantic,1
+Belmont,Austin Peay,13
+Tennessee Tech,Jacksonville St.,14
+Nevada Las Vegas,New Mexico,9
+New Mexico St.,Seattle,3
+Tulsa,Texas El Paso,4
+Weber St.,Southern Utah,17
+Montana,North Dakota,20
+Nebraska,Penn St.,14
+Northern Colorado,Montana St.,13
+Utah Valley,Texas Pan American,17
+UC Santa Barbara,Pacific,13
+Cal St. Fullerton,UC Riverside,12
+UCLA,Washington St.,14
+Cal Poly,UC Davis,15
+Cal St. Bakersfield,Cal St. San Marcos,11
+Illinois St.,Creighton,3
+Long Beach St.,Cal St. Northridge,3
+Sacramento St.,Portland St.,6
+St. Mary's,San Diego,10
+Connecticut,Seton Hall,11
+Long Island,St. Francis NY,8
+Indiana,Ohio St.,13
+North Carolina St.,Clemson,1
+Virginia,Maryland,11
+Tennessee,South Carolina,5
+Northern Iowa,Bradley,3
+Syracuse,St. John's,19
+St. Peter's,Siena,10
+Marist,Loyola MD,5
+Canisius,Niagara,7
+Illinois,Minnesota,4
+Duke,Boston College,1
+California,Arizona,8
+Drexel,James Madison,12
+Louisiana Lafayette,Louisiana Monroe,24
+Colorado,Oregon St.,4
+Southern California,Washington,11
+Georgetown,Marquette,8
+Western Carolina,Wofford,1
+Oklahoma,Texas Christian,27
+Delaware,Old Dominion,2
+North Carolina Central,Bethune Cookman,6
+Norfolk St.,Maryland Eastern Shore,22
+Morgan St.,Howard,2
+Appalachian St.,Furman,6
+North Carolina A&T,Florida A&M,8
+Jackson St.,Prairie View A&M,5
+Southern,Mississippi Valley St.,4
+Texas Southern,Grambling,28
+Weber St.,Idaho St.,16
+Kansas,Kansas St.,21
+Utah Valley,Northern New Mexico,23
+Arkansas Pine Bluff,Alcorn St.,28
+Stony Brook,Binghamton,26
+Florida,Kentucky,17
+Boston University,Vermont,5
+Valparaiso,Wright St.,7
+Rutgers,Seton Hall,2
+Virginia,Virginia Tech,18
+James Madison,Towson,5
+Holy Cross,Navy,9
+Detroit,Cleveland St.,30
+Cal St. Bakersfield,Texas San Antonio,9
+Wisconsin Milwaukee,Loyola Chicago,18
+Missouri St.,Indiana St.,2
+Cincinnati,Villanova,18
+Alabama,Georgia,7
+Michigan St.,Michigan,23
+Connecticut,Syracuse,8
+Winthrop,Charleston Southern,5
+East Carolina,UAB,13
+High Point,Longwood,29
+Oklahoma St.,Texas Tech,24
+Rhode Island,Dayton,3
+Coastal Carolina,Presbyterian,7
+Bowling Green,Western Michigan,10
+Lehigh,American,13
+Bucknell,Colgate,8
+Texas A&M,Mississippi,2
+Liberty,Campbell,2
+Kent St.,Miami OH,17
+Ohio,Central Michigan,19
+Army,Lafayette,17
+Gardner Webb,NC Asheville,2
+William & Mary,NC Wilmington,6
+Charlotte,Butler,4
+Marshall,Rice,1
+Saint Joseph's,Richmond,6
+Georgia St.,Hofstra,18
+Miami FL,Florida St.,6
+Akron,Eastern Michigan,8
+Boston College,Wake Forest,3
+Xavier,Fordham,13
+Radford,Virginia Military Inst,3
+Indiana,Nebraska,29
+Buffalo,Toledo,15
+Maine,Hartford,2
+Southern Mississippi,Tulane,11
+Illinois St.,Bradley,20
+Tennessee,Vanderbilt,12
+Northern Iowa,Creighton,7
+Utah,Arizona St.,5
+Missouri,Mississippi St.,42
+Houston,Texas El Paso,18
+Memphis,Central Florida,22
+Ball St.,Northern Illinois,4
+Wichita St.,Drake,15
+Southern Illinois,Evansville,9
+Providence,South Florida,10
+New Mexico,Fresno St.,6
+Baylor,West Virginia,20
+Air Force,Nevada Las Vegas,15
+Duke,North Carolina,5
+Arkansas,Auburn,8
+Illinois,Purdue,20
+Wyoming,Nevada,20
+Colorado St.,San Diego St.,6
+Oregon St.,Washington St.,1
+UC Irvine,UC Riverside,4
+Long Beach St.,Cal St. Fullerton,20
+Oregon,Washington,13
+Ohio St.,Northwestern,10
+Quinnipiac,Robert Morris,2
+Davidson,College of Charleston,16
+Wagner,Central Connecticut,19
+St. Francis NY,Fairleigh Dickinson,24
+St. Francis PA,Sacred Heart,4
+Long Island,Monmouth,14
+East Tennessee St.,Kennesaw St.,9
+Chattanooga,Furman,34
+Clemson,Georgia Tech,3
+Duquesne,Temple,1
+Mount St. Mary's,Bryant,14
+Morehead St.,Jacksonville St.,4
+Western Carolina,NC Greensboro,2
+Tennessee St.,Belmont,11
+Florida Atlantic,Western Kentucky,6
+Eastern Kentucky,Tennessee Tech,11
+George Mason,Drexel,6
+Louisiana St.,South Carolina,18
+Florida Gulf Coast,Northern Kentucky,7
+Rider,St. Peter's,15
+Elon,Appalachian St.,3
+Georgia Southern,The Citadel,21
+Loyola MD,Canisius,4
+SIU Edwardsville,Murray St.,5
+Austin Peay,Eastern Illinois,7
+Samford,Wofford,7
+Oakland,South Dakota,1
+Western Illinois,North Dakota St.,13
+North Dakota,Sacramento St.,1
+IUPU Fort Wayne,Missouri Kansas City,5
+South Alabama,Louisiana Lafayette,24
+South Dakota St.,IUPUI,37
+Arkansas St.,Arkansas Little Rock,24
+Northwestern St.,Southeastern Louisiana,3
+Fairfield,Siena,22
+Troy,Florida International,8
+Oral Roberts,Sam Houston St.,10
+Texas A&M Corpus Chris,Central Arkansas,7
+Louisiana Monroe,North Texas,12
+Stephen F. Austin,Nicholls St.,12
+Virginia Commonwealth,Massachusetts,18
+Louisville,St. John's,14
+California,UCLA,13
+Mercer,South Carolina Upstate,11
+Weber St.,Montana,24
+Iowa,Penn St.,2
+Idaho St.,Montana St.,36
+Northern Colorado,Northern Arizona,8
+UC Davis,Hawaii,24
+New Mexico St.,San Jose St.,10
+Pacific,Cal St. Northridge,7
+Louisiana Tech,Seattle,6
+Colorado,Arizona,13
+Texas Arlington,Idaho,3
+Portland St.,Southern Utah,21
+Gonzaga,St. Mary's,17
+Southern California,Stanford,1
+Portland,San Francisco,2
+Santa Clara,San Diego,9
+Pepperdine,Loyola Marymount,2
+Stetson,Lipscomb,10
+Stony Brook,Vermont,17
+Brown,Columbia,3
+Princeton,Dartmouth,18
+Cornell,Yale,7
+Harvard,Pennsylvania,19
+Jacksonville,North Florida,2
+Youngstown St.,Wisconsin Milwaukee,14
+Niagara,Marist,3
+Wisconsin Green Bay,Cleveland St.,7
+Georgetown,Cincinnati,7
+Villanova,Connecticut,9
+Dayton,Xavier,11
+Georgia St.,George Mason,18
+Akron,Bowling Green,17
+Providence,Notre Dame,17
+Florida St.,Boston College,3
+North Carolina,Virginia,12
+William & Mary,Old Dominion,12
+Tennessee,Kentucky,30
+Texas San Antonio,Texas St.,11
+La Salle,Saint Joseph's,12
+South Dakota St.,Western Illinois,9
+St. Louis,Charlotte,18
+Marquette,Pittsburgh,10
+DePaul,Rutgers,6
+Florida,Auburn,31
+Iowa St.,Texas Christian,34
+Canisius,St. Peter's,9
+Eastern Michigan,Ball St.,6
+Longwood,Radford,15
+Gonzaga,San Francisco,10
+New Mexico,Boise St.,10
+Brigham Young,Portland,14
+Lafayette,Bucknell,1
+Charleston Southern,NC Asheville,8
+Georgia Tech,Wake Forest,1
+Loyola Chicago,Illinois Chicago,9
+South Carolina Upstate,Kennesaw St.,12
+Maine,Binghamton,4
+Colgate,Lehigh,4
+Bradley,Indiana St.,12
+Indiana,Purdue,28
+Army,Navy,1
+Quinnipiac,St. Francis PA,16
+Santa Clara,Pepperdine,10
+Buffalo,Miami OH,8
+Creighton,Evansville,3
+St. Mary's,Loyola Marymount,11
+Chicago St.,Urbana,8
+Campbell,Virginia Military Inst,9
+Robert Morris,Sacred Heart,5
+West Virginia,Texas Tech,2
+Samford,Furman,11
+College of Charleston,Georgia Southern,9
+Wagner,Bryant,14
+South Carolina St.,North Carolina A&T,2
+Butler,Fordham,5
+Mercer,East Tennessee St.,17
+Delaware St.,Coppin St.,14
+UCLA,Stanford,8
+Towson,Hofstra,7
+Morgan St.,Maryland Eastern Shore,32
+NJ Inst of Technology,Utah Valley,8
+Alabama,South Carolina,10
+Colorado St.,Air Force,3
+Arkansas,Missouri,2
+Southeastern Louisiana,Stephen F. Austin,4
+Louisiana St.,Mississippi St.,12
+Sam Houston St.,Central Arkansas,5
+Arkansas St.,Louisiana Monroe,33
+Northwestern St.,Nicholls St.,5
+Southern,Alabama St.,9
+Eastern Washington,Southern Utah,14
+Jackson St.,Grambling,39
+Western Michigan,Northern Illinois,8
+Savannah St.,North Carolina Central,8
+Cornell,Brown,3
+Prairie View A&M,Mississippi Valley St.,3
+Temple,Massachusetts,1
+Eastern Kentucky,Jacksonville St.,13
+Maryland,Duke,2
+Detroit,Valparaiso,10
+Florida A&M,Howard,1
+Vanderbilt,Texas A&M,7
+High Point,Liberty,5
+NC Wilmington,Northeastern,6
+Loyola MD,Siena,23
+Presbyterian,Winthrop,7
+Southeast Missouri St.,Tennessee Martin,22
+Albany,Hartford,26
+Rhode Island,Duquesne,5
+Monmouth,St. Francis NY,9
+McNeese St.,Lamar,7
+Toledo,Central Michigan,9
+Pennsylvania,Dartmouth,10
+Yale,Columbia,19
+Harvard,Princeton,12
+Eastern Illinois,Murray St.,9
+Mount St. Mary's,Central Connecticut,9
+Gardner Webb,Coastal Carolina,7
+Kansas St.,Baylor,20
+Wofford,Chattanooga,20
+Stetson,Northern Kentucky,16
+Long Beach St.,UC Riverside,40
+Davidson,The Citadel,15
+Oakland,Missouri Kansas City,12
+Virginia Commonwealth,George Washington,27
+Florida International,Western Kentucky,5
+Morehead St.,Tennessee Tech,2
+Austin Peay,SIU Edwardsville,12
+Houston Baptist,Texas Pan American,5
+Syracuse,Seton Hall,11
+Middle Tennessee,Arkansas Little Rock,5
+Memphis,Marshall,12
+Tulane,Southern Methodist,11
+IUPU Fort Wayne,South Dakota,13
+Michigan St.,Nebraska,9
+North Dakota St.,IUPUI,36
+UAB,Rice,23
+Southern Illinois,Missouri St.,8
+Northern Iowa,Drake,7
+Louisiana Lafayette,Florida Atlantic,1
+North Texas,Troy,2
+Oral Roberts,Texas A&M Corpus Chris,5
+Alabama A&M,Alcorn St.,7
+Lipscomb,Florida Gulf Coast,10
+Nevada Las Vegas,San Diego St.,2
+Texas Southern,Arkansas Pine Bluff,6
+Texas El Paso,Central Florida,15
+Weber St.,Montana St.,8
+Kansas,Texas,26
+Montana,Idaho St.,7
+Northern Colorado,Sacramento St.,14
+UC Davis,Cal St. Northridge,12
+Denver,San Jose St.,21
+Pacific,Hawaii,9
+Cal Poly,UC Santa Barbara,18
+Texas Arlington,Seattle,2
+Louisiana Tech,Idaho,6
+UC Irvine,Cal St. Fullerton,20
+Utah St.,New Mexico St.,4
+Washington,Oregon St.,10
+Long Island,Fairleigh Dickinson,25
+Michigan,Penn St.,8
+Louisville,South Florida,18
+Wisconsin,Ohio St.,22
+Boston University,New Hampshire,12
+Cleveland St.,Wisconsin Milwaukee,21
+Appalachian St.,NC Greensboro,8
+Niagara,Manhattan,4
+Iowa,Minnesota,21
+Wisconsin Green Bay,Youngstown St.,17
+Arizona,Utah,4
+Rider,Marist,4
+Miami FL,Clemson,2
+Illinois,Northwestern,21
+James Madison,Delaware,1
+Wichita St.,Illinois St.,1
+California,Southern California,8
+Fairfield,Iona,2
+Bucknell,Lehigh,6
+Notre Dame,Pittsburgh,9
+William & Mary,Georgia St.,12
+Drexel,Hofstra,9
+North Carolina Central,South Carolina St.,19
+Bethune Cookman,Howard,14
+Delaware St.,Morgan St.,2
+Savannah St.,North Carolina A&T,7
+New Orleans,Central Baptist,41
+Norfolk St.,Hampton,3
+Arkansas Pine Bluff,Prairie View A&M,29
+Texas Southern,Mississippi Valley St.,16
+Alabama St.,Alcorn St.,8
+Southern,Alabama A&M,14
+Villanova,Rutgers,8
+Kansas St.,West Virginia,10
+Utah Valley,Pacific Union,30
