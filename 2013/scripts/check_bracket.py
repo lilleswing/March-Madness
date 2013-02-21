@@ -2,6 +2,7 @@ import string
 
 __author__ = 'karl_leswing'
 
+
 def check_bracket(teams_path, bracket_path):
     teams_list = open(teams_path).readlines()
     bracket = open(bracket_path).readlines()
