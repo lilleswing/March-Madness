@@ -1,6 +1,7 @@
 import string
 
 __author__ = 'karl_leswing'
+data_dir = '../../data'
 
 
 def check_bracket(teams_path, bracket_path):
@@ -18,4 +19,4 @@ def check_bracket(teams_path, bracket_path):
 
 
 if __name__ == '__main__':
-    check_bracket('../data/data.txt', '../data/bracket2012.txt')
+    check_bracket(data_dir + '/data/data.txt', data_dir + '/data/bracket2012.txt')

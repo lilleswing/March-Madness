@@ -5,9 +5,11 @@ from pybrain.tools.shortcuts import buildNetwork
 from pybrain.datasets import SupervisedDataSet
 from pybrain.supervised.trainers import BackpropTrainer
 from pybrain.structure import TanhLayer
-import make_bracket
+import helpers.make_bracket as make_bracket
 
 team_dict = dict()
+games = list()
+
 
 def play_game(team1, team2):
     l = [i1 - i2 for i1, i2 in zip(team1, team2)]
@@ -15,6 +17,7 @@ def play_game(team1, team2):
 
 
 def get_training_data(games_path, teams_path):
+    global games
     teams_list = open(teams_path).readlines()
     games = open(games_path).readlines()
     for team in teams_list:
@@ -31,8 +34,8 @@ def get_training_data(games_path, teams_path):
             game1 = play_game(team1, team2)
             game2 = play_game(team2, team1)
 
-            ds.addSample(game1, (1,))
-            ds.addSample(game2, (-1,))
+            ds.addSample(game1, (float(game[2]),))
+            ds.addSample(game2, (-1 * float(game[2]),))
         except:
             count += 1
             #print game
@@ -40,31 +43,61 @@ def get_training_data(games_path, teams_path):
     return ds
 
 
-def play_tourney(bracket_file, iteration, net):
+def play_tourney(bracket_file, net):
     bracket = map(string.strip, open(bracket_file).readlines())
     winners = list()
     while len(bracket) > 1:
         team1 = bracket.pop(0)
         team2 = bracket.pop(0)
-        game = play_game(team_dict[team1], team_dict[team2])
-        i = net.activate(game)[0]
+        game1 = play_game(team_dict[team1], team_dict[team2])
+        game2 = play_game(team_dict[team2], team_dict[team1])
+        i1 = net.activate(game1)[0]
+        i2 = net.activate(game2)[0]
+        i = i1 - i2
         if i > 0:
             bracket.append(team1)
             winners.append(team1)
         else:
             bracket.append(team2)
             winners.append(team2)
-    make_bracket.make_bracket(winners, "../data/images/time-series/%s.png" % (iteration))
+    return winners
+
+
+def get_games_won(net):
+    correct = 0
+    unplayable = 0
+    for game in games:
+        try:
+            game = game.split(',')
+            team1 = team_dict[game[0]]
+            team2 = team_dict[game[1]]
+            game1 = play_game(team1, team2)
+            game2 = play_game(team2, team1)
+            i1 = net.activate(game1)[0]
+            i2 = net.activate(game2)[0]
+            i = i1 - i2
+            if i > 0:
+                correct += 1
+        except:
+            unplayable += 1
+    return correct, len(games) - unplayable, float(correct) / float(len(games) - unplayable)
 
 if __name__ == '__main__':
-    net = buildNetwork(30, 50, 1, hiddenclass=TanhLayer, bias=True)
+    net = buildNetwork(30, 50, 50, 1, hiddenclass=TanhLayer, bias=True)
     ds = get_training_data('../data/training.txt', '../data/data.txt')
     trainer = BackpropTrainer(net, ds)
     print "starting training"
     iteration = 0
+    min_error = 1
+    winners = list(['Virginia'] * 63)
     while True:
-        play_tourney('../data/bracket2012.txt', iteration, net)
-        print(trainer.train())
+        error = trainer.train()
+        if error < min_error:
+            min_error = error
+            print error
+            winners = play_tourney('../data/bracket2012.txt', net)
+            print get_games_won(net)
+        make_bracket.make_bracket(winners, "../data/images/time-series/%04d.png" % iteration)
         iteration += 1
 
 

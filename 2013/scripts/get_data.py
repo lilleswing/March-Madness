@@ -6,7 +6,25 @@ headers = {
     'Accept-Encoding': 'gzip,deflate,sdch',
     'Accept-Language': 'en-US,en;q=0.8',
     'Accept': 'text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8',
-    'Cookie': 'PHPSESSID=teiiglehj473eom37bk1b501h6; exp_last_visit=1045926002; exp_last_activity=1361286002; exp_tracker=a%3A1%3A%7Bi%3A0%3Bs%3A5%3A%22index%22%3B%7D; __utma=8968239.1643745358.1361247091.1361284235.1361288720.3; __utmb=8968239.11.10.1361288720; __utmc=8968239; __utmz=8968239.1361247091.1.1.utmcsr=(direct)|utmccn=(direct)|utmcmd=(none)'
+    'Cookie': 'PHPSESSID=ga4fkbh7cnvc1vpbbap97snpa6; __utma=8968239.854906495.1361545473.1361545473.1361545473.1; __utmb=8968239.11.10.1361545473; __utmc=8968239; __utmz=8968239.1361545473.1.1.utmcsr=(direct)|utmccn=(direct)|utmcmd=(none)'
+}
+point_map = {
+    0: 0.0,
+    1: 0.5,
+    2: 0.5,
+    3: 0.5,
+    4: 0.5,
+    5: 0.9,
+    6: 0.9,
+    7: 0.9,
+    8: 0.9,
+    9: 0.9,
+    10: 1.3,
+    11: 1.3,
+    12: 1.3,
+    13: 1.3,
+    14: 1.3,
+    15: 2,
 }
 
 
@@ -27,16 +45,43 @@ def get_team_data(team_list):
 
 
 def get_training_data(num_games=6000):
-    fout = open('../data/training.txt', 'w')
+    entries = list()
+    avg_points = dict()
     for i in xrange(1, num_games + 1):
         try:
             html = requests.get('http://kenpom.com/box.php?g=%s' % i, headers=headers).text
             m = re.search('<h2>.*?</span>(?P<team1>.*?)<span.*?</span>(?P<team2>.*?)<span.*?</h2>', html)
             g1 = m.group('team1').strip().strip(',').rsplit(' ', 1)
             g2 = m.group('team2').strip().strip(',').rsplit(' ', 1)
-            fout.write("%s,%s,%s\n" % (g1[0], g2[0], int(g1[1]) - int(g2[1])))
+            entries.append([g1[0], g2[0], int(g1[1]) - int(g2[1])])
+
+            if g1[0] not in avg_points:
+                avg_points[g1[0]] = (0, 0, 0)
+            if g2[0] not in avg_points:
+                avg_points[g2[0]] = (0, 0, 0)
+            p1 = avg_points[g1[0]]
+            avg_points[g1[0]] = (float(g1[1]) + p1[0], float(g2[1]) + p1[1], p1[2] + 1)
+
+            p2 = avg_points[g2[0]]
+            avg_points[g2[0]] = (float(g2[1]) + p2[0], float(g1[1]) + p2[1], p2[2] + 1)
         except:
             print "FAILURE"
+    for entry in entries:
+        if entry[2] > 15:
+            entry[2] = 2
+        else:
+            entry[2] = point_map[entry[2]]
+    fout = open('../data/training.txt', 'w')
+    for g in entries:
+        fout.write("%s,%s,%s\n" % (g[0], g[1], g[2]))
+    fout.close()
+
+    fout = open('../data/avg_points.txt', 'w')
+    for g in avg_points.keys():
+        t = avg_points[g]
+        points_for = float(t[0]) / float(t[2])
+        points_against = float(t[1]) / float(t[2])
+        fout.write("%s,%f,%f" % (g, points_for, points_against))
     fout.close()
 
 
@@ -100,5 +145,5 @@ def get_team_names():
 
 
 if __name__ == '__main__':
-    records = get_training_data(4450)
+    records = get_training_data(4600)
     data = get_mass_data()
