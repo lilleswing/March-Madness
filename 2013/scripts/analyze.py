@@ -95,7 +95,7 @@ if __name__ == '__main__':
         if error < min_error:
             min_error = error
             print error
-            winners = play_tourney('../data/bracket2012.txt', net)
+            winners = play_tourney('../data/bracketkenpom.txt', net)
             print get_games_won(net)
         make_bracket.make_bracket(winners, "../data/images/time-series/%04d.png" % iteration)
         iteration += 1

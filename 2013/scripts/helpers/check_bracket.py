@@ -19,4 +19,4 @@ def check_bracket(teams_path, bracket_path):
 
 
 if __name__ == '__main__':
-    check_bracket(data_dir + '/data/data.txt', data_dir + '/data/bracket2012.txt')
+    check_bracket(data_dir + '/data.txt', data_dir + '/bracketkenpom.txt')
