@@ -81,7 +81,7 @@ def get_training_data(num_games=6000):
         t = avg_points[g]
         points_for = float(t[0]) / float(t[2])
         points_against = float(t[1]) / float(t[2])
-        fout.write("%s,%f,%f" % (g, points_for, points_against))
+        fout.write("%s,%f,%f\n" % (g, points_for, points_against))
     fout.close()
 
 

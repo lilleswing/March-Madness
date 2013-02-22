@@ -2,7 +2,7 @@ import string
 import ImageDraw
 from PIL import Image
 __author__ = 'karl_leswing'
-data_dir = '../../data'
+data_dir = '../data'
 
 
 def make_bracket(winners, outfile):
@@ -19,4 +19,5 @@ def make_bracket(winners, outfile):
     background.save(outfile)
 
 if __name__ == '__main__':
+    data_dir = '../../data'
     make_bracket(["Karl"] * 63, data_dir + '/data/images/full_bracket.png')

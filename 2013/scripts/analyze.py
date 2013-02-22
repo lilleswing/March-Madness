@@ -12,7 +12,7 @@ games = list()
 
 
 def play_game(team1, team2):
-    l = [i1 - i2 for i1, i2 in zip(team1, team2)]
+    l = team1 + team2
     return tuple(l)
 
 
@@ -24,7 +24,7 @@ def get_training_data(games_path, teams_path):
         team = team.split(',')
         vals = map(float, team[1:])
         team_dict[team[0]] = vals
-    ds = SupervisedDataSet(30, 1)
+    ds = SupervisedDataSet(60, 1)
     count = 0
     for game in games:
         try:
@@ -83,7 +83,7 @@ def get_games_won(net):
     return correct, len(games) - unplayable, float(correct) / float(len(games) - unplayable)
 
 if __name__ == '__main__':
-    net = buildNetwork(30, 50, 50, 1, hiddenclass=TanhLayer, bias=True)
+    net = buildNetwork(60, 100, 100, 1, hiddenclass=TanhLayer, bias=True)
     ds = get_training_data('../data/training.txt', '../data/data.txt')
     trainer = BackpropTrainer(net, ds)
     print "starting training"
