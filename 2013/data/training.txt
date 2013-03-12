@@ -3176,6 +3176,7 @@ Nevada,Boise St.,2
 James Madison,Old Dominion,1.3
 Bucknell,Holy Cross,0.9
 Detroit,Loyola Chicago,1.3
+NJ Inst of Technology,Texas Pan American,1.3
 Wagner,St. Francis PA,2
 Radford,Winthrop,0.5
 Baylor,Texas Christian,2
@@ -3756,6 +3757,7 @@ UAB,Marshall,1.3
 Maine,Albany,1.3
 East Tennessee St.,Stetson,0.5
 Vermont,MD Baltimore County,1.3
+Central Connecticut,Quinnipiac,0.5
 Longwood,Winthrop,0.9
 Central Florida,East Carolina,1.3
 Elon,Furman,0.5
@@ -3770,6 +3772,7 @@ Baylor,Texas Tech,2
 West Virginia,Texas Christian,1.3
 North Carolina A&T,Bethune Cookman,1.3
 Bucknell,Army,0.5
+Bryant,Sacred Heart,2
 Howard,Maryland Eastern Shore,2
 Davidson,Appalachian St.,2
 Mercer,North Florida,2
@@ -4298,8 +4301,896 @@ Louisiana Lafayette,Troy,1.3
 Illinois,Penn St.,0.9
 California,Oregon,0.5
 Duke,Virginia Tech,2
+Nebraska,Iowa,0.5
 Colorado,Utah,1.3
 St. Mary's,Brigham Young,0.9
 Stanford,Oregon St.,1.3
 Portland,San Diego,0.5
 San Francisco,Loyola Marymount,0.5
+Harvard,Brown,2
+Pennsylvania,Cornell,0.9
+Princeton,Columbia,2
+Yale,Dartmouth,1.3
+St. Louis,Butler,0.5
+Stetson,Florida Gulf Coast,0.9
+Towson,Drexel,0.5
+Louisville,Seton Hall,2
+Maryland,Clemson,1.3
+Richmond,Fordham,2
+Massachusetts,Dayton,1.3
+Wake Forest,Miami FL,2
+Memphis,Southern Mississippi,2
+St. Francis PA,Monmouth,0.5
+Vanderbilt,Mississippi St.,2
+Iowa St.,Texas Tech,2
+Oklahoma St.,West Virginia,2
+NJ Inst of Technology,New Orleans,2
+Virginia Commonwealth,Xavier,0.5
+Army,American,1.3
+Lipscomb,Kennesaw St.,2
+Santa Clara,Portland,1.3
+San Francisco,Pepperdine,0.9
+Quinnipiac,Bryant,1.3
+East Carolina,Southern Methodist,0.5
+Arizona,Washington St.,2
+Gonzaga,San Diego,2
+East Tennessee St.,Jacksonville,0.5
+Central Connecticut,Sacred Heart,0.9
+Mount St. Mary's,St. Francis NY,0.9
+Central Florida,Tulsa,0.9
+Wagner,Long Island,0.5
+George Mason,William & Mary,0.5
+Bethune Cookman,South Carolina St.,1.3
+New Mexico,Colorado St.,0.9
+Norfolk St.,Delaware St.,0.5
+North Carolina Central,North Carolina A&T,0.5
+Georgia St.,James Madison,0.5
+Saint Joseph's,George Washington,1.3
+North Carolina,North Carolina St.,1.3
+Georgetown,Syracuse,1.3
+Coppin St.,Howard,0.9
+Kansas,Texas Christian,2
+Mercer,Northern Kentucky,2
+North Florida,South Carolina Upstate,2
+Mississippi,Auburn,2
+Oklahoma,Baylor,1.3
+Southern,Alcorn St.,1.3
+San Diego St.,Nevada,1.3
+Villanova,Marquette,0.5
+Brown,Dartmouth,0.9
+Jackson St.,Mississippi Valley St.,2
+Arkansas Pine Bluff,Grambling,2
+California,Oregon St.,0.5
+Prairie View A&M,Alabama St.,0.9
+Savannah St.,Florida A&M,0.5
+Middle Tennessee,Louisiana Monroe,2
+Delaware,NC Wilmington,0.5
+Florida,Arkansas,2
+Boston University,MD Baltimore County,0.9
+St. Bonaventure,Duquesne,0.9
+Princeton,Cornell,2
+Columbia,Pennsylvania,2
+UAB,Marshall,0.5
+Georgia Southern,Furman,2
+Florida Atlantic,Arkansas Little Rock,1.3
+Texas Southern,Alabama A&M,0.5
+Robert Morris,Fairleigh Dickinson,2
+Chattanooga,Elon,0.5
+Nevada Las Vegas,Wyoming,2
+Tulane,Rice,2
+Oregon,Stanford,1.3
+Harvard,Yale,0.9
+Samford,NC Greensboro,0.5
+Kansas St.,Texas,1.3
+Connecticut,DePaul,1.3
+Houston Baptist,Utah Valley,1.3
+South Alabama,North Texas,1.3
+Arkansas St.,Troy,0.9
+Western Kentucky,Louisiana Lafayette,1.3
+Texas Pan American,Chicago St.,0.5
+New Mexico St.,Texas El Paso,0.5
+Providence,Rutgers,0.5
+Boise St.,Fresno St.,0.9
+Cal St. Bakersfield,Pacifica,2
+Washington,Arizona St.,0.9
+Ohio St.,Michigan St.,0.9
+Bucknell,Holy Cross,2
+Pittsburgh,St. John's,2
+Purdue,Northwestern,2
+Lafayette,Lehigh,0.9
+Michigan,Illinois,1.3
+New Hampshire,Binghamton,1.3
+Stony Brook,Maine,2
+La Salle,Rhode Island,0.9
+Notre Dame,Cincinnati,2
+Virginia,Georgia Tech,2
+Duke,Boston College,2
+UCLA,Southern California,2
+Temple,Charlotte,2
+Virginia Tech,Florida St.,1.3
+Hofstra,Old Dominion,1.3
+Kansas St.,Texas Tech,2
+Marquette,Syracuse,0.5
+Bethune Cookman,Savannah St.,1.3
+Hampton,Delaware St.,0.9
+Howard,Maryland Eastern Shore,0.5
+Houston Baptist,New Orleans,1.3
+Mississippi Valley St.,Grambling,2
+Texas Southern,Alabama St.,2
+Seton Hall,Villanova,0.5
+Arkansas Pine Bluff,Jackson St.,0.5
+Minnesota,Indiana,0.5
+Virginia Military Inst,Liberty,2
+Central Florida,Georgia Southwestern,2
+Alabama,Auburn,2
+Xavier,Memphis,0.5
+Detroit,Loyola Chicago,0.5
+Illinois Chicago,Wright St.,0.9
+Wisconsin Green Bay,Wisconsin Milwaukee,2
+North Dakota St.,Utah Valley,0.9
+Eastern Illinois,Chicago St.,0.9
+Valparaiso,Youngstown St.,0.9
+Tennessee,Florida,0.9
+Wisconsin,Nebraska,2
+Florida St.,Wake Forest,1.3
+Colorado,Stanford,0.5
+Penn St.,Michigan,0.9
+Ball St.,Central Michigan,0.9
+William & Mary,NC Wilmington,0.5
+Bowling Green,Miami OH,0.9
+Lehigh,Navy,2
+Bucknell,American,2
+Western Michigan,Toledo,0.5
+Richmond,George Washington,0.9
+Longwood,Campbell,1.3
+Pittsburgh,South Florida,2
+Radford,High Point,0.9
+Delaware,Hofstra,0.5
+NC Asheville,Presbyterian,1.3
+Coastal Carolina,Winthrop,2
+Oklahoma St.,Texas Christian,2
+Lafayette,Colgate,1.3
+Army,Holy Cross,0.9
+Miami FL,Virginia Tech,2
+Davidson,Elon,0.9
+Drake,Indiana St.,1.3
+Morgan St.,Coppin St.,2
+Dayton,Charlotte,2
+Baylor,West Virginia,0.5
+Boise St.,Nevada,2
+Southern Illinois,Northern Iowa,0.9
+Kentucky,Mississippi St.,2
+Illinois St.,Missouri St.,2
+North Carolina St.,Boston College,2
+Southern Methodist,Rice,1.3
+Georgia Tech,Maryland,1.3
+Louisiana St.,Arkansas,0.9
+UAB,Tulane,0.9
+Belmont,SIU Edwardsville,2
+Eastern Michigan,Northern Illinois,1.3
+Evansville,Wichita St.,0.5
+St. Louis,Saint Joseph's,2
+Creighton,Bradley,2
+Iowa,Purdue,1.3
+Mississippi,Texas A&M,0.9
+Colorado St.,Fresno St.,0.9
+Vanderbilt,Georgia,0.5
+Texas El Paso,Houston,1.3
+Air Force,Wyoming,0.9
+Louisville,DePaul,2
+Southern California,Arizona,1.3
+New Mexico,San Diego St.,1.3
+St. Mary's,Pepperdine,2
+Hawaii,UC Santa Barbara,0.5
+Alabama A&M,Grambling,2
+Ohio St.,Northwestern,1.3
+Quinnipiac,St. Francis NY,1.3
+Albany,New Hampshire,0.9
+Wagner,Fairleigh Dickinson,2
+Chattanooga,Western Carolina,0.9
+Mount St. Mary's,Monmouth,1.3
+North Carolina,Clemson,0.9
+Georgia Southern,NC Greensboro,0.9
+Morehead St.,Tennessee St.,0.5
+Rider,Niagara,0.9
+Vermont,Binghamton,2
+Drexel,Old Dominion,0.5
+Hartford,MD Baltimore County,1.3
+Robert Morris,Bryant,0.5
+Stony Brook,Boston University,2
+The Citadel,Furman,1.3
+Stetson,Kennesaw St.,1.3
+College of Charleston,Wofford,0.9
+South Dakota,IUPUI,2
+Northern Kentucky,North Florida,2
+Florida Gulf Coast,Mercer,0.5
+Southeast Missouri St.,Austin Peay,2
+Western Illinois,Missouri Kansas City,0.5
+Texas San Antonio,Idaho,2
+Louisiana Tech,Utah St.,2
+North Texas,Arkansas St.,2
+Texas St.,Seattle,0.5
+South Dakota St.,Nebraska Omaha,2
+Western Kentucky,South Alabama,0.9
+Texas Arlington,San Jose St.,0.9
+Tennessee Martin,Murray St.,0.5
+Lipscomb,Jacksonville,0.5
+Middle Tennessee,Troy,1.3
+Alcorn St.,Prairie View A&M,0.9
+Arkansas Little Rock,Louisiana Lafayette,0.9
+Florida International,Louisiana Monroe,0.9
+Eastern Kentucky,Tennessee Tech,2
+McNeese St.,Oral Roberts,0.5
+Texas A&M Corpus Chris,Southeastern Louisiana,1.3
+Northern Arizona,Idaho St.,0.9
+Nicholls St.,Sam Houston St.,0.5
+Virginia,Duke,0.9
+Texas Southern,Southern,1.3
+California,Utah,2
+Missouri,South Carolina,2
+Montana St.,Southern Utah,0.5
+Cal Poly,Cal St. Northridge,2
+Weber St.,Sacramento St.,2
+North Dakota,Portland St.,0.9
+UC Davis,UC Riverside,0.9
+Oregon,Oregon St.,1.3
+Gonzaga,Brigham Young,0.9
+Pacific,Cal St. Fullerton,0.9
+Long Island,Sacred Heart,0.5
+Santa Clara,Loyola Marymount,2
+San Francisco,San Diego,1.3
+Dartmouth,Pennsylvania,0.9
+Brown,Cornell,2
+South Carolina Upstate,East Tennessee St.,2
+Princeton,Harvard,0.9
+Iona,Loyola MD,0.5
+Columbia,Yale,1.3
+Manhattan,Fairfield,0.5
+Marist,Siena,0.5
+Cal Poly,Hawaii,0.5
+Minnesota,Penn St.,2
+Western Illinois,South Dakota,0.5
+Virginia Commonwealth,Butler,2
+Florida,Alabama,1.3
+Lehigh,Army,0.9
+Old Dominion,Northeastern,0.9
+Lafayette,American,0.9
+Maryland,Wake Forest,1.3
+Holy Cross,Colgate,2
+Evansville,Indiana St.,2
+Tulsa,Tulane,1.3
+Michigan,Michigan St.,0.5
+Creighton,Wichita St.,1.3
+Missouri St.,Bradley,0.9
+Louisville,Syracuse,0.9
+Buffalo,Akron,1.3
+Memphis,Central Florida,0.9
+Northern Iowa,Illinois St.,0.9
+Purdue,Wisconsin,1.3
+Virginia Military Inst,Longwood,1.3
+Illinois,Nebraska,0.9
+Oklahoma,Iowa St.,2
+New Mexico,Wyoming,1.3
+Georgia,Tennessee,1.3
+Detroit,Illinois Chicago,1.3
+La Salle,Duquesne,2
+Ohio,Bowling Green,1.3
+Ball St.,Toledo,1.3
+Wright St.,Youngstown St.,2
+St. Mary's,Santa Clara,1.3
+Temple,Rhode Island,0.9
+Rider,Canisius,0.5
+Appalachian St.,Chattanooga,2
+Houston,Marshall,2
+Cincinnati,Connecticut,0.9
+Massachusetts,Xavier,0.9
+Delaware,George Mason,0.9
+Marquette,Notre Dame,0.9
+Davidson,Georgia Southern,2
+Kansas,West Virginia,2
+Valparaiso,Wisconsin Green Bay,2
+Gonzaga,Portland,2
+Kent St.,Miami OH,2
+San Diego,Pepperdine,0.9
+Loyola Chicago,Cleveland St.,2
+Niagara,St. Peter's,2
+Southern California,Arizona St.,0.5
+UAB,Southern Methodist,0.9
+Mercer,Stetson,1.3
+Robert Morris,Central Connecticut,2
+Winthrop,NC Asheville,0.9
+Dayton,Richmond,0.5
+Texas Tech,Texas Christian,0.9
+Towson,Hofstra,0.5
+College of Charleston,Furman,2
+North Dakota St.,Nebraska Omaha,2
+Missouri,Louisiana St.,1.3
+High Point,Campbell,0.5
+North Carolina Central,Savannah St.,0.5
+Nevada Las Vegas,Nevada,2
+Morgan St.,Maryland Eastern Shore,1.3
+Oklahoma St.,Texas,1.3
+NJ Inst of Technology,Houston Baptist,1.3
+North Carolina A&T,South Carolina St.,2
+St. Louis,George Washington,0.9
+Bryant,St. Francis PA,2
+Central Arkansas,McNeese St.,0.5
+Arkansas,Kentucky,1.3
+Long Island,Quinnipiac,0.9
+Gardner Webb,Presbyterian,2
+Liberty,Radford,2
+St. Francis NY,Sacred Heart,1.3
+Sam Houston St.,Southeastern Louisiana,0.9
+Eastern Illinois,SIU Edwardsville,2
+Mississippi St.,Mississippi,0.9
+Louisiana Lafayette,Louisiana Monroe,0.9
+Belmont,Jacksonville St.,0.9
+North Dakota,Eastern Washington,0.5
+Florida Gulf Coast,Kennesaw St.,2
+Charleston Southern,Coastal Carolina,1.3
+Pennsylvania,Harvard,0.5
+Southern,Prairie View A&M,2
+Denver,New Mexico St.,0.9
+James Madison,William & Mary,0.5
+Princeton,Dartmouth,0.9
+Hampton,Florida A&M,0.9
+California,Colorado,2
+Norfolk St.,Bethune Cookman,0.5
+Duke,Miami FL,0.5
+Delaware St.,Howard,0.5
+IUPU Fort Wayne,Oakland,0.5
+Seattle,Texas San Antonio,2
+Wagner,Monmouth,1.3
+Mount St. Mary's,Fairleigh Dickinson,2
+St. Bonaventure,Charlotte,2
+Texas A&M,South Carolina,2
+Yale,Cornell,0.9
+Oral Roberts,Lamar,2
+Brown,Columbia,0.5
+Stephen F. Austin,Northwestern St.,0.5
+Saint Joseph's,Fordham,2
+Kansas St.,Baylor,0.5
+Florida Atlantic,Florida International,2
+Drexel,NC Wilmington,2
+Wofford,The Citadel,0.9
+Northern Kentucky,Jacksonville,0.5
+Bucknell,Navy,2
+Elon,NC Greensboro,1.3
+Missouri Kansas City,IUPUI,0.5
+Indiana,Iowa,1.3
+North Florida,Lipscomb,0.9
+Texas El Paso,Rice,1.3
+Louisiana Tech,San Jose St.,2
+Boise St.,Colorado St.,1.3
+Pacific,UC Riverside,0.5
+Idaho,Texas St.,0.9
+Southern Mississippi,East Carolina,2
+Arkansas Little Rock,Arkansas St.,0.9
+Middle Tennessee,Western Kentucky,0.9
+Providence,St. John's,0.5
+Central Michigan,Northern Illinois,2
+Texas Arlington,Utah St.,2
+Virginia Tech,Clemson,0.9
+Southern Illinois,Drake,0.5
+Austin Peay,Tennessee Martin,2
+Jackson St.,Alabama A&M,0.5
+South Alabama,Troy,0.5
+Tennessee Tech,Morehead St.,0.9
+Southeast Missouri St.,Murray St.,2
+Alabama St.,Grambling,1.3
+Texas A&M Corpus Chris,Nicholls St.,0.5
+Montana,Montana St.,0.5
+Georgetown,Rutgers,1.3
+UCLA,Arizona,0.9
+Texas Southern,Alcorn St.,2
+Vanderbilt,Auburn,0.9
+Utah Valley,Chicago St.,0.9
+UC Davis,Cal St. Fullerton,0.5
+Fresno St.,Air Force,2
+UC Santa Barbara,Cal St. Northridge,0.9
+Sacramento St.,Idaho St.,0.5
+UC Irvine,Long Beach St.,0.5
+Northern Colorado,Portland St.,1.3
+Brigham Young,Loyola Marymount,0.5
+Loyola MD,Manhattan,0.5
+New Hampshire,Maine,0.9
+Marist,Fairfield,1.3
+South Florida,DePaul,1.3
+Stony Brook,Albany,0.9
+MD Baltimore County,Binghamton,1.3
+Hartford,Vermont,0.5
+Iona,Siena,2
+North Carolina,Florida St.,2
+Texas Pan American,New Orleans,1.3
+Washington,Washington St.,0.5
+Boston College,Virginia,0.5
+Stanford,Utah,2
+North Carolina St.,Georgia Tech,1.3
+Louisville,Cincinnati,2
+Kansas,Texas Tech,2
+Coppin St.,Maryland Eastern Shore,0.5
+North Carolina Central,South Carolina St.,0.9
+Hampton,Bethune Cookman,0.9
+Norfolk St.,Florida A&M,1.3
+North Carolina A&T,Savannah St.,0.5
+Texas,Baylor,0.9
+Morgan St.,Delaware St.,2
+Ball St.,Western Michigan,0.5
+Toledo,Northern Illinois,2
+Missouri,Arkansas,2
+Kent St.,Bowling Green,0.9
+Central Michigan,Eastern Michigan,0.5
+Marquette,Rutgers,0.9
+Boston College,Clemson,0.9
+Notre Dame,St. John's,2
+Marshall,Southern Mississippi,0.5
+Iowa,Illinois,0.9
+Duke,Virginia Tech,2
+Ohio,Buffalo,0.5
+Kansas St.,Texas Christian,1.3
+Mississippi,Alabama,0.5
+Providence,Seton Hall,1.3
+Memphis,Texas El Paso,0.5
+Ohio St.,Indiana,0.9
+Nevada Las Vegas,Boise St.,0.5
+Akron,Miami OH,1.3
+Syracuse,DePaul,2
+East Carolina,Tulane,0.5
+Dayton,St. Bonaventure,1.3
+La Salle,George Washington,1.3
+Villanova,Georgetown,1.3
+Temple,Fordham,2
+Michigan,Purdue,0.9
+Iowa St.,Oklahoma St.,1.3
+Saint Joseph's,Rhode Island,2
+North Carolina,Maryland,1.3
+South Carolina,Mississippi St.,0.9
+Central Florida,UAB,0.5
+Virginia Commonwealth,Richmond,1.3
+Florida,Vanderbilt,2
+Louisiana St.,Texas A&M,1.3
+Houston,Rice,2
+Southern Methodist,Tulsa,0.9
+South Florida,Connecticut,1.3
+North Carolina St.,Wake Forest,2
+Oklahoma,West Virginia,1.3
+Nebraska,Minnesota,0.5
+Georgia Tech,Miami FL,0.5
+Tennessee,Auburn,0.9
+Washington St.,UCLA,1.3
+New Mexico,Nevada,1.3
+Stanford,California,1.3
+San Diego St.,Air Force,0.9
+Washington,Southern California,0.9
+Colorado St.,Wyoming,2
+Penn St.,Northwestern,0.9
+Georgia,Kentucky,1.3
+Butler,Massachusetts,1.3
+Florida St.,Virginia,0.5
+Savannah St.,Maryland Eastern Shore,2
+South Carolina St.,Delaware St.,0.5
+Coppin St.,Bethune Cookman,0.9
+North Carolina Central,Hampton,0.5
+Norfolk St.,North Carolina A&T,0.9
+Southeastern Louisiana,McNeese St.,1.3
+Northwestern St.,Texas A&M Corpus Chris,2
+Nicholls St.,Lamar,2
+New Mexico St.,Louisiana Tech,2
+Denver,Texas Arlington,2
+Stephen F. Austin,Sam Houston St.,2
+Weber St.,Portland St.,2
+Montana,Sacramento St.,1.3
+Colorado,Oregon,2
+Michigan St.,Wisconsin,2
+Eastern Washington,Idaho St.,1.3
+Utah St.,Texas St.,2
+Northern Colorado,Southern Utah,0.9
+UC Santa Barbara,Cal St. Fullerton,2
+Long Beach St.,UC Davis,0.5
+Pacific,UC Irvine,0.9
+Cal Poly,UC Riverside,0.9
+Cal St. Northridge,Hawaii,1.3
+Utah,Oregon St.,1.3
+Rutgers,Seton Hall,0.9
+Pennsylvania,Brown,0.5
+Dartmouth,Cornell,1.3
+Yale,Princeton,0.9
+Harvard,Columbia,0.9
+Ball St.,Northern Illinois,0.5
+Utah,Oregon,1.3
+Georgetown,Syracuse,2
+Western Michigan,Central Michigan,0.5
+Kentucky,Florida,0.5
+Purdue,Minnesota,2
+Charlotte,Saint Joseph's,1.3
+Memphis,UAB,2
+Texas Christian,Oklahoma,0.5
+Toledo,Eastern Michigan,1.3
+Boston College,Georgia Tech,0.5
+Iowa St.,West Virginia,0.9
+Vanderbilt,South Carolina,1.3
+Mississippi,Louisiana St.,1.3
+Oklahoma St.,Kansas St.,0.9
+St. Louis,La Salle,2
+Massachusetts,Rhode Island,0.9
+Florida St.,North Carolina St.,0.5
+Ohio,Miami OH,0.5
+Arkansas,Texas A&M,1.3
+Pittsburgh,DePaul,2
+UCLA,Washington,0.9
+Iowa,Nebraska,1.3
+Miami FL,Clemson,1.3
+Texas El Paso,Southern Methodist,1.3
+North Dakota,Southern Utah,0.9
+Boise St.,San Diego St.,0.5
+Tennessee,Missouri,0.5
+Fordham,St. Bonaventure,0.5
+Northwestern St.,Sam Houston St.,1.3
+Louisville,Notre Dame,2
+Alabama,Georgia,0.5
+Arizona,Arizona St.,2
+Oregon St.,Colorado,0.9
+Montana St.,Sacramento St.,2
+East Carolina,Marshall,0.9
+Southeastern Louisiana,Lamar,1.3
+Harvard,Cornell,0.9
+Fresno St.,Nevada Las Vegas,0.9
+Richmond,Duquesne,2
+Brown,Princeton,1.3
+Baylor,Kansas,2
+Air Force,New Mexico,0.5
+Butler,Xavier,0.9
+Washington St.,Southern California,2
+Denver,Louisiana Tech,2
+Dartmouth,Columbia,0.9
+Yale,Pennsylvania,1.3
+Stephen F. Austin,Texas A&M Corpus Chris,0.9
+Texas Pan American,NJ Inst of Technology,2
+Tulsa,Rice,0.9
+Pacific,Long Beach St.,2
+Southern Mississippi,Central Florida,0.9
+Houston,Tulane,0.5
+Chicago St.,Houston Baptist,1.3
+Colorado St.,Nevada,1.3
+New Mexico St.,Texas Arlington,0.5
+Utah St.,Texas San Antonio,2
+Weber St.,Eastern Washington,0.9
+Duke,North Carolina,2
+Cal St. Bakersfield,Utah Valley,2
+Idaho St.,Portland St.,0.5
+UC Santa Barbara,UC Riverside,1.3
+UC Irvine,UC Davis,0.5
+Texas St.,San Jose St.,2
+Cal Poly,Cal St. Fullerton,0.5
+Idaho,Seattle,0.5
+Temple,Virginia Commonwealth,0.9
+Wisconsin,Penn St.,0.5
+Wake Forest,Virginia Tech,1.3
+Ohio St.,Illinois,1.3
+Indiana,Michigan,0.5
+Michigan St.,Northwestern,1.3
+Jackson St.,Alcorn St.,1.3
+Alcorn St.,Jackson St.,0.5
+Savannah St.,Western Illinois,0.5
+Western Illinois,Savannah St.,0.5
+Western Illinois,Wabash,2
+Army,Virginia Military Inst,0.9
+Alcorn St.,Oakwood,2
+Air Force,The Citadel,0.9
+Temple,Alcorn St.,2
+Fairfield,Pennsylvania,0.9
+IUPUI,Bowling Green,1.3
+Robert Morris,Fordham,2
+Delaware,Virginia,0.9
+North Texas,Lamar,2
+Columbia,Haverford,2
+Michigan,Cleveland St.,2
+Pittsburgh,Lehigh,2
+Kansas St.,Alabama Huntsville,2
+Oklahoma St.,Tennessee,2
+Colorado,Baylor,0.5
+Akron,NC Asheville,2
+Dayton,Boston College,2
+North Carolina St.,Massachusetts,2
+Oregon St.,Purdue,0.9
+Murray St.,St. John's,0.9
+Alabama,Villanova,2
+Auburn,College of Charleston,0.5
+Kansas St.,Delaware,0.5
+Michigan,Pittsburgh,0.9
+Illinois Chicago,Mercer,2
+Iona,Wake Forest,2
+Notre Dame,Brigham Young,1.3
+Florida St.,Saint Joseph's,0.9
+Providence,NC Asheville,0.9
+College of Charleston,Boston College,0.5
+Akron,Penn St.,2
+Dayton,Auburn,1.3
+Tennessee,Massachusetts,1.3
+New Mexico,George Mason,0.5
+Baylor,St. John's,2
+Cal St. Northridge,Northern Kentucky,1.3
+Oklahoma St.,North Carolina St.,2
+Colorado,Murray St.,0.9
+Lamar,IUPUI,0.5
+Bowling Green,Alabama Huntsville,1.3
+Fairfield,Fordham,0.5
+Virginia,North Texas,2
+Ohio,Hampton,0.9
+Robert Morris,Cleveland St.,0.9
+Lehigh,Pennsylvania,0.9
+Cal St. Bakersfield,Westmont,0.5
+Wake Forest,Mercer,0.5
+Illinois Chicago,Iona,0.9
+North Texas,IUPUI,1.3
+Cleveland St.,Alabama Huntsville,0.5
+Fordham,Pennsylvania,0.5
+Virginia,Lamar,2
+Robert Morris,Bowling Green,1.3
+Lehigh,Fairfield,2
+Southern Methodist,Malone,2
+Missouri Kansas City,Norfolk St.,0.9
+Colgate,Coppin St.,0.5
+Loyola MD,Albany,0.5
+Ohio St.,Washington,1.3
+Seton Hall,Rhode Island,0.9
+George Mason,Quinnipiac,2
+New Mexico,Connecticut,0.9
+Marquette,Mississippi St.,2
+Texas A&M,Washington St.,0.5
+UCLA,Georgia,0.5
+Butler,North Carolina,1.3
+Kansas,St. Louis,1.3
+Illinois,Chaminade,2
+Western Carolina,Howard,0.5
+Texas,Mississippi St.,1.3
+Gardner Webb,Austin Peay,1.3
+Marquette,Southern California,0.9
+Western Kentucky,DePaul,0.9
+North Carolina,Chaminade,2
+Wichita St.,Iowa,1.3
+Illinois,Butler,2
+Florida Gulf Coast,Toledo,0.9
+Pittsburgh,Delaware,2
+Rider,Jacksonville,2
+Michigan,Kansas St.,1.3
+Northeastern,Belmont,0.5
+Davidson,West Virginia,0.5
+Minnesota,Memphis,0.9
+Marist,Vanderbilt,2
+Stanford,Northern Iowa,2
+Pacific,St. Mary's,1.3
+Alaska Anchorage,UC Riverside,0.5
+Clemson,Texas El Paso,2
+Xavier,Drexel,0.5
+Loyola Marymount,Texas St.,2
+Duke,Virginia Commonwealth,0.9
+Gonzaga,Oklahoma,2
+Louisville,Missouri,2
+Drake,Rice,1.3
+California,Georgia Tech,1.3
+Charlotte,Oral Roberts,1.3
+Navy,Delaware St.,1.3
+Memphis,Northern Iowa,0.9
+Northern Arizona,Campbell,0.9
+Florida A&M,Presbyterian,1.3
+Fairleigh Dickinson,Prairie View A&M,1.3
+Minnesota,Stanford,0.5
+Texas St.,UC Riverside,1.3
+Jacksonville,Wisconsin Milwaukee,0.9
+Nebraska Omaha,Chicago St.,0.5
+Cornell,Longwood,0.9
+Texas Christian,UAB,0.5
+Alaska Anchorage,Loyola Marymount,0.9
+Missouri,Virginia Commonwealth,0.5
+Buffalo,Mansfield,2
+Nevada Las Vegas,Iowa St.,1.3
+Valparaiso,Bethune Cookman,1.3
+Wisconsin,Arkansas,0.9
+Duke,Louisville,0.9
+Belmont,Oral Roberts,0.5
+Cincinnati,Oregon,1.3
+Creighton,Arizona St.,1.3
+Charlotte,Northeastern,0.9
+Clemson,Marist,2
+Xavier,Drake,0.5
+Vanderbilt,Texas El Paso,2
+Drexel,Rice,0.9
+Oklahoma,West Virginia,0.9
+Georgia Tech,St. Mary's,0.9
+Gonzaga,Davidson,1.3
+Southern Methodist,Missouri St.,0.5
+California,Pacific,2
+South Carolina,Arkansas Little Rock,1.3
+Brigham Young,Utah St.,0.5
+Tennessee St.,Le Moyne Owen,2
+Detroit,Alcorn St.,2
+Santa Clara,Wagner,2
+Southern Methodist,Alcorn St.,2
+Cal St. Fullerton,Hope International,2
+Mississippi,San Francisco,0.9
+Cal St. Bakersfield,Mississippi Valley St.,0.9
+San Diego St.,Indiana St.,0.9
+North Florida,Georgia Southern,2
+Central Michigan,Arkansas Pine Bluff,2
+Portland,Bradley,0.5
+Texas El Paso,Nebraska,2
+Hawaii,East Tennessee St.,2
+Colorado St.,Virginia Tech,2
+Arizona,Miami FL,2
+San Francisco,East Tennessee St.,2
+Mississippi,Hawaii,2
+Arizona,San Diego St.,0.5
+Central Florida,Belmont,0.5
+High Point,Austin Peay,0.5
+Boston University,Howard,2
+Chattanooga,Utah Valley,0.9
+Western Illinois,Greenville,2
+Savannah St.,Allen,2
+St. Francis NY,Robert Morris,1.3
+New Orleans,Champion Baptist,2
+Ohio,Eastern Michigan,2
+Indiana St.,Iona,0.5
+Gardner Webb,College of Charleston,0.5
+Manhattan,Buffalo,0.5
+Winthrop,Southeastern Louisiana,1.3
+Jacksonville St.,NC Asheville,0.5
+Rider,Charleston Southern,0.9
+Marist,Virginia Military Inst,2
+St. Peter's,Hampton,0.9
+Tennessee Martin,Longwood,1.3
+Texas San Antonio,Nicholls St.,2
+Vermont,Canisius,0.9
+Valparaiso,Eastern Kentucky,2
+Texas St.,Lamar,1.3
+Western Michigan,Pacific,0.9
+Evansville,Wright St.,1.3
+Toledo,McNeese St.,1.3
+Cal St. Fullerton,Texas A&M Corpus Chris,0.9
+Nebraska Omaha,North Dakota,0.9
+Western Carolina,Coastal Carolina,1.3
+UC Davis,Northern Colorado,0.5
+Portland St.,UC Riverside,0.9
+Niagara,Northwestern St.,2
+Sacramento St.,UC Santa Barbara,0.5
+Eastern Illinois,Northern Illinois,1.3
+Kent St.,Loyola Chicago,0.9
+Wichita St.,Detroit,2
+Savannah St.,Campbell,0.9
+Bradley,Illinois Chicago,0.5
+Idaho,Idaho St.,0.9
+Eastern Washington,Sam Houston St.,0.9
+Missouri St.,Eastern Michigan,0.5
+Central Arkansas,SIU Edwardsville,0.5
+UC Irvine,Texas Arlington,0.9
+St. Mary's,Creighton,0.9
+Morgan St.,High Point,0.9
+Albany,Fairfield,0.9
+IUPU Fort Wayne,Bowling Green,1.3
+Youngstown St.,Central Michigan,1.3
+Presbyterian,The Citadel,0.5
+Tennessee Tech,Missouri Kansas City,0.9
+Ball St.,Southeast Missouri St.,0.5
+Murray St.,South Dakota St.,1.3
+Loyola MD,Tennessee St.,0.5
+Denver,Northern Iowa,0.9
+Drake,Wisconsin Green Bay,2
+Weber St.,Oral Roberts,0.5
+Utah St.,Illinois St.,0.9
+Southern Utah,Cal St. Northridge,0.5
+Belmont,Ohio,2
+Cal Poly,Loyola Marymount,0.5
+Hawaii,Northern Arizona,2
+Akron,North Dakota St.,2
+Stephen F. Austin,Long Beach St.,0.9
+Temple,Detroit,0.9
+Colgate,Navy,1.3
+South Dakota,Montana St.,1.3
+Cleveland St.,Western Illinois,0.9
+IUPU Fort Wayne,Oakland,2
+North Dakota St.,Missouri Kansas City,1.3
+George Mason,Drexel,0.9
+Delaware,Hofstra,0.9
+South Dakota St.,IUPUI,2
+Florida International,Arkansas Little Rock,2
+James Madison,William & Mary,0.9
+Western Illinois,South Dakota,0.5
+Georgia Southern,Wofford,2
+Furman,Samford,0.5
+Indiana St.,Evansville,0.5
+NC Greensboro,Chattanooga,0.9
+Bowling Green,Buffalo,1.3
+Western Kentucky,Louisiana Monroe,1.3
+Kent St.,Akron,0.5
+Louisiana Lafayette,North Texas,2
+Western Carolina,The Citadel,2
+Illinois St.,Northern Iowa,0.9
+Stetson,East Tennessee St.,2
+Drake,Bradley,2
+South Carolina Upstate,Jacksonville,1.3
+Missouri St.,Southern Illinois,0.9
+San Diego,Pepperdine,0.5
+Florida Gulf Coast,North Florida,1.3
+Morehead St.,Tennessee Martin,0.9
+Bucknell,Navy,2
+Long Island,Quinnipiac,0.9
+Robert Morris,St. Francis NY,2
+Wagner,Central Connecticut,2
+Lehigh,Colgate,0.9
+Mount St. Mary's,Bryant,0.9
+Army,American,2
+Lafayette,Holy Cross,2
+Mercer,Lipscomb,2
+Southeast Missouri St.,Eastern Illinois,1.3
+Loyola Marymount,Portland,1.3
+Longwood,NC Asheville,2
+Youngstown St.,Loyola Chicago,0.5
+Liberty,Coastal Carolina,2
+Wisconsin Green Bay,Wisconsin Milwaukee,2
+Illinois Chicago,Cleveland St.,2
+Vermont,New Hampshire,2
+MD Baltimore County,Hartford,0.9
+Iona,Canisius,0.5
+Stony Brook,Binghamton,2
+Albany,Maine,0.5
+Manhattan,Loyola MD,0.5
+Siena,Marist,0.9
+Fairfield,St. Peter's,0.9
+Wright St.,Youngstown St.,0.9
+Wisconsin Green Bay,Illinois Chicago,0.5
+Charleston Southern,Winthrop,0.9
+Virginia Military Inst,Longwood,0.5
+Gardner Webb,Campbell,1.3
+Liberty,High Point,0.5
+Long Island,Wagner,1.3
+Lafayette,Lehigh,1.3
+Mount St. Mary's,Robert Morris,0.9
+Bucknell,Army,0.9
+Tennessee St.,Morehead St.,1.3
+Eastern Kentucky,Southeast Missouri St.,2
+Savannah St.,Maryland Eastern Shore,2
+Charleston Southern,Virginia Military Inst,0.9
+Liberty,Gardner Webb,0.5
+Creighton,Drake,1.3
+Mercer,South Carolina Upstate,0.9
+Belmont,Tennessee St.,0.9
+Wichita St.,Missouri St.,1.3
+Florida Gulf Coast,Stetson,1.3
+Murray St.,Eastern Kentucky,0.9
+Loyola Marymount,Santa Clara,0.5
+San Diego,Brigham Young,0.5
+Davidson,Georgia Southern,2
+Florida Gulf Coast,Mercer,1.3
+Niagara,Siena,1.3
+Appalachian St.,Furman,1.3
+Creighton,Indiana St.,2
+Wichita St.,Illinois St.,2
+Wright St.,Detroit,0.5
+Elon,NC Greensboro,0.9
+Fairfield,Rider,0.5
+Middle Tennessee,Louisiana Lafayette,2
+Valparaiso,Wisconsin Green Bay,0.5
+College of Charleston,Western Carolina,0.9
+Gonzaga,Loyola Marymount,2
+Western Kentucky,South Alabama,0.5
+Liberty,Charleston Southern,1.3
+Northeastern,George Mason,0.5
+Iona,Niagara,0.9
+Creighton,Wichita St.,0.5
+James Madison,Delaware,0.5
+Manhattan,Fairfield,2
+Albany,Stony Brook,0.5
+Davidson,Appalachian St.,0.5
+Vermont,MD Baltimore County,1.3
+Florida International,Middle Tennessee,0.5
+College of Charleston,Elon,0.9
+Western Kentucky,Arkansas St.,0.5
+Miami OH,Bowling Green,1.3
+Eastern Michigan,Northern Illinois,0.5
+Gonzaga,St. Mary's,1.3
+James Madison,Northeastern,1.3
+Davidson,College of Charleston,2
+South Dakota St.,IUPU Fort Wayne,2
+Iona,Manhattan,0.5
+North Dakota St.,Western Illinois,1.3
+Western Kentucky,Florida International,0.5

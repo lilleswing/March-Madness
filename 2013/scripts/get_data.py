@@ -1,3 +1,4 @@
+import DAO.godDAO
 import re
 import requests
 #lines = open("index.php", 'r').readlines()
@@ -6,7 +7,7 @@ headers = {
     'Accept-Encoding': 'gzip,deflate,sdch',
     'Accept-Language': 'en-US,en;q=0.8',
     'Accept': 'text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8',
-    'Cookie': 'PHPSESSID=ga4fkbh7cnvc1vpbbap97snpa6; __utma=8968239.854906495.1361545473.1361545473.1361545473.1; __utmb=8968239.11.10.1361545473; __utmc=8968239; __utmz=8968239.1361545473.1.1.utmcsr=(direct)|utmccn=(direct)|utmcmd=(none)'
+    'Cookie': 'PHPSESSID=ga4fkbh7cnvc1vpbbap97snpa6; kenpomtry=http%3A%2F%2Fkenpom.com%2Fbox.php%3Fg%3D1; __utma=8968239.854906495.1361545473.1362618996.1363095543.5; __utmb=8968239.10.10.1363095543; __utmc=8968239; __utmz=8968239.1361545473.1.1.utmcsr=(direct)|utmccn=(direct)|utmcmd=(none)'
 }
 point_map = {
     0: 0.0,
@@ -64,6 +65,7 @@ def get_training_data(num_games=6000):
 
             p2 = avg_points[g2[0]]
             avg_points[g2[0]] = (float(g2[1]) + p2[0], float(g1[1]) + p2[1], p2[2] + 1)
+            print "success"
         except:
             print "FAILURE"
     for entry in entries:
@@ -75,6 +77,7 @@ def get_training_data(num_games=6000):
     for g in entries:
         fout.write("%s,%s,%s\n" % (g[0], g[1], g[2]))
     fout.close()
+    DAO.godDAO.add_games(2013, entries)
 
     fout = open('../data/avg_points.txt', 'w')
     for g in avg_points.keys():
@@ -82,6 +85,7 @@ def get_training_data(num_games=6000):
         points_for = float(t[0]) / float(t[2])
         points_against = float(t[1]) / float(t[2])
         fout.write("%s,%f,%f\n" % (g, points_for, points_against))
+        DAO.godDAO.add_avgpoints(2013, [g, points_for, points_against])
     fout.close()
 
 
@@ -129,6 +133,7 @@ def get_mass_data():
             matrix_data[j][i] = (matrix_data[j][i] - normalizers[i][0]) / normalizers[i][1]
     fout = open('../data/data.txt', 'w')
     for i in xrange(0, len(name_list)):
+        DAO.godDAO.add_team(2013, name_list[i], matrix_data[i])
         fout.write("%s,%s\n" % (name_list[i], ",".join(map(lambda x: str(x), matrix_data[i]))))
     fout.close()
     return data
@@ -145,5 +150,5 @@ def get_team_names():
 
 
 if __name__ == '__main__':
-    records = get_training_data(4600)
+    records = get_training_data()
     data = get_mass_data()
