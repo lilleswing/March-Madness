@@ -27,24 +27,24 @@ def create_tables():
     conn.commit()
 
 
-def get_avgpoints(year):
+def get_avgpoints():
     teams = dict()
-    curr.execute('SELECT * from avgpoints where year=?', (year,))
+    curr.execute('SELECT * from avgpoints')
     for team in curr:
-        teams[team[1]] = team[2:]
+        teams[(team[0], team[1])] = team[2:]
     return teams
 
 
-def get_games(year):
-    curr.execute('SELECT * from games where year=?', (year,))
-    return map(lambda x: x[1:], curr.fetchall())
+def get_games():
+    curr.execute('SELECT * from games')
+    return map(lambda x: [(x[0], x[1]), (x[0], x[2]), x[3]], curr.fetchall())
 
 
-def get_teams(year):
+def get_teams():
     teams = dict()
-    curr.execute('SELECT * from teams where year=?', (year,))
+    curr.execute('SELECT * from teams')
     for team in curr:
-        teams[team[1]] = team[2:]
+        teams[(team[0], team[1])] = team[2:]
     return teams
 
 
@@ -56,7 +56,7 @@ def add_avgpoints(year, avgpoints):
 
 def add_games(year, games):
     games = map(lambda x: tuple([year] + x), games)
-    curr.executemany('INSERT OR REPLACE INTO games VALUES (?,?,?,?)', game)
+    curr.executemany('INSERT OR REPLACE INTO games VALUES (?,?,?,?)', games)
     conn.commit()
 
 

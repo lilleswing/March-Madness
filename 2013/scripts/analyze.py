@@ -24,9 +24,9 @@ def get_training_data():
     global games
     global team_dict
     global avgpoints
-    games = godDAO.get_games(2013)
-    team_dict = godDAO.get_teams(2013)
-    avgpoints = godDAO.get_avgpoints(2013)
+    games = godDAO.get_games()
+    team_dict = godDAO.get_teams()
+    avgpoints = godDAO.get_avgpoints()
     ds = SupervisedDataSet(60, 1)
     count = 0
     for game in games:
@@ -64,6 +64,7 @@ def get_game_score(team1, team2, ival):
 
 def play_tourney(bracket_file, net):
     bracket = map(string.strip, open(bracket_file).readlines())
+    bracket = map(lambda x: (2013, x), bracket)
     winners = list()
     while len(bracket) > 1:
         team1 = bracket.pop(0)
@@ -76,10 +77,10 @@ def play_tourney(bracket_file, net):
         score = get_game_score(team1, team2, i)
         if i > 0:
             bracket.append(team1)
-            winners.append((team1, score))
+            winners.append((team1[1], score))
         else:
             bracket.append(team2)
-            winners.append((team2, score))
+            winners.append((team2[1], score))
     return winners
 
 
