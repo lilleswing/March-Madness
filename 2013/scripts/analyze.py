@@ -104,22 +104,26 @@ def get_games_won(net):
 
 
 if __name__ == '__main__':
-    net = buildNetwork(60, 100, 100, 1, hiddenclass=TanhLayer, bias=True)
+    #net = buildNetwork(60, 100, 100, 1, hiddenclass=TanhLayer, bias=True)
+    net = pickle.load(open('../data/networks/0483.dump'))
+    net.sorted = False
+    net.sortModules()
     ds = get_training_data()
     trainer = BackpropTrainer(net, ds)
     print "starting training"
-    iteration = 0
+    iteration = 485
     min_error = float('inf')
     winners = list(['Virginia'] * 63)
     while True:
         error = trainer.train()
+        print "Iteration = %s" % iteration
         if error < min_error:
             min_error = error
-            print error
+            print "Error = %s" % error
             winners = play_tourney('../data/bracketkenpom.txt', net)
             print get_games_won(net)
             pickle.dump(net, open('../data/networks/%04d.dump' % iteration, 'w'))
-        make_bracket.make_bracket(winners, "../data/images/time-series/%04d.png" % iteration)
+        #make_bracket.make_bracket(winners, "../data/images/time-series/%04d.png" % iteration)
         iteration += 1
 
 

@@ -7,7 +7,7 @@ headers = {
     'Accept-Encoding': 'gzip,deflate,sdch',
     'Accept-Language': 'en-US,en;q=0.8',
     'Accept': 'text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8',
-    'Cookie': ''
+    'Cookie': 'PHPSESSID=ga4fkbh7cnvc1vpbbap97snpa6; kenpomtry=http%3A%2F%2Fkenpom.com%2Fbox.php%3Fg%3D1; __utma=8968239.854906495.1361545473.1362618996.1363095543.5; __utmb=8968239.10.10.1363095543; __utmc=8968239; __utmz=8968239.1361545473.1.1.utmcsr=(direct)|utmccn=(direct)|utmcmd=(none)'
 }
 point_map = {
     0: 0.0,
