@@ -1,6 +1,3 @@
-Get Pictures For Teams
-Predict Every Score
-Move to SQL Lite + DAO objects instead of CSV text files
-Previous Year Data
 Home Field Advantage
-Serialize Networks so don't have to recompute for real bracket
+Write Zipper into youtube video
+Document on web page methodology and improvements.
