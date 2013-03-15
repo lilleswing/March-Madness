@@ -17,5 +17,5 @@ def cipher(infile, outfile, padfile):
 if __name__ == '__main__':
     infile = sys.argv[1]
     padfile = sys.argv[2]
-    outfile = os.path.join(os.path.dirname(os.path.abspath(infile)), 'kenpom_restored.db')
+    outfile = os.path.join(os.path.dirname(os.path.abspath(infile)), 'kenpom.db')
     cipher(open(infile), open(outfile, 'wb'), open(padfile))
