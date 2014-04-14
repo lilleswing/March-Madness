@@ -104,8 +104,7 @@ def get_games_won(net):
 
 
 if __name__ == '__main__':
-    #net = buildNetwork(60, 100, 100, 1, hiddenclass=TanhLayer, bias=True)
-    net = pickle.load(open('../data/networks/0483.dump'))
+    net = buildNetwork(60, 100, 100, 1, hiddenclass=TanhLayer, bias=True)
     net.sorted = False
     net.sortModules()
     ds = get_training_data()
