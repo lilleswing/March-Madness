@@ -28,7 +28,8 @@ def get_training_data():
     team_dict = godDAO.get_teams()
     avgpoints = godDAO.get_avgpoints()
     ds = SupervisedDataSet(60, 1)
-    count = 0
+    bad_games = 0
+    good_games = 0
     for game in games:
         try:
             team1 = team_dict[game[0]]
@@ -38,10 +39,12 @@ def get_training_data():
 
             ds.addSample(game1, (float(game[2]),))
             ds.addSample(game2, (-1 * float(game[2]),))
+            good_games += 1
         except:
-            count += 1
+            bad_games += 1
             #print game
-    print("%s games not added to training" % count)
+    print("%s games added to training" % good_games)
+    print("%s games NOT added to training" % bad_games)
     return ds
 
 
