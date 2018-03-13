@@ -213,7 +213,7 @@ def get_bracket(year=208):
         'Auburn',
         'College+of+Charleston',
         'TCU',
-        'Syracuse',
+        'Arizona+St.',
         'Michigan+St.',
         'Bucknell',
         'Rhode+Island',
@@ -223,7 +223,7 @@ def get_bracket(year=208):
     ]
     return bracket
 
-if __name__ == "__main__":
+def run_full_bracket():
     bracket = get_bracket()
     all_winners, all_scores = play_tourney(bracket)
     print(all_winners)
@@ -234,4 +234,22 @@ if __name__ == "__main__":
     with open('2018_final_scores.json', 'w') as fout:
         s = json.dumps(all_scores)
         fout.write(s)
+
+def play_one_game(t1, t2):
+    team_dict = get_team_dict()
+    retval = play_game(t1, t2, team_dict)
+    return retval[0], retval[1] * 16.0
+
+
+if __name__ == "__main__":
+    #run_full_bracket()
+    print(play_one_game('Virginia', 'Arizona'))
+    print(play_one_game('Virginia', 'Kentucky'))
+    #print(play_one_game('Duke', 'Michigan+St.'))
+    #print(play_one_game('Duke', 'Kansas'))
+    #print(play_one_game('Radford', 'LIU+Brooklyn'))
+    #print(play_one_game('Arizona+St.', 'Syracuse'))
+    #print(play_one_game('St.+Bonaventure', 'UCLA'))
+    #print(play_one_game('North+Carolina+Central', 'Texas+Southern'))
+
 
