@@ -7,7 +7,7 @@ Games highlighted in green were predicted to be within 2 points.
 ## About the Model
 The model uses a dense neural network with the following
 feature values from kenpom. The final Network had a structure of
-** 76 features per game -> 64 relu -> 32 relu -> 1 linear**
+**76 features per game -> 64 relu -> 32 relu -> 1 linear**
 These are the features used
 * RankAdjOE
 * RankAdjDE
