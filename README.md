@@ -58,7 +58,7 @@ random holdout.
 
 For core prediction we get a pearson r^2 of 0.5 from a random split holdout set,
 bootstrapped and averaged over 5 trials.
-[scatter](2018/img/scores_scatter.png)
+![scatter](2018/img/scores_scatter.png)
 
 We see very good enrichment and trend, but the vertical gap is still large.
 
@@ -66,7 +66,7 @@ We see very good enrichment and trend, but the vertical gap is still large.
 After throwing the model through [LIME](https://homes.cs.washington.edu/~marcotcr/blog/lime/)
 for model interpretability the most important features were Adjusted Offensive Efficiency,
 Strength of Schedule Offense, and Strength of Schedule Defense.
-[feature importance](2018/img/feature_importance.png)
+![feature importance](2018/img/feature_importance.png)
 
 
 ## Play Ins
