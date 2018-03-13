@@ -130,7 +130,7 @@ def predict(keys, ds):
     retval = None
     for key in keys:
         for fold in range(5):
-            model_dir = 'models/%s/%s' % (key, 0)
+            model_dir = 'models/%s/%s' % (key, fold)
             model = dc.models.TensorGraph.load_from_dir(model_dir)
             y_pred = model.predict(ds)
             y_pred = np.reshape(y_pred, newshape=(y_pred.shape[0], 1))
@@ -243,13 +243,13 @@ def play_one_game(t1, t2):
 
 if __name__ == "__main__":
     #run_full_bracket()
-    print(play_one_game('Virginia', 'Arizona'))
-    print(play_one_game('Virginia', 'Kentucky'))
+    #print(play_one_game('Virginia', 'Arizona'))
+    #print(play_one_game('Virginia', 'Kentucky'))
     #print(play_one_game('Duke', 'Michigan+St.'))
     #print(play_one_game('Duke', 'Kansas'))
-    #print(play_one_game('Radford', 'LIU+Brooklyn'))
-    #print(play_one_game('Arizona+St.', 'Syracuse'))
-    #print(play_one_game('St.+Bonaventure', 'UCLA'))
-    #print(play_one_game('North+Carolina+Central', 'Texas+Southern'))
+    print(play_one_game('Radford', 'LIU+Brooklyn'))
+    print(play_one_game('Arizona+St.', 'Syracuse'))
+    print(play_one_game('St.+Bonaventure', 'UCLA'))
+    print(play_one_game('North+Carolina+Central', 'Texas+Southern'))
 
 
