@@ -4,6 +4,71 @@ Neural Networks for March Madness
 
 Games highlighted in green were predicted to be within 2 points.
 
+## About the Model
+The model uses a dense neural network with the following
+feature values from kenpom. The final Network had a structure of
+** 76 features per game -> 64 relu -> 32 relu -> 1 linear**
+These are the features used
+* RankAdjOE
+* RankAdjDE
+* RankAdjTempo
+* RankAPL_Off
+* RankAPL_Def
+* RankeFG_Pct
+* RankDeFG_Pct
+* RankTO_Pct
+* RankDTO_Pct
+* RankOR_Pct
+* RankDOR_Pct
+* RankFT_Rate
+* RankDFT_Rate
+* RankDFT_Rate
+* RankFG3Pct
+* RankFG3Pct&od=d
+* RankFG2Pct
+* RankFG2Pct&od=d
+* RankFTPct
+* RankFTPct&od=d
+* RankBlockPct
+* RankBlockPct&od=d
+* RankStlRate
+* RankStlRate&od=d
+* RankF3GRate
+* RankF3GRate&od=d
+* RankARate
+* RankARate&od=d
+* RankOff_3
+* RankDef_3
+* RankOff_2
+* RankDef_2
+* RankOff_1
+* RankDef_1
+* RankSOSO
+* RankSOSD
+* ExpRank
+* SizeRank
+
+To play a "game" we append the two teams feature vectors and the network
+learns the final score with positive values if the first team won.
+We "play" the game in both orientations and average the results.
+
+## Model Performance
+We classify based on the sign of the result **74%** of games correctly given a
+random holdout.
+
+For core prediction we get a pearson r^2 of 0.5 from a random split holdout set,
+bootstrapped and averaged over 5 trials.
+[scatter](2018/img/scores_scatter.png)
+
+We see very good enrichment and trend, but the vertical gap is still large.
+
+## Feature Importance
+After throwing the model through [LIME](https://homes.cs.washington.edu/~marcotcr/blog/lime/)
+for model interpretability the most important features were Adjusted Offensive Efficiency,
+Strength of Schedule Offense, and Strength of Schedule Defense.
+[feature importance](2018/img/feature_importance.png)
+
+
 ## Play Ins
 **Radford**,LIU+Brooklyn,10.799
 
@@ -148,3 +213,15 @@ Kansas,**Duke**,+10.188324621956593
 
 ## Round of 2
 **Virginia**,Villanova,+0.09199991762398306
+
+
+## Misc Notes
+The feature vector we have is lacking in a number of ways.
+
+### Missing Features
+We can add home field advantage in this scheme fairly easily.  I also didn't
+encode defensive fingerprint data from kenpom as a one-hot encoded value.
+
+## Player Values
+These team fingerprints are also a snapshot in time, they don't cover things
+like players going on and coming back from injury.
