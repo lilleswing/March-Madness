@@ -89,7 +89,6 @@ def run_training():
         fout.write(json.dumps(best_parameters))
 
     pickle.dump(values, open('models/values.pkl', 'wb'))
-    pickle.dump(experiment, open('models/experiment.pkl', 'wb'))
 
     model_key = hashlib.md5(str(best_parameters).encode('utf-8')).hexdigest()
     with open('models/best_model.txt','w') as fout:

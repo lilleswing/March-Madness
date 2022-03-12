@@ -87,6 +87,24 @@ def convert_to_games(predictions, year):
     return results
 
 
+def get_probability(v, bounds, probs):
+    for b, p in zip(bounds, probs):
+        if b > v:
+            return p
+    raise ValueError
+
+
+def prob_predictions(predictions):
+    if not os.path.exists('model_results/probs_and_bounds.json'):
+        return None
+    my_prob_predictions = dict(predictions)
+    d = json.loads(open('model_results/probs_and_bounds.json').read())
+    for k, v in predictions.items():
+        my_prob = get_probability(v, d['bounds'], d['probs'])
+        my_prob_predictions[k] = my_prob
+    return my_prob_predictions
+
+
 def play_year(year):
     with open('models/best_params.json', 'r') as fin:
         best_params = json.loads(fin.read())
@@ -95,8 +113,15 @@ def play_year(year):
     ds = create_dataset(year)
     predictions = make_predictions(ds, model_key)
     predictions = convert_to_games(predictions, year)
-    with open(f'results_{year}.json', 'w') as fout:
+    os.makedirs('model_results', exist_ok=True)
+    with open(f'model_results/results_{year}.json', 'w') as fout:
         fout.write(json.dumps(predictions, indent=4, sort_keys=True))
+
+    my_prob_predictions = prob_predictions(predictions)
+    if my_prob_predictions is None:
+        return
+    with open(f'model_results/results_probs_{year}.json', 'w') as fout:
+        fout.write(json.dumps(my_prob_predictions, indent=4, sort_keys=True))
 
 
 def main():
