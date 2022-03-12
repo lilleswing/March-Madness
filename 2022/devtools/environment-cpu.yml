@@ -1,0 +1,8 @@
+name: ml_starter
+channels:
+  - conda-forge
+  - pytorch
+dependencies:
+  - pytorch::pytorch==1.9.*
+  - conda-forge::python>=3.9
+  - conda-forge::pytest

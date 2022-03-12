@@ -1,0 +1,13 @@
+name: ad-backtest
+channels:
+  - conda-forge
+dependencies:
+  - conda-forge::python>=3.9
+  - conda-forge::pytest
+  - conda-forge::requests
+  - conda-forge::jupyterlab
+  - conda-forge::google-cloud-storage
+  - conda-forge::google-cloud-sdk
+  - conda-forge::google-auth-oauthlib
+  - conda-forge::pyyaml
+  - conda-forge::pandas
