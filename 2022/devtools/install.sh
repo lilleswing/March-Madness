@@ -34,7 +34,3 @@ conda env create --name=${ENV_NAME} -f environment.yml
 source activate ${ENV_NAME}
 pip install https://tentacruel.bb.schrodinger.com/public/ligand_ml/master/ligand_ml-0.0.0-py3-none-any.whl
 echo "Installed $ENV_NAME conda environment"
-
-scp -r boltio:/nfs/working/deep_learn/leswing/madness/2022/datasets ./
-scp -r boltio:/nfs/working/deep_learn/leswing/madness/2022/team_fvs.json ./
-scp -r boltio:/nfs/working/deep_learn/leswing/madness/2022/transformers.pkl ./
