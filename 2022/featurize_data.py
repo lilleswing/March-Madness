@@ -141,6 +141,7 @@ def create_transformers(ds):
     t1 = X[:, :n_features]
 
     win_loss_x = np.concatenate([t1, t1], axis=1)
+    win_loss_x = np.concatenate([win_loss_x, win_loss_x], axis=0)
     win_loss_y = np.concatenate([ds.y, ds.y * -1], axis=0)
     win_loss_ds = NumpyDataset(win_loss_x, win_loss_y)
     transformers = [

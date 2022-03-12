@@ -1,5 +1,5 @@
 #!/bin/bash
-export DATA_VERSION="1"
+export DATA_VERSION="2"
 bash devtools/install.sh
 export PATH=$(pwd)/anaconda/bin:$PATH
 source activate ml_starter
