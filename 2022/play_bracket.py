@@ -50,11 +50,13 @@ def create_dataset(year):
 
 
 def make_predictions(ds, model_key):
+    transformers = load_transformers()
     all_preds = []
     for fold in range(5):
         path = os.path.join('models', model_key, str(fold))
         d = DenseModel(path, mode='regression')
         preds = np.squeeze(d.predict(ds))
+        preds = transformers[1].untransform(preds)
         all_preds.append(preds)
 
     retval = np.mean(all_preds, axis=0)

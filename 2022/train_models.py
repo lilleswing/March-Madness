@@ -83,7 +83,7 @@ def run_training():
         evaluation_function=eval_model_closure(),
         objective_name='r2_score',
         minimize=False,
-        total_trials=250
+        total_trials=2
     )
     with open('models/best_params.json', 'w') as fout:
         fout.write(json.dumps(best_parameters))
