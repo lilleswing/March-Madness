@@ -51,9 +51,9 @@ def eval_model_closure():
 
         for i, fold in enumerate(folds):
             params['fp_size'] = 0
-            params['num_features'] = 78
 
             train, valid = fold
+            params['num_features'] = train.X.shape[1]
             model_path = 'models/%s/%s' % (model_key, i)
             d = DenseModel(model_path, mode='regression', parameters=params)
             d.fit(train, extra_params['epochs'], extra_params['batch_size'])
