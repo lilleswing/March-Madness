@@ -1,5 +1,16 @@
 .PHONY: clean
 
+
+load-model:
+	scp -r boltio:/nfs/working/deep_learn/leswing/madness/2022/featurized/${BUILD_NUMBER}/datasets ./
+	scp -r boltio:/nfs/working/deep_learn/leswing/madness/2022/featurized/${BUILD_NUMBER}/team_fvs.jzon ./
+	scp -r boltio:/nfs/working/deep_learn/leswing/madness/2022/featurized/${BUILD_NUMBER}/transformers.pkl ./
+
+	scp -r boltio:/nfs/working/deep_learn/leswing/madness/models/${MODEL_NUMBER} ./
+	mv ${MODEL_NUMBER} models
+
+
+
 upload-dataset:  ## Clean up and removing virtualenv
 	scp boltio:/nfs/working/deep_learn/leswing/madness/2022/featurized/3/datasets/default_params.json datasets
 	scp -r datasets boltio:/nfs/working/deep_learn/leswing/madness/2022/featurized/${BUILD_NUMBER}
