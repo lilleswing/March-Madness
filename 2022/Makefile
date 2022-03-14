@@ -3,7 +3,7 @@
 
 load-model:
 	scp -r boltio:/nfs/working/deep_learn/leswing/madness/2022/featurized/${BUILD_NUMBER}/datasets ./
-	scp -r boltio:/nfs/working/deep_learn/leswing/madness/2022/featurized/${BUILD_NUMBER}/team_fvs.jzon ./
+	scp -r boltio:/nfs/working/deep_learn/leswing/madness/2022/featurized/${BUILD_NUMBER}/team_fvs.json ./
 	scp -r boltio:/nfs/working/deep_learn/leswing/madness/2022/featurized/${BUILD_NUMBER}/transformers.pkl ./
 
 	scp -r boltio:/nfs/working/deep_learn/leswing/madness/models/${MODEL_NUMBER} ./

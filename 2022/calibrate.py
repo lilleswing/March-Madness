@@ -156,11 +156,12 @@ def main():
         best_params = json.loads(fin.read())
     model_key = hashlib.md5(str(best_params).encode('utf-8')).hexdigest()
     all_game_df = get_all_games(model_key)
-    probs, bounds = get_probability_map(all_game_df)
+    bounds, probs = get_probability_map(all_game_df)
     d = {
         "probs": probs,
         "bounds": bounds
     }
+    os.makedirs('model_results', exist_ok=True)
     with open('model_results/probs_and_bounds.json', 'w') as fout:
         fout.write(json.dumps(d, indent=4, sort_keys=True))
 

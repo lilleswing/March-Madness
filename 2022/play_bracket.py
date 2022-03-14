@@ -56,7 +56,7 @@ def play_tourney(bracket, probs):
     return [top_32, top_16, top_8, top_4, top_2, top_1]
 
 
-def main(bracket_file, prob_file):
+def create_probability_table(bracket_file, prob_file):
     year = re.match(".*(\d\d\d\d)\.json", bracket_file).groups(0)[0]
 
     bracket = json.loads(open(bracket_file).read())
@@ -84,4 +84,4 @@ def main(bracket_file, prob_file):
 
 
 if __name__ == "__main__":
-    main(sys.argv[1], sys.argv[2])
+    create_probability_table(sys.argv[1], sys.argv[2])
