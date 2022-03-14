@@ -19,6 +19,7 @@ def template_bracket(top64, first_four_winners):
             top64[i] = d[top64[i]]
     return top64
 
+
 def play_round(teams, probs):
     results = []
     for i in range(0, len(teams), 2):
@@ -36,6 +37,21 @@ def play_round(teams, probs):
             results.append(t2)
         else:
             results.append(t1)
+    return results
+
+
+def play_round_deterministic(teams, lookup):
+    results = []
+    for i in range(0, len(teams), 2):
+        t1, t2 = teams[i], teams[i + 1]
+        key = f"{t1}:{t2}"
+        if key not in lookup:
+            raise ValueError(f"{key} not in lookup")
+        points = lookup[key]
+        if points > 0:
+            results.append(t1)
+        else:
+            results.append(t2)
     return results
 
 
@@ -83,5 +99,38 @@ def create_probability_table(bracket_file, prob_file):
     df.to_csv(f"model_results/round_probabilities_{year}.csv", index=None)
 
 
+def create_expected_value(bracket_file):
+    year = re.match(".*(\d\d\d\d)\.json", bracket_file).groups(0)[0]
+    points_file = f'model_results/results_{year}.json'
+    lookup = json.loads(open(points_file).read())
+    bracket = json.loads(open(bracket_file).read())
+
+    first_four = bracket['first_four']
+    if len(first_four) > 0:
+        first_four_winners = play_round_deterministic(first_four, lookup)
+        top_64 = template_bracket(bracket['tourney'], first_four_winners)
+    else:
+        top_64 = bracket['tourney']
+
+    top_32 = play_round_deterministic(top_64, lookup)
+    top_16 = play_round_deterministic(top_32, lookup)
+    top_8 = play_round_deterministic(top_16, lookup)
+    top_4 = play_round_deterministic(top_8, lookup)
+    top_2 = play_round_deterministic(top_4, lookup)
+    top_1 = play_round_deterministic(top_2, lookup)
+
+    results = {
+        "Top32": top_32,
+        "Top16": top_16,
+        "Top8": top_8,
+        "Top4": top_4,
+        "Top2": top_2,
+        "Top1": top_1
+    }
+    with open(f'model_results/{year}_expected.json', 'w') as fout:
+        fout.write(json.dumps(results, indent=4))
+
+
 if __name__ == "__main__":
     create_probability_table(sys.argv[1], sys.argv[2])
+    create_expected_value(sys.argv[1])
