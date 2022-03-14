@@ -1,4 +1,5 @@
 import json
+import re
 from collections import defaultdict
 import random
 import sys
@@ -56,11 +57,13 @@ def play_tourney(bracket, probs):
 
 
 def main(bracket_file, prob_file):
+    year = re.match(".*(\d\d\d\d)\.json", bracket_file).groups(0)[0]
+
     bracket = json.loads(open(bracket_file).read())
     probs = json.loads(open(prob_file).read())
 
     counters = [defaultdict(int) for x in range(6)]
-    num_samples = 100
+    num_samples = 100_000
     for i in range(num_samples):
         results = play_tourney(bracket, probs)
         for r, c in zip(results, counters):
@@ -77,7 +80,7 @@ def main(bracket_file, prob_file):
 
     df = pd.DataFrame(table, columns=["Team Name", "Top32", "Top16", "Top8", "Top4", "Top2", "Top1"])
     df = df.sort_values(["Top1", "Top2", "Top4", "Top8", "Top16", "Top32"], ascending=False)
-    df.to_csv("round_probabilities.csv", index=None)
+    df.to_csv(f"model_results/round_probabilities_{year}.csv", index=None)
 
 
 if __name__ == "__main__":
