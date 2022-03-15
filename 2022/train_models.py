@@ -50,14 +50,13 @@ def eval_model_closure():
         my_params['layers'] = [extra_params['hidden_size_1']]
         if my_params['num_layers'] == 2:
             my_params['layers'].append(extra_params['hidden_size_2'])
+        my_params['fp_size'] = 0
 
         for i, fold in enumerate(folds):
-            params['fp_size'] = 0
-
             train, valid = fold
-            params['num_features'] = train.X.shape[1]
+            my_params['num_features'] = train.X.shape[1]
             model_path = 'models/%s/%s' % (model_key, i)
-            d = DenseModel(model_path, mode='regression', parameters=params)
+            d = DenseModel(model_path, mode='regression', parameters=my_params)
             d.fit(train, extra_params['epochs'], extra_params['batch_size'])
             d.save()
 
