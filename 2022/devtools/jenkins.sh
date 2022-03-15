@@ -18,6 +18,6 @@ ssh boltio 'mkdir -p /nfs/working/deep_learn/leswing/madness/models/${BUILD_NUMB
 scp -r models boltio:/nfs/working/deep_learn/leswing/madness/models/${BUILD_NUMBER}
 scp -r model_results boltio:/nfs/working/deep_learn/leswing/madness/models/${BUILD_NUMBER}
 
-echo "DATASET_VERSION=${DATA_VERSION}" > params.in
+echo "DATA_VERSION=${DATA_VERSION}" > params.in
 echo "NUMBER_OF_MODELS=${NUMBER_OF_MODELS}" >> params.in
 scp params.in boltio:/nfs/working/deep_learn/leswing/madness/models/${BUILD_NUMBER}
