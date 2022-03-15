@@ -25,5 +25,4 @@ clean:  ## Clean up and removing virtualenv
 	rm -fr model_results
 	rm transformers.pkl
 	rm team_fvs.json
-	rm round_probabilities.csv
 
