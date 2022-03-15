@@ -66,10 +66,11 @@ def eval_model_closure():
             vals.append(r2_score(valid.y, np.squeeze(y_pred)))
         print(f"finished training {global_number_of_models[0]}")
         global_number_of_models[0] += 1
+        v1, v2 = np.mean(vals), np.std(vals)
         value = _t_test_90(np.mean(vals), np.std(vals))
         with open('models/results.txt', 'a') as fout:
-            fout.write(f"{model_key},{value}\n")
-        return _t_test_90(np.mean(vals), np.std(vals))
+            fout.write(f"{model_key},{v1},{v2},{value}\n")
+        return value
 
     return eval_model
 
