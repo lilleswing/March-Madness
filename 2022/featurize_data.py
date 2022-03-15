@@ -70,8 +70,8 @@ def test_get_feature_vector():
     true_val = [126.4, 89.9, 14.4, 14.4, 18.0, 61.0, 47.7, 16.1, 19.3, 30.1, 23.8, 35.7, 25.7, 36.8, 32.7, 63.9, 47.0,
                 73.1, 70.3, 6.8, 6.9, 8.2, 10.6, 33.2, 33.7, 55.6, 45.5, 24.7, 29.2, 57.6, 54.9, 17.6, 15.9, 96.8, 96.8,
                 1.97, 78.1, 2021.0]
-    html_str = open('raw_data/Gonzaga&y=2021.html').read()
-    fv = get_feature_vector(html_str, 'Gonzaga&y=2021.html')
+    html_str = open('raw_data/Gonzaga&y=2022.html').read()
+    fv = get_feature_vector(html_str, 'Gonzaga&y=2022.html')
     for tv, pv, kw in zip(true_val, fv, keywords):
         print(kw)
         assert tv == pv

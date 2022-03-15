@@ -1,3 +1,5 @@
+import os
+
 from ax.service.managed_loop import optimize
 from ligand_ml.data import NumpyDataset
 import uuid
@@ -70,6 +72,7 @@ def eval_model_closure():
 
 
 def run_training():
+    num_models = os.environ.get("NUMBER_OF_MODELS", 250)
     best_parameters, values, experiment, model = optimize(
         parameters=[
             {"name": "hidden_size_1", "type": "range", "bounds": [32, 256]},
@@ -83,7 +86,7 @@ def run_training():
         evaluation_function=eval_model_closure(),
         objective_name='r2_score',
         minimize=False,
-        total_trials=250
+        total_trials=num_models
     )
     with open('models/best_params.json', 'w') as fout:
         fout.write(json.dumps(best_parameters))
