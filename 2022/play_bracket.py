@@ -131,6 +131,77 @@ def create_expected_value(bracket_file):
         fout.write(json.dumps(results, indent=4))
 
 
+def play_round_set(teams):
+    results = []
+    for i in range(0, len(teams), 2):
+        t1 = list(teams[i])
+        t2 = list(teams[i + 1])
+        all_teams = set(t1 + t2)
+        results.append(all_teams)
+    return results
+
+
+def to_set(s):
+    if isinstance(s, str):
+        return set([s])
+    return s
+
+
+def get_most_probable_winner(team_list, team_set):
+    for t in team_list:
+        if t in team_set:
+            return t
+
+
+def update_rounds_with_pick(rounds, pick):
+    for i in range(len(rounds)):
+        for j in range(len(rounds[i])):
+            if pick in rounds[i][j]:
+                rounds[i][j] = set([pick])
+
+
+def convert_round_sets_to_str(rounds):
+    for i in range(len(rounds)):
+        for j in range(len(rounds[i])):
+            rounds[i][j] = list(rounds[i][j])[0]
+
+
+def make_greedy_probabiliy_bracket(bracket_file):
+    year = re.match(".*(\d\d\d\d)\.json", bracket_file).groups(0)[0]
+    df = pd.read_csv(f"model_results/round_probabilities_{year}.csv")
+    bracket = json.loads(open("brackets/bracket_2022.json").read())
+    bracket['first_four'] = [set([x]) for x in bracket['first_four']]
+    first_four = play_round(bracket['first_four'])
+    top64 = template_bracket(bracket['tourney'], first_four)
+    top64 = [to_set(x) for x in top64]
+
+    teams_left = list(top64)
+    rounds = []
+    while len(teams_left) > 1:
+        teams_left = play_round_set(teams_left)
+        rounds.append(teams_left)
+
+    pick_order = []
+    for i in range(len(rounds)):
+        for j in range(len(rounds[i])):
+            pick_order.append((i, j))
+    pick_order = pick_order[::-1]
+
+    prob_column_order = ['Top32', 'Top16', 'Top8', 'Top4', 'Top2', 'Top1']
+    for round_pick, game_pick in pick_order:
+        my_df = df.sort_values(prob_column_order[round_pick], ascending=False)
+        my_winner = get_most_probable_winner(my_df['Team Name'], rounds[round_pick][game_pick])
+        update_rounds_with_pick(rounds, my_winner)
+    convert_round_sets_to_str(rounds)
+    d = {}
+    for k, v in zip(prob_column_order, rounds):
+        d[k] = v
+
+    with open(f'model_results/greedy_prob_{year}.json', 'w') as fout:
+        fout.write(json.dumps(d, indent=4))
+
+
 if __name__ == "__main__":
     create_probability_table(sys.argv[1], sys.argv[2])
     create_expected_value(sys.argv[1])
+    make_greedy_probabiliy_bracket(sys.argv[1])
