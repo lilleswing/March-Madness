@@ -5,6 +5,7 @@ team_fvs.json
 transformers.pkl
 datasets
 raw_data
+raw_data2
 
 .ipynb_checkpoints
 models
