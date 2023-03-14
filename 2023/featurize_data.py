@@ -168,7 +168,7 @@ def main():
         team_fvs[feature_key] = (feature_store[feature_key], win_store[feature_key])
 
     with open("team_fvs.json", 'w') as fout:
-        s = json.dumps(win_store, indent=4, sort_keys=True)
+        s = json.dumps(team_fvs, indent=4, sort_keys=True)
         fout.write(s)
 
     create_full_dataset(team_fvs)
