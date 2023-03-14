@@ -1,4 +1,9 @@
+import re
+import shutil
+import unicodedata
+
 import os
+import pandas as pd
 import pickle
 import json
 import re
@@ -9,101 +14,64 @@ from ligand_ml.data.splitters import k_fold
 
 import numpy as np
 
-keywords = [
-    'RankAdjOE',
-    'RankAdjDE',
-    'RankAdjTempo',
-    'RankAPL_Off',
-    'RankAPL_Def',
-    'RankeFG_Pct',
-    'RankDeFG_Pct',
-    'RankTO_Pct',
-    'RankDTO_Pct',
-    'RankOR_Pct',
-    'RankDOR_Pct',
-    'RankFT_Rate',
-    'RankDFT_Rate',
-    'RankDFT_Rate',
-    'RankFG3Pct',
-    'RankFG3Pct.*&od=d',
-    'RankFG2Pct',
-    'RankFG2Pct.*&od=d',
-    'RankFTPct',
-    'RankFTPct.*&od=d',
-    'RankBlockPct',
-    'RankBlockPct.*&od=d',
-    'RankStlRate',
-    'RankStlRate.*&od=d',
-    'RankF3GRate',
-    'RankF3GRate.*&od=d',
-    'RankARate',
-    'RankARate.*&od=d',
-    'RankOff_3',
-    'RankDef_3',
-    'RankOff_2',
-    'RankDef_2',
-    'RankOff_1',
-    'RankDef_1',
-    'RankSOSO',
-    'RankSOSD',
-    'ExpRank',
-    'SizeRank',
+feature_names = [
+    '3P%', '3P%.Rank', '2P%', '2P%.Rank', 'FT%',
+    'FT%.Rank', 'Blk%', 'Blk%.Rank', 'Stl%', 'Stl%.Rank', 'A%', 'A%.Rank',
+    '3PA%', '3PA%.Rank', 'AdjOE_x', 'AdjOE.Rank_x', 'AdjTempo',
+    'AdjTempo.Rank', 'AdjOE_y', 'AdjOE.Rank_y', 'Off-eFG%', 'Off-eFG%.Rank',
+    'Off-TO%', 'Off-TO%.Rank', 'Off-OR%', 'Off-OR%.Rank', 'Off-FTRate',
+    'Off-FTRate.Rank', 'AdjDE', 'AdjDE.Rank', 'Def-eFG%', 'Def-eFG%.Rank',
+    'Def-TO%', 'Def-TO%.Rank', 'Def-OR%', 'Def-OR%.Rank', 'Def-FTRate',
+    'Def-FTRate.Rank', 'Tempo-Adj', 'Tempo-Adj.Rank', 'Tempo-Raw',
+    'Tempo-Raw.Rank', 'Avg. Poss Length-Offense',
+    'Avg. Poss Length-Offense.Rank', 'Avg. Poss Length-Defense',
+    'Avg. Poss Length-Defense.Rank', 'Off. Efficiency-Adj',
+    'Off. Efficiency-Adj.Rank', 'Off. Efficiency-Raw',
+    'Off. Efficiency-Raw.Rank', 'Def. Efficiency-Adj',
+    'Def. Efficiency-Adj.Rank', 'Def. Efficiency-Raw',
+    'Def. Efficiency-Raw.Rank'
 ]
 
 
-def get_feature_vector(html_str, fname):
-    fv = []
-    for keyword in keywords:
-        try:
-            pattern = '%s[^o]*">(\d+\.\d+)' % keyword
-            val = re.findall(pattern, html_str)[-1]
-            fv.append(float(val))
-        except Exception as e:
-            print(fname, keyword)
-            print(e)
-            raise e
-    year = re.findall(".*=(\d+).*", fname)[0]
-    return fv + [float(year)]
+def slugify(value, allow_unicode=False):
+    """
+    Taken from https://github.com/django/django/blob/master/django/utils/text.py
+    Convert to ASCII if 'allow_unicode' is False. Convert spaces or repeated
+    dashes to single dashes. Remove characters that aren't alphanumerics,
+    underscores, or hyphens. Convert to lowercase. Also strip leading and
+    trailing whitespace, dashes, and underscores.
+    """
+    value = str(value)
+    if allow_unicode:
+        value = unicodedata.normalize('NFKC', value)
+    else:
+        value = unicodedata.normalize('NFKD',
+                                      value).encode('ascii',
+                                                    'ignore').decode('ascii')
+    value = re.sub(r'[^\w\s-]', '', value.lower())
+    return re.sub(r'[-\s]+', '-', value).strip('-_')
 
 
-def test_get_feature_vector():
-    true_val = [126.4, 89.9, 14.4, 14.4, 18.0, 61.0, 47.7, 16.1, 19.3, 30.1, 23.8, 35.7, 25.7, 36.8, 32.7, 63.9, 47.0,
-                73.1, 70.3, 6.8, 6.9, 8.2, 10.6, 33.2, 33.7, 55.6, 45.5, 24.7, 29.2, 57.6, 54.9, 17.6, 15.9, 96.8, 96.8,
-                1.97, 78.1, 2021.0]
-    html_str = open('raw_data/Gonzaga&y=2022.html').read()
-    fv = get_feature_vector(html_str, 'Gonzaga&y=2022.html')
-    for tv, pv, kw in zip(true_val, fv, keywords):
-        print(kw)
-        assert tv == pv
-
-
-def score_to_diff(s, neg=False):
-    s = [float(x) for x in s.split('-')]
-    v = abs(s[0] - s[1])
-    if neg:
-        return -1 * v
-    return v
-
-
-def get_wins_losses(html_str):
-    pat = 'team.php.*?=(.*?)".*>W<.* (\d+-\d+).*\n'
-    wins = re.findall(pat, html_str)
-    wins = [(x[0], score_to_diff(x[1])) for x in wins]
-
-    pat = 'team.php.*?=(.*?)".*>L<.* (\d+-\d+).*\n'
-    losses = re.findall(pat, html_str)
-    losses = [(x[0], score_to_diff(x[1], True)) for x in losses]
-    # Only return wins and then data augment after doing splits
-    return wins
-
-
-def parse_html_file(html_str, fname):
+def parse_win_losses(df, year):
     """
     return feature_vector, list of (oppenent, +- score)
     """
-    fv = get_feature_vector(html_str, fname)
-    wl = get_wins_losses(html_str)
-    return fv, wl
+    # fv = get_feature_vector(html_str, fname)
+
+    opps = df['Opponent Name']
+    results = df['Result']
+    wl = []
+    for opp, result in zip(opps, results):
+        opp = slugify(opp) + f"_{year}"
+        m = re.match("(.), (\d+)-(\d+)", result)
+        if m is None:
+            continue
+        is_win, p1, p2 = m.groups()
+        delta = abs(int(p1) - int(p2))
+        if is_win == 'L':  # Only do wins then do data augmentation
+            continue
+        wl.append((opp, delta))
+    return wl
 
 
 def to_numpy(ds):
@@ -117,9 +85,6 @@ def create_full_dataset(d):
         my_fv = v[0]
         oppenents = v[1]
         for opp in oppenents:
-            if opp[0].find("&y") == -1:
-                opp_name = opp[0] + "&y=2022"
-                opp = (opp_name, opp[1])
             if opp[0] not in d:
                 print(opp[0])
                 continue
@@ -165,24 +130,48 @@ def create_transformers(ds):
 
 
 def main():
-    html_files = os.listdir('raw_data')
+    win_loss_files = os.listdir('raw_data2')
 
-    d = {}
-    for html_file in html_files:
-        html_str = open('raw_data/%s' % html_file).read()
-        if len(html_str) == 0:
+    win_store = {}
+    for win_loss_file in win_loss_files:
+        if win_loss_file.startswith("team_fvs"):
             continue
-        team_name = html_file[:-5]
+        if not win_loss_file.endswith(".csv"):
+            continue
+        df = pd.read_csv(f"raw_data2/{win_loss_file}")
+        year = re.match(".*(20\d\d).*", win_loss_file).group(1)
+        team_name = win_loss_file[:-4]
         try:
-            d[team_name] = parse_html_file(html_str, html_file)
+            win_store[team_name] = parse_win_losses(df, year)
         except Exception as e:
-            print(f"Unable to parse {team_name}")
+            print(f"Unable to parse win_loss for {team_name}")
+
+    feature_store = {}
+    for feature_file in win_loss_files:
+        if not feature_file.startswith("team_fvs"):
+            continue
+        if not feature_file.endswith(".csv"):
+            continue
+        year = re.match(".*(20\d\d).*", feature_file).group(1)
+        df = pd.read_csv(f"raw_data2/{feature_file}")
+        features = df[feature_names].values
+        teams = df['Team'].values.tolist()
+        for i, team_name in enumerate(teams):
+            team_name = slugify(team_name) + f"_{year}"
+            team_feat = features[i, :].tolist()
+            feature_store[team_name] = [float(x) for x in team_feat]
+
+    team_fvs = {}
+    for feature_key in feature_store.keys():
+        if feature_key not in win_store.keys():
+            continue
+        team_fvs[feature_key] = (feature_store[feature_key], win_store[feature_key])
 
     with open("team_fvs.json", 'w') as fout:
-        s = json.dumps(d, indent=4, sort_keys=True)
+        s = json.dumps(win_store, indent=4, sort_keys=True)
         fout.write(s)
 
-    create_full_dataset(d)
+    create_full_dataset(team_fvs)
     ds = to_numpy(DiskDataset('datasets/combined'))
     transformers = create_transformers(ds)
 
@@ -206,6 +195,7 @@ def main():
         fname = 'datasets/full_folds/valid%s' % i
         DiskDataset.from_numpy(valid_ds.X, valid_ds.y, valid_ds.w, valid_ds.ids, data_dir=fname)
 
+    shutil.copy("default_hyper_params.json", "datasets/default_params.json")
 
 if __name__ == "__main__":
     main()

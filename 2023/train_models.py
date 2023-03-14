@@ -75,7 +75,7 @@ def eval_model_closure():
 
 
 def run_training():
-    num_models = int(os.environ.get("NUMBER_OF_MODELS", 250))
+    num_models = int(os.environ.get("NUMBER_OF_MODELS", 2))
     best_parameters, values, experiment, model = optimize(
         parameters=[
             {"name": "hidden_size_1", "type": "range", "bounds": [32, 256]},
