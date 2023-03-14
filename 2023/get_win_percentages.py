@@ -125,7 +125,7 @@ def play_year(year):
 
 
 def main():
-    for year in ["2016", "2017", "2018", "2019", "2020", "2021", "2022"]:
+    for year in ["2018", "2019", "2020", "2021", "2022", "2023"]:
         print(f"Playing {year}")
         play_year(year)
 
