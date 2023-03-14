@@ -13,7 +13,7 @@ def play_first_four(first_four, probs):
 
 def template_bracket(top64, first_four_winners):
     top64 = list(top64)
-    d = {f"t{i}": x for i, x in enumerate(first_four_winners)}
+    d = {f"_t{i}": x for i, x in enumerate(first_four_winners)}
     for i in range(len(top64)):
         if top64[i] in d:
             top64[i] = d[top64[i]]
@@ -166,12 +166,13 @@ def convert_round_sets_to_str(rounds):
             rounds[i][j] = list(rounds[i][j])[0]
 
 
-def make_greedy_probabiliy_bracket(bracket_file):
+def make_greedy_probabiliy_bracket(bracket_file, prob_file):
+    probs = json.loads(open(prob_file).read())
     year = re.match(".*(\d\d\d\d)\.json", bracket_file).groups(0)[0]
     df = pd.read_csv(f"model_results/round_probabilities_{year}.csv")
     bracket = json.loads(open("brackets/bracket_2022.json").read())
     bracket['first_four'] = [set([x]) for x in bracket['first_four']]
-    first_four = play_round(bracket['first_four'])
+    first_four = play_round(bracket['first_four'], probs)
     top64 = template_bracket(bracket['tourney'], first_four)
     top64 = [to_set(x) for x in top64]
 
