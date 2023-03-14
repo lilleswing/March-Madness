@@ -172,7 +172,7 @@ def make_greedy_probabiliy_bracket(bracket_file, prob_file):
     df = pd.read_csv(f"model_results/round_probabilities_{year}.csv")
     bracket = json.loads(open("brackets/bracket_2022.json").read())
     bracket['first_four'] = [set([x]) for x in bracket['first_four']]
-    first_four = play_round(bracket['first_four'], probs)
+    first_four = play_round(bracket['first_four'])
     top64 = template_bracket(bracket['tourney'], first_four)
     top64 = [to_set(x) for x in top64]
 
@@ -205,4 +205,4 @@ def make_greedy_probabiliy_bracket(bracket_file, prob_file):
 if __name__ == "__main__":
     create_probability_table(sys.argv[1], sys.argv[2])
     create_expected_value(sys.argv[1])
-    make_greedy_probabiliy_bracket(sys.argv[1])
+    #make_greedy_probabiliy_bracket(sys.argv[1])
