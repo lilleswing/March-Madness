@@ -327,8 +327,8 @@ def create_big_dataset():
             'std_y': std_y
         }, indent=4))
 
-    whitened_X = (aug_ds.X - u_x) / (std_x + 1e-8)
-    whitened_y = (aug_ds.y - u_y) / (std_y + 1e-8)
+    whitened_X = (ds.X - u_x) / (std_x + 1e-8)
+    whitened_y = (ds.y - u_y) / (std_y + 1e-8)
     whitened_ds = NumpyDataset(whitened_X, whitened_y)
     whitened_ds.save("datasets/big_whitened")
 
