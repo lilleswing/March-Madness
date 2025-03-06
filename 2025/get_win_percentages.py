@@ -1,4 +1,5 @@
 import hashlib
+import re
 import os
 import numpy as np
 import json
@@ -113,9 +114,18 @@ def play_year(year):
     with open(f'model_results/results_probs_{year}.json', 'w') as fout:
         fout.write(json.dumps(my_prob_predictions, indent=4, sort_keys=True))
 
+def get_available_years():
+    fnames = os.listdir('raw_data')
+    fnames = [x for x in fnames if x.endswith('json')]
+    years = set()
+    for fname in fnames:
+        year = re.match(".*(\d\d\d\d)_.*", fname).groups(0)[0]
+        years.add(year)
+    return years
 
 def main():
-    for year in ['2024']:
+    years = get_available_years()
+    for year in years:
         print(f"Playing {year}")
         play_year(year)
 
