@@ -1,0 +1,7 @@
+run-all:
+	python grab_raw_data.py
+	python featurize_data.py
+	python train_models.py
+	python calibrate.py
+	python get_win_percentages.py
+	python play_bracket.py brackets/bracket_2024.json model_results/results_probs_2024.json
