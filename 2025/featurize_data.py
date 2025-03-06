@@ -215,6 +215,29 @@ def to_team_fv(html_content):
         retval.extend(v)
     return [float(x) for x in retval]
 
+def check_for_broken_html_files():
+    raw_files = os.listdir('raw_data')
+    fv_lengths = -1
+    broken_files = []
+    for fname in raw_files:
+        if not fname.endswith('.html'):
+            continue
+        out_fname = f'raw_data/{fname[:-5]}.json'
+        if os.path.exists(out_fname):
+            continue
+        path = f'raw_data/{fname}'
+        with open(path, 'r') as fin:
+            html_content = fin.read()
+        fv = to_team_fv(html_content)
+        if fv_lengths == -1:
+            fv_lengths = len(fv)
+        if len(fv) != fv_lengths:
+            print("Error: FV lengths do not match")
+            print(fv_lengths, len(fv))
+            broken_files.append(fname)
+    if len(broken_files) > 0:
+        print(f"Broken files: {broken_files}")
+        raise ValueError()
 
 def create_team_json_files():
     """
@@ -332,9 +355,8 @@ def fold_dataset():
         test_ds.save(f"datasets/fold_{i}_test")
 
 
-
-
 def main():
+    check_for_broken_html_files()
     create_team_json_files()
     create_big_dataset()
     fold_dataset()
