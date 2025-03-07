@@ -5,6 +5,7 @@ import sys
 import unicodedata
 
 import numpy as np
+import pandas as pd
 from bs4 import BeautifulSoup
 
 fieldnames = [
@@ -207,12 +208,17 @@ def extract_values(html_content, pattern):
             retval.extend(m.groups())
     return retval
 
-
+fv_labels = []
 def to_team_fv(html_content):
     retval = []
-    for r in regexes:
+    labels = []
+    for name, r in zip(fieldnames, regexes):
         v = extract_values(html_content, r)
+        column_names = [f"{name}_{x}" for x in range(len(v))]
+        labels.extend(column_names)
         retval.extend(v)
+    if len(fv_labels) == 0:
+        fv_labels.extend(labels)
     return [float(x) for x in retval]
 
 def check_for_broken_html_files():
@@ -360,12 +366,33 @@ def fold_dataset():
         train_ds.save(f"datasets/fold_{i}_train")
         test_ds.save(f"datasets/fold_{i}_test")
 
+def create_metadata():
+    """
+    create teams.json which is just all the json files in one file as a list
+    create teams.csv which is all the team fvs as a csv file
+    :return:
+    """
+    if os.path.exists('datasets/teams.json'):
+        return
+    team_files = os.listdir('raw_data')
+    team_files = [x for x in team_files if x.endswith('.json')]
+    teams = []
+    for team_file in team_files:
+        with open(f'raw_data/{team_file}', 'r') as fin:
+            d = json.load(fin)
+            teams.append(d)
+    with open('datasets/teams.json', 'w') as fout:
+        fout.write(json.dumps(teams, indent=4, sort_keys=True))
+
+    df = pd.DataFrame([[x['team']] + x['fv'] for x in teams], columns=['team_name'] + fv_labels)
+    df.to_csv('datasets/teams.csv', index=False)
 
 def main():
     check_for_broken_html_files()
     create_team_json_files()
     create_big_dataset()
     fold_dataset()
+    create_metadata()
 
 
 if __name__ == "__main__":

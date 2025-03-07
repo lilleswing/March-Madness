@@ -1,4 +1,5 @@
 import hashlib
+import pandas as pd
 import re
 import os
 import numpy as np
@@ -8,19 +9,11 @@ from featurize_data import NumpyDataset
 
 
 def get_team_fvs(year):
-    fnames = os.listdir('raw_data')
-    fnames = [x for x in fnames if x.endswith('json')]
-    X = []
-    team_names = []
-    for fname in fnames:
-        if fname.find(year) == -1:
-            continue
-        path = os.path.join('raw_data', fname)
-        with open(path, 'r') as fin:
-            d = json.loads(fin.read())
-        X.append(d['fv'])
-        team_names.append(d['team'])
-    X = np.array(X)
+    df = pd.read_csv('datasets/teams.csv')
+    df = df[[x.find(year) != -1 for x in df['team_name']]]
+    team_names = df['team_name']
+    df = df.drop(columns=['team_name'])
+    X = np.array(df.values)
     transformers = load_transformers()
     u_x = transformers['u_x'][:X.shape[1]]
     std_x = transformers['std_x'][:X.shape[1]]
@@ -119,13 +112,17 @@ def get_available_years():
     fnames = [x for x in fnames if x.endswith('json')]
     years = set()
     for fname in fnames:
-        year = re.match(".*(\d\d\d\d)_.*", fname).groups(0)[0]
+        m = re.match(".*(\d\d\d\d).*", fname)
+        if m is None:
+            continue
+        year = m.groups(0)[0]
         years.add(year)
     return years
 
 def main():
     years = get_available_years()
     for year in years:
+        print(year)
         print(f"Playing {year}")
         play_year(year)
 

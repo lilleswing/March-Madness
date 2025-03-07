@@ -1,5 +1,7 @@
-run-all:
+grab-data:
 	python grab_raw_data.py
+
+run-all:
 	python featurize_data.py
 	python train_models.py
 	python calibrate.py

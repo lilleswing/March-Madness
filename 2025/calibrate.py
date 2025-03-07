@@ -27,29 +27,6 @@ def make_predictions(ds, fold, model_key):
     return preds
 
 
-def convert_to_games(predictions, year):
-    fvs, team_names = get_team_fvs(year)
-    games = []
-    for i, t1 in enumerate(team_names):
-        for j, t2 in enumerate(team_names):
-            if j <= i:
-                continue
-            games.append((t1, t2))
-
-    results = {}
-    index = 0
-    while index < len(predictions):
-        v1, v2 = predictions[index], predictions[index + 1]
-        v2 *= -1
-        average = (v1 + v2) / 2
-
-        t1, t2 = games[index // 2]
-        results[f"{t1}:{t2}"] = average
-        results[f"{t2}:{t1}"] = average * -1
-        index += 2
-    return results
-
-
 def get_fold_df(fold, model_key):
     transformers = load_transformers()
     ds = NumpyDataset.load(f'datasets/fold_{fold}_test.npz')
@@ -101,7 +78,6 @@ def main():
         best_params = json.loads(fin.read())
     model_key = hashlib.md5(str(best_params).encode('utf-8')).hexdigest()
     all_game_df = get_all_games(model_key)
-    all_game_df.to_csv("all_game_df.csv", index=False)
     bounds, probs = get_probability_map(all_game_df)
     d = {
         "probs": probs,
