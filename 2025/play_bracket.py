@@ -1,4 +1,5 @@
 import json
+import os
 import re
 from collections import defaultdict
 import random
@@ -202,7 +203,27 @@ def make_greedy_probabiliy_bracket(bracket_file, prob_file):
         fout.write(json.dumps(d, indent=4))
 
 
+def find_years():
+    brackets = os.listdir('brackets')
+    years = []
+    for bracket in brackets:
+        m = re.match(r".*(\d{4}).*", bracket)
+        if m is None:
+            continue
+        year = m.group(1)
+        years.append(year)
+    return years
+
+
+def main():
+    years = find_years()
+    for year in years:
+        bracket_file = f"brackets/bracket_{year}.json"
+        prob_file = f"model_results/results_probs_{year}.json"
+        create_probability_table(bracket_file, prob_file)
+        create_expected_value(bracket_file)
+
+
 if __name__ == "__main__":
-    create_probability_table(sys.argv[1], sys.argv[2])
-    create_expected_value(sys.argv[1])
-    #make_greedy_probabiliy_bracket(sys.argv[1])
+    main()
+    # make_greedy_probabiliy_bracket(sys.argv[1])
