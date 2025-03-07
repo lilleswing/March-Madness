@@ -216,6 +216,8 @@ def to_team_fv(html_content):
     return [float(x) for x in retval]
 
 def check_for_broken_html_files():
+    if os.path.exists('datasets/big.npz'):
+        return
     raw_files = os.listdir('raw_data')
     fv_lengths = -1
     broken_files = []
@@ -286,6 +288,8 @@ def augment_ds(ds):
     return NumpyDataset(new_X, new_y)
 
 def create_big_dataset():
+    if os.path.exists('datasets/big.npz'):
+        return
     team_files = os.listdir('raw_data')
     team_files = [x for x in team_files if x.endswith('.json')]
     team_fvs = {}
@@ -338,6 +342,8 @@ def fold_dataset():
     run 5 fold cross validation save datasets as fold_{x}_train, fold_{x}_test
     :return:
     """
+    if os.path.exists('datasets/fold_0_train.npz'):
+        return
     ds = NumpyDataset.load("datasets/big_whitened")
     n_samples = len(ds)
     indices = np.arange(n_samples)
