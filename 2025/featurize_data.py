@@ -261,7 +261,7 @@ def create_team_json_files():
         out_fname = f'raw_data/{fname[:-5]}.json'
         if os.path.exists(out_fname):
             continue
-        year = re.match(".*(\d\d\d\d).*", fname).group(1)
+        year = re.match(r".*(\d{4}).*", fname).group(1)
         path = f'raw_data/{fname}'
         with open(path, 'r') as fin:
             html_content = fin.read()
