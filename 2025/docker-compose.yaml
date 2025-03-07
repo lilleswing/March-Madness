@@ -1,0 +1,19 @@
+services:
+  app:
+    build:
+      context: ./
+      dockerfile: Dockerfile
+    working_dir: /app
+    user: "1000:1000"
+    volumes:
+      - .:/app
+    command: "make run-all"
+    environment:
+      NUMBER_OF_MODELS: 10
+    deploy:
+      resources:
+        reservations:
+          devices:
+            - driver: nvidia
+              count: 1
+              capabilities: [ gpu ]

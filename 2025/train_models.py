@@ -1,10 +1,8 @@
 from featurize_data import NumpyDataset
-import uuid
 import json
 import hashlib
-import pickle
 
-from sklearn.metrics import r2_score, mean_squared_error
+from sklearn.metrics import r2_score
 from ax.service.managed_loop import optimize
 
 import torch
@@ -61,8 +59,11 @@ class NeuralNetworkModel:
         Returns:
             list: Training losses
         """
-        X_tensor = torch.FloatTensor(X)
-        y_tensor = torch.FloatTensor(y.reshape(-1, self.output_dim))
+        device = torch.device("cuda" if torch.cuda.is_available() else "cpu")
+        self.model.to(device)
+        self.criterion.to(device)
+        X_tensor = torch.FloatTensor(X).to(device)
+        y_tensor = torch.FloatTensor(y.reshape(-1, self.output_dim)).to(device)
 
         dataset = torch.utils.data.TensorDataset(X_tensor, y_tensor)
         dataloader = torch.utils.data.DataLoader(dataset, batch_size=batch_size, shuffle=True)
@@ -101,11 +102,13 @@ class NeuralNetworkModel:
         Returns:
             numpy.ndarray: Predicted values
         """
+        device = torch.device("cuda" if torch.cuda.is_available() else "cpu")
+        self.model.to(device)
         self.model.eval()
-        X_tensor = torch.FloatTensor(X)
+        X_tensor = torch.FloatTensor(X).to(device)
         with torch.no_grad():
             predictions = self.model(X_tensor)
-        return predictions.numpy()
+        return predictions.cpu().numpy()
 
     def save(self, path):
         """
@@ -140,7 +143,7 @@ class NeuralNetworkModel:
         if not os.path.exists(path):
             raise FileNotFoundError(f"No model found at {path}")
 
-        state = torch.load(path)
+        state = torch.load(path, map_location=torch.device('cpu'))
 
         # Create a new model instance with the saved parameters
         model = NeuralNetworkModel(
@@ -154,6 +157,9 @@ class NeuralNetworkModel:
         # Load the model and optimizer states
         model.model.load_state_dict(state['model_state_dict'])
         model.optimizer.load_state_dict(state['optimizer_state_dict'])
+
+        device = torch.device("cuda" if torch.cuda.is_available() else "cpu")
+        model.model.to(device)
 
         print(f"Model loaded from {path}")
         return model
@@ -179,6 +185,7 @@ global_number_of_models = [0]
 
 def eval_model_closure():
     def eval_model(extra_params):
+        print(extra_params)
         model_key = hashlib.md5(str(extra_params).encode('utf-8')).hexdigest()
         learning_rate = extra_params['lr_initial']
         epochs = extra_params['epochs']
