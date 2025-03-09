@@ -98,6 +98,7 @@ def create_probability_table(bracket_file, prob_file):
     df = pd.DataFrame(table, columns=["Team Name", "Top32", "Top16", "Top8", "Top4", "Top2", "Top1"])
     df = df.sort_values(["Top1", "Top2", "Top4", "Top8", "Top16", "Top32"], ascending=False)
     df.to_csv(f"model_results/round_probabilities_{year}.csv", index=False)
+    df.to_html(f"model_results/round_probabilities_{year}.html", index=False)
 
 
 def create_expected_value(bracket_file):
