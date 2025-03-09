@@ -7,12 +7,12 @@ import time
 
 
 cookies = {
-    'PHPSESSID': '',
-    'kenpomuser': '',
-    'kenpomid': '',
-    '__stripe_mid': '',
-    '__stripe_sid': '',
-    'kenpomtry': '',
+    'PHPSESSID': os.environ.get('PHPSESSID', ''),
+    'kenpomuser': os.environ.get('KENPOMUSER', ''),
+    'kenpomid': os.environ.get('KENPOMID', ''),
+    '__stripe_mid': os.environ.get('STRIPE_MID', ''),
+    '__stripe_sid': os.environ.get('STRIPE_SID', ''),
+    'kenpomtry': os.environ.get('KENPOMTRY', ''),
 }
 
 headers = {

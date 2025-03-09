@@ -8,8 +8,8 @@ services:
     volumes:
       - .:/app
     command: "make run-all"
-    environment:
-      NUMBER_OF_MODELS: 10
+    env_file:
+      - .env
     deploy:
       resources:
         reservations:
