@@ -1,3 +1,5 @@
+.PHONY: grab-data train-models run-all clean
+
 grab-data:
 	python grab_raw_data.py
 
