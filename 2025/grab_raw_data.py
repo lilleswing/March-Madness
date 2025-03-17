@@ -31,9 +31,7 @@ headers = {
     'Cache-Control': 'no-cache'
 }
 
-# YEARS = [2025]
-
-YEARS = [2017, 2018, 2019, 2020, 2021, 2022, 2023, 2024]
+YEARS = [2017, 2018, 2019, 2020, 2021, 2022, 2023, 2024, 2025]
 
 from urllib.parse import urlparse, parse_qs, unquote
 
