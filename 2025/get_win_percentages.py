@@ -1,11 +1,18 @@
-import hashlib
 import pandas as pd
 import re
 import os
 import numpy as np
 import json
-from calibrate import load_transformers, make_predictions
+from calibrate import load_transformers, make_predictions, get_best_params
 from featurize_data import NumpyDataset
+from functools import lru_cache
+
+@lru_cache(maxsize=10)
+def get_injuries(year):
+    if not os.path.exists(f'brackets/injury_{year}.json'):
+        return {}
+    with open(f'brackets/injury_{year}.json', 'r') as fin:
+        return json.loads(fin.read())
 
 
 def get_team_fvs(year):
@@ -55,7 +62,7 @@ def convert_to_games(predictions, year):
             if j <= i:
                 continue
             games.append((t1, t2))
-
+    injuries = get_injuries(year)
     results = {}
     index = 0
     while index < len(predictions):
@@ -64,8 +71,17 @@ def convert_to_games(predictions, year):
         average = (v1 + v2) / 2
 
         t1, t2 = games[index // 2]
-        results[f"{t1}:{t2}"] = float(average)
-        results[f"{t2}:{t1}"] = float(average * -1)
+
+        res1 = float(average)
+        res2 = float(average * -1)
+        if t1 in injuries:
+            res1 += injuries[t1]
+            res2 -= injuries[t1]
+        if t2 in injuries:
+            res1 -= injuries[t2]
+            res2 += injuries[t2]
+        results[f"{t1}:{t2}"] = res1
+        results[f"{t2}:{t1}"] = res2
         index += 2
     return results
 
@@ -90,9 +106,7 @@ def prob_predictions(predictions):
 
 
 def play_year(year):
-    with open('models/best_params.json', 'r') as fin:
-        best_params = json.loads(fin.read())
-    model_key = hashlib.md5(str(best_params).encode('utf-8')).hexdigest()
+    model_key = get_best_params()
 
     ds = create_dataset(year)
     predictions = make_prediction_all_folds(ds, model_key)

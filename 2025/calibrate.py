@@ -7,7 +7,6 @@ import pickle
 import json
 from featurize_data import NumpyDataset
 
-
 from train_models import NeuralNetworkModel
 
 
@@ -63,7 +62,7 @@ def get_probability_map(df):
 
         my_df['has_won'] = my_df['y_true'] > 0
 
-        print(bounds[i-1], bounds[i])
+        print(bounds[i - 1], bounds[i])
         # is_wrong = len(my_df) - sum(my_df['is_correct'])
         if len(my_df) == 0:
             print(f"No Values for {bounds[i]}")
@@ -73,10 +72,16 @@ def get_probability_map(df):
     return bounds, probs
 
 
+def get_best_params(fname='models/results.txt'):
+    df = pd.read_csv(fname, header=None)
+    sorting_column = df.columns[-1]
+    df = df.sort_values(sorting_column, ascending=False)
+    key_column = df.columns[0]
+    return df.iloc[0][key_column]
+
+
 def main():
-    with open('models/best_params.json', 'r') as fin:
-        best_params = json.loads(fin.read())
-    model_key = hashlib.md5(str(best_params).encode('utf-8')).hexdigest()
+    model_key = get_best_params()
     all_game_df = get_all_games(model_key)
     bounds, probs = get_probability_map(all_game_df)
     d = {
