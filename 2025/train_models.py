@@ -223,11 +223,11 @@ def run_training():
     num_models = int(os.environ.get("NUMBER_OF_MODELS", 2))
     best_parameters, values, experiment, model = optimize(
         parameters=[
-            {"name": "hidden_size_1", "type": "range", "bounds": [32, 1000]},
-            {"name": "hidden_size_2", "type": "range", "bounds": [32, 1000]},
+            {"name": "hidden_size_1", "type": "range", "bounds": [32, 2000]},
+            {"name": "hidden_size_2", "type": "range", "bounds": [32, 2000]},
             {"name": "num_layers", "type": "choice", "values": [1, 2]},
             {"name": "dropout", "type": "range", "bounds": [0.0, 0.95]},
-            {"name": "epochs", "type": "range", "bounds": [10, 400]},
+            {"name": "epochs", "type": "range", "bounds": [10, 800]},
             {"name": "batch_size", "type": "range", "bounds": [32, 256]},
             {"name": "lr_initial", "type": "range", "bounds": [0.00001, 0.01]},
         ],
